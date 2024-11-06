@@ -1,0 +1,174 @@
+Lhasa = net.addSwitch('s1', cls=OVSKernelSwitch, dpid='0000000000000001')
+Lanzhou = net.addSwitch('s2', cls=OVSKernelSwitch, dpid='0000000000000002')
+Kashi = net.addSwitch('s3', cls=OVSKernelSwitch, dpid='0000000000000003')
+Shiquanhe = net.addSwitch('s4', cls=OVSKernelSwitch, dpid='0000000000000004')
+Jinan = net.addSwitch('s5', cls=OVSKernelSwitch, dpid='0000000000000005')
+Qingdao = net.addSwitch('s6', cls=OVSKernelSwitch, dpid='0000000000000006')
+Taiyuan = net.addSwitch('s7', cls=OVSKernelSwitch, dpid='0000000000000007')
+Shilazhuang = net.addSwitch('s8', cls=OVSKernelSwitch, dpid='0000000000000008')
+Shanghai = net.addSwitch('s9', cls=OVSKernelSwitch, dpid='0000000000000009')
+Suzhou = net.addSwitch('s10', cls=OVSKernelSwitch, dpid='0000000000000010')
+InternationalLink1 = net.addSwitch('s11', cls=OVSKernelSwitch, dpid='0000000000000011')
+InternationalLink2 = net.addSwitch('s12', cls=OVSKernelSwitch, dpid='0000000000000012')
+Nanning = net.addSwitch('s13', cls=OVSKernelSwitch, dpid='0000000000000013')
+Changsha = net.addSwitch('s14', cls=OVSKernelSwitch, dpid='0000000000000014')
+Guiyang = net.addSwitch('s15', cls=OVSKernelSwitch, dpid='0000000000000015')
+Chongqing = net.addSwitch('s16', cls=OVSKernelSwitch, dpid='0000000000000016')
+Chengdu = net.addSwitch('s17', cls=OVSKernelSwitch, dpid='0000000000000017')
+Kunming = net.addSwitch('s18', cls=OVSKernelSwitch, dpid='0000000000000018')
+Xian = net.addSwitch('s19', cls=OVSKernelSwitch, dpid='0000000000000019')
+Zhengzhou = net.addSwitch('s20', cls=OVSKernelSwitch, dpid='0000000000000020')
+InternationalLink4 = net.addSwitch('s21', cls=OVSKernelSwitch, dpid='0000000000000021')
+InternationalLink3 = net.addSwitch('s22', cls=OVSKernelSwitch, dpid='0000000000000022')
+Haikou = net.addSwitch('s23', cls=OVSKernelSwitch, dpid='0000000000000023')
+HongKong = net.addSwitch('s24', cls=OVSKernelSwitch, dpid='0000000000000024')
+Hangzhou = net.addSwitch('s25', cls=OVSKernelSwitch, dpid='0000000000000025')
+Wuhan = net.addSwitch('s26', cls=OVSKernelSwitch, dpid='0000000000000026')
+Hefei = net.addSwitch('s27', cls=OVSKernelSwitch, dpid='0000000000000027')
+Nanjing = net.addSwitch('s28', cls=OVSKernelSwitch, dpid='0000000000000028')
+Guangzhou = net.addSwitch('s29', cls=OVSKernelSwitch, dpid='0000000000000029')
+Xiamen = net.addSwitch('s30', cls=OVSKernelSwitch, dpid='0000000000000030')
+Fuzhou = net.addSwitch('s31', cls=OVSKernelSwitch, dpid='0000000000000031')
+Nandhang = net.addSwitch('s32', cls=OVSKernelSwitch, dpid='0000000000000032')
+Xining = net.addSwitch('s33', cls=OVSKernelSwitch, dpid='0000000000000033')
+Urumqi = net.addSwitch('s34', cls=OVSKernelSwitch, dpid='0000000000000034')
+Harbin = net.addSwitch('s35', cls=OVSKernelSwitch, dpid='0000000000000035')
+Changchun = net.addSwitch('s36', cls=OVSKernelSwitch, dpid='0000000000000036')
+Shenyang = net.addSwitch('s37', cls=OVSKernelSwitch, dpid='0000000000000037')
+Dalian = net.addSwitch('s38', cls=OVSKernelSwitch, dpid='0000000000000038')
+Tianjin = net.addSwitch('s39', cls=OVSKernelSwitch, dpid='0000000000000039')
+Beijing = net.addSwitch('s40', cls=OVSKernelSwitch, dpid='0000000000000040')
+Hohhot = net.addSwitch('s41', cls=OVSKernelSwitch, dpid='0000000000000041')
+Yinchuan = net.addSwitch('s42', cls=OVSKernelSwitch, dpid='0000000000000042')
+CityLink1 = {'bw':128.0, 'delay':'6.3577ms'}
+net.addLink(Lhasa, Chengdu, cls=TCLink, **CityLink1)
+CityLink2 = {'bw':128.0, 'delay':'5.5765ms'}
+net.addLink(Lhasa, Shiquanhe, cls=TCLink, **CityLink2)
+CityLink3 = {'bw':128.0, 'delay':'13.0311ms'}
+net.addLink(Lhasa, Beijing, cls=TCLink, **CityLink3)
+CityLink4 = {'bw':128.0, 'delay':'2.5809ms'}
+net.addLink(Lanzhou, Xian, cls=TCLink, **CityLink4)
+CityLink5 = {'bw':128.0, 'delay':'6.0144ms'}
+net.addLink(Lanzhou, Beijing, cls=TCLink, **CityLink5)
+CityLink6 = {'bw':128.0, 'delay':'5.475ms'}
+net.addLink(Kashi, Urumqi, cls=TCLink, **CityLink6)
+CityLink7 = {'bw':128.0, 'delay':'3.7195ms'}
+net.addLink(Jinan, Shanghai, cls=TCLink, **CityLink7)
+CityLink8 = {'bw':128.0, 'delay':'2.2364ms'}
+net.addLink(Qingdao, Tianjin, cls=TCLink, **CityLink8)
+CityLink9 = {'bw':128.0, 'delay':'2.6293ms'}
+net.addLink(Taiyuan, Xian, cls=TCLink, **CityLink9)
+CityLink10 = {'bw':128.0, 'delay':'2.0428ms'}
+net.addLink(Taiyuan, Beijing, cls=TCLink, **CityLink10)
+CityLink11 = {'bw':128.0, 'delay':'1.3499ms'}
+net.addLink(Shilazhuang, Beijing, cls=TCLink, **CityLink11)
+CityLink12 = {'bw':128.0, 'delay':'4.8911ms'}
+net.addLink(Shanghai, Tianjin, cls=TCLink, **CityLink12)
+CityLink13 = {'bw':128.0, 'delay':'5.4287ms'}
+net.addLink(Shanghai, Beijing, cls=TCLink, **CityLink13)
+CityLink14 = {'bw':128.0, 'delay':'0.4088ms'}
+net.addLink(Shanghai, Suzhou, cls=TCLink, **CityLink14)
+CityLink15 = {'bw':128.0, 'delay':'0.4088ms'}
+net.addLink(Shanghai, InternationalLink2, cls=TCLink, **CityLink15)
+CityLink16 = {'bw':128.0, 'delay':'8.4258ms'}
+net.addLink(Shanghai, Chengdu, cls=TCLink, **CityLink16)
+CityLink17 = {'bw':128.0, 'delay':'6.1926ms'}
+net.addLink(Shanghai, Xian, cls=TCLink, **CityLink17)
+CityLink18 = {'bw':128.0, 'delay':'10.1803ms'}
+net.addLink(Shanghai, HongKong, cls=TCLink, **CityLink18)
+CityLink19 = {'bw':128.0, 'delay':'0.831ms'}
+net.addLink(Shanghai, Hangzhou, cls=TCLink, **CityLink19)
+CityLink20 = {'bw':128.0, 'delay':'3.5048ms'}
+net.addLink(Shanghai, Wuhan, cls=TCLink, **CityLink20)
+CityLink21 = {'bw':128.0, 'delay':'2.044ms'}
+net.addLink(Shanghai, Hefei, cls=TCLink, **CityLink21)
+CityLink22 = {'bw':128.0, 'delay':'1.3738ms'}
+net.addLink(Shanghai, Nanjing, cls=TCLink, **CityLink22)
+CityLink23 = {'bw':128.0, 'delay':'6.1602ms'}
+net.addLink(Shanghai, Guangzhou, cls=TCLink, **CityLink23)
+CityLink24 = {'bw':128.0, 'delay':'3.0828ms'}
+net.addLink(Shanghai, Nandhang, cls=TCLink, **CityLink24)
+CityLink25 = {'bw':128.0, 'delay':'0.9812ms'}
+net.addLink(Suzhou, Nanjing, cls=TCLink, **CityLink25)
+CityLink26 = {'bw':128.0, 'delay':'5.2284ms'}
+net.addLink(InternationalLink1, Beijing, cls=TCLink, **CityLink26)
+CityLink27 = {'bw':128.0, 'delay':'2.5722ms'}
+net.addLink(Nanning, Guangzhou, cls=TCLink, **CityLink27)
+CityLink28 = {'bw':128.0, 'delay':'1.4911ms'}
+net.addLink(Changsha, Wuhan, cls=TCLink, **CityLink28)
+CityLink29 = {'bw':128.0, 'delay':'2.6552ms'}
+net.addLink(Guiyang, Chengdu, cls=TCLink, **CityLink29)
+CityLink30 = {'bw':128.0, 'delay':'3.8797ms'}
+net.addLink(Guiyang, Guangzhou, cls=TCLink, **CityLink30)
+CityLink31 = {'bw':128.0, 'delay':'1.3659ms'}
+net.addLink(Chongqing, Chengdu, cls=TCLink, **CityLink31)
+CityLink32 = {'bw':128.0, 'delay':'4.9746ms'}
+net.addLink(Chongqing, Guangzhou, cls=TCLink, **CityLink32)
+CityLink33 = {'bw':128.0, 'delay':'7.1361ms'}
+net.addLink(Chengdu, Nanjing, cls=TCLink, **CityLink33)
+CityLink34 = {'bw':128.0, 'delay':'6.2894ms'}
+net.addLink(Chengdu, Guangzhou, cls=TCLink, **CityLink34)
+CityLink35 = {'bw':128.0, 'delay':'5.5392ms'}
+net.addLink(Kunming, Guangzhou, cls=TCLink, **CityLink35)
+CityLink36 = {'bw':128.0, 'delay':'3.5552ms'}
+net.addLink(Xian, Xining, cls=TCLink, **CityLink36)
+CityLink37 = {'bw':128.0, 'delay':'10.7636ms'}
+net.addLink(Xian, Urumqi, cls=TCLink, **CityLink37)
+CityLink38 = {'bw':128.0, 'delay':'2.6678ms'}
+net.addLink(Xian, Yinchuan, cls=TCLink, **CityLink38)
+CityLink39 = {'bw':128.0, 'delay':'4.6362ms'}
+net.addLink(Xian, Beijing, cls=TCLink, **CityLink39)
+CityLink40 = {'bw':128.0, 'delay':'3.8979ms'}
+net.addLink(Xian, Hohhot, cls=TCLink, **CityLink40)
+CityLink41 = {'bw':128.0, 'delay':'3.2847ms'}
+net.addLink(Xian, Wuhan, cls=TCLink, **CityLink41)
+CityLink42 = {'bw':128.0, 'delay':'4.8194ms'}
+net.addLink(Xian, Nanjing, cls=TCLink, **CityLink42)
+CityLink43 = {'bw':128.0, 'delay':'6.6482ms'}
+net.addLink(Xian, Guangzhou, cls=TCLink, **CityLink43)
+CityLink44 = {'bw':128.0, 'delay':'3.1607ms'}
+net.addLink(Zhengzhou, Beijing, cls=TCLink, **CityLink44)
+CityLink45 = {'bw':128.0, 'delay':'6.7785ms'}
+net.addLink(InternationalLink4, HongKong, cls=TCLink, **CityLink45)
+CityLink46 = {'bw':128.0, 'delay':'6.581ms'}
+net.addLink(InternationalLink3, Guangzhou, cls=TCLink, **CityLink46)
+CityLink47 = {'bw':128.0, 'delay':'6.2814ms'}
+net.addLink(Haikou, Wuhan, cls=TCLink, **CityLink47)
+CityLink48 = {'bw':128.0, 'delay':'2.3121ms'}
+net.addLink(Haikou, Guangzhou, cls=TCLink, **CityLink48)
+CityLink49 = {'bw':128.0, 'delay':'7.5465ms'}
+net.addLink(HongKong, Guangzhou, cls=TCLink, **CityLink49)
+CityLink50 = {'bw':128.0, 'delay':'9.1697ms'}
+net.addLink(HongKong, Beijing, cls=TCLink, **CityLink50)
+CityLink51 = {'bw':128.0, 'delay':'5.3593ms'}
+net.addLink(Wuhan, Beijing, cls=TCLink, **CityLink51)
+CityLink52 = {'bw':128.0, 'delay':'2.3321ms'}
+net.addLink(Wuhan, Nanjing, cls=TCLink, **CityLink52)
+CityLink53 = {'bw':128.0, 'delay':'4.5646ms'}
+net.addLink(Nanjing, Beijing, cls=TCLink, **CityLink53)
+CityLink54 = {'bw':128.0, 'delay':'3.4006ms'}
+net.addLink(Nanjing, Fuzhou, cls=TCLink, **CityLink54)
+CityLink55 = {'bw':128.0, 'delay':'9.25ms'}
+net.addLink(Guangzhou, Tianjin, cls=TCLink, **CityLink55)
+CityLink56 = {'bw':128.0, 'delay':'9.6066ms'}
+net.addLink(Guangzhou, Beijing, cls=TCLink, **CityLink56)
+CityLink57 = {'bw':128.0, 'delay':'2.6141ms'}
+net.addLink(Guangzhou, Xiamen, cls=TCLink, **CityLink57)
+CityLink58 = {'bw':128.0, 'delay':'6.7435ms'}
+net.addLink(Xining, Beijing, cls=TCLink, **CityLink58)
+CityLink59 = {'bw':128.0, 'delay':'12.2609ms'}
+net.addLink(Urumqi, Beijing, cls=TCLink, **CityLink59)
+CityLink60 = {'bw':128.0, 'delay':'5.3735ms'}
+net.addLink(Harbin, Beijing, cls=TCLink, **CityLink60)
+CityLink61 = {'bw':128.0, 'delay':'4.3706ms'}
+net.addLink(Changchun, Beijing, cls=TCLink, **CityLink61)
+CityLink62 = {'bw':128.0, 'delay':'3.1891ms'}
+net.addLink(Shenyang, Beijing, cls=TCLink, **CityLink62)
+CityLink63 = {'bw':128.0, 'delay':'1.9469ms'}
+net.addLink(Dalian, Tianjin, cls=TCLink, **CityLink63)
+CityLink64 = {'bw':128.0, 'delay':'0.5499ms'}
+net.addLink(Tianjin, Beijing, cls=TCLink, **CityLink64)
+CityLink65 = {'bw':128.0, 'delay':'2.1056ms'}
+net.addLink(Beijing, Hohhot, cls=TCLink, **CityLink65)
+CityLink66 = {'bw':128.0, 'delay':'4.5055ms'}
+net.addLink(Beijing, Yinchuan, cls=TCLink, **CityLink66)

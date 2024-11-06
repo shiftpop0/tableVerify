@@ -1,0 +1,8301 @@
+
+
+
+
+ClearPrintTools
+
+ threats per page
+Filter
+7199e895
+r2d2
+1
+medium
+11th 12:52:02
+11th 12:52:02
+1.0.0.1 AU	53 (dns)	2.200.110.97 DE	38810	UDP	DNS	.redacted.com	excessive no such domain (suspicious)	(heuristic)
+0c4b24af
+r2d2
+1
+medium
+11th 08:19:32
+11th 08:19:32
+2.200.97.1 DE	59265	70.32.1.32 US	80 (http)	TCP	IP	70.32.1.32 (www.pohrani.com)	parking site (suspicious)	(static)
+13a7d0cd
+r2d2
+1
+medium
+11th 10:34:49
+11th 10:34:49
+2.200.97.1 DE	59091	8.8.8.8 US	53 (dns)	UDP	DNS	(web).jimdo.com	free web hosting (suspicious)	(static)
+2f171921
+r2d2
+1
+medium
+11th 12:55:05
+11th 12:55:05
+2.200.97.1 DE	54770	103.224.182.251 AU	443 (https)	TCP	IP	103.224.182.251	parking site (suspicious)	(static)
+3c8e1b48
+r2d2
+1
+medium
+11th 10:51:36
+11th 10:51:36
+2.200.97.1 DE	53153	8.8.4.4 US	53 (dns)	UDP	DNS	(tremblingkeyboardassistant).com	long domain (suspicious)	(heuristic)
+57072e59
+r2d2
+1
+medium
+11th 10:14:26
+11th 10:14:26
+2.200.97.1 DE	52832	8.8.8.8 US	53 (dns)	UDP	DNS	freegeoip.app	ipinfo (suspicious)	(static)
+593ff6e7
+r2d2
+1
+medium
+11th 11:02:24
+11th 11:02:24
+2.200.97.1 DE	59019	8.8.8.8 US	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+5bc48a42
+r2d2
+1
+medium
+11th 09:02:51
+11th 09:02:51
+2.200.97.1 DE	56626	185.53.177.10 DE	443 (https)	TCP	IP	185.53.177.10	parking site (suspicious)	(static)
+711fbba9
+r2d2
+1
+medium
+11th 10:17:41
+11th 10:17:41
+2.200.97.1 DE	52682	8.8.8.8 US	53 (dns)	UDP	DNS	ip-api.com	ipinfo (suspicious)	(static)
+a32f658a
+r2d2
+1
+medium
+11th 10:29:45
+11th 10:29:45
+2.200.97.1 DE	59001	8.8.8.8 US	53 (dns)	UDP	DNS	distributiontomatoes.com	pushbug (malicious)	(static)
+dbacca8f
+r2d2
+1
+medium
+11th 07:55:12
+11th 07:55:12
+2.200.97.1 DE	58903	8.8.8.8 US	53 (dns)	UDP	DNS	(api).ipify.org	ipinfo (suspicious)	(static)
+de7fb9de
+r2d2
+1
+medium
+11th 11:38:01
+11th 11:38:01
+2.200.97.1 DE	58996	8.8.8.8 US	53 (dns)	UDP	DNS	graizoah.com	ek router (malicious)	(static)
+f42cec6d
+r2d2
+1
+medium
+11th 12:55:12
+11th 12:55:12
+2.200.97.1 DE	53579	8.8.8.8 US	53 (dns)	UDP	DNS	(d.rips).icu	domain (suspicious)	(static)
+1d0ac4f6
+r2d2
+2
+medium
+11th 08:49:00
+11th 08:49:00
+2.200.97.1 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(wpfc).ml	domain (suspicious)	(static)
+35242b5c
+r2d2
+2
+medium
+11th 10:59:25
+11th 10:59:34
+2.200.97.1 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.news-back.com	pushbug (malicious)	(static)
+4e2a62bd
+r2d2
+2
+medium
+11th 09:21:17
+11th 09:21:17
+2.200.97.1 DE		8.8.8.8 US	53 (dns)	UDP	DNS	extreme-ip-lookup.com	ipinfo (suspicious)	(static)
+b3590d80
+r2d2
+2
+medium
+11th 10:53:08
+11th 11:47:56
+2.200.97.1 DE			53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+eb09f65b
+r2d2
+2
+medium
+11th 08:38:26
+11th 08:38:26
+2.200.97.1 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(search).conduit.com	pua (suspicious)	(static)
+eb6fbed4
+r2d2
+2
+medium
+11th 12:56:54
+11th 12:57:39
+2.200.97.1 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.anvato.net	long domain (suspicious)	(heuristic)
+faad882e
+r2d2
+2
+medium
+11th 07:16:32
+11th 07:16:32
+2.200.97.1 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.dyndns.org	dynamic domain (suspicious)	(static)
+0f001043
+r2d2
+3
+medium
+11th 09:29:35
+11th 12:49:09
+2.200.97.1 DE		8.8.8.8 US	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+10501331
+r2d2
+3
+medium
+11th 11:01:09
+11th 11:06:16
+2.200.97.1 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.coderformylife.info	pushbug (malicious)	(static)
+8cb43306
+r2d2
+3
+medium
+11th 09:41:48
+11th 10:37:15
+2.200.97.1 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.cc	domain (suspicious)	(static)
+b7430424
+r2d2
+3
+medium
+11th 10:29:21
+11th 10:59:12
+2.200.97.1 DE			53 (dns)	UDP	DNS	pushwelcome.com	pushbug (malicious)	(static)
+17804ac5
+r2d2
+5
+medium
+11th 09:12:26
+11th 10:58:20
+2.200.97.1 DE			53 (dns)	UDP	DNS	onstunkyr.com	ek router (malicious)	(static)
+f9951c98
+r2d2
+5
+medium
+11th 09:26:54
+11th 11:55:50
+2.200.97.1 DE			53 (dns)	UDP	DNS	(hp).myway.com	pua (suspicious)	(static)
+bdaf7e38
+r2d2
+7
+medium
+11th 07:59:21
+11th 11:42:24
+2.200.97.1 DE			53 (dns)	UDP	DNS	.special-offers.online	pushbug (malicious)	(static)
+c883e6bc
+r2d2
+7
+medium
+11th 08:28:00
+11th 11:01:15
+2.200.97.1 DE			53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+6f261f25
+r2d2
+12
+high
+11th 08:05:44
+11th 12:57:43
+2.200.97.1 DE			53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+8186db1a
+r2d2
+13
+medium
+11th 00:12:40
+11th 12:43:07
+2.200.97.1 DE		8.8.8.8 US	53 (dns)	UDP	DNS	checkip.dyndns.com	ipinfo (suspicious)	(static)
+b0615f71
+r2d2
+56
+medium
+11th 00:17:40
+11th 12:58:07
+2.200.97.1 DE			53 (dns)	UDP	DNS	checkip.dyndns.org	ipinfo (suspicious)	(static)
+d02101F0
+r2d2
+146
+medium
+11th 00:03:16
+11th 12:57:06
+80 (http)	TCP	UA		user agent (suspicious)	(heuristic)
+b8e07334
+r2d2
+1
+medium
+11th 01:38:32
+11th 01:38:32
+2.200.97.3 DE	63063	185.21.170.49 NL	53 (dns)	UDP	DNS	(server.miwina).ga	domain (suspicious)	(static)
+aba15994
+r2d2
+2
+medium
+11th 06:27:04
+11th 06:27:04
+2.200.97.3 DE			53 (dns)	UDP	DNS	.vtiger.com	long domain (suspicious)	(heuristic)
+02dfbce9
+r2d2
+3
+medium
+11th 00:08:19
+11th 10:55:38
+2.200.97.3 DE			53 (dns)	UDP	DNS	.ml	domain (suspicious)	(static)
+18c486ea
+r2d2
+1
+medium
+11th 00:37:36
+11th 00:37:36
+2.200.97.4 DE	65336	192.203.230.10 US	53 (dns)	UDP	DNS	(sdk0.520.gdxox).ml	domain (suspicious)	(static)
+75ca438c
+r2d2
+1
+medium
+11th 01:38:33
+11th 01:38:33
+2.200.97.4 DE	53211	185.21.168.49 NL	53 (dns)	UDP	DNS	(server.miwina).ga	domain (suspicious)	(static)
+c376abd6
+r2d2
+1
+medium
+11th 12:37:32
+11th 12:37:32
+2.200.97.19 DE	8860	8.8.8.8 US	53 (dns)	UDP	DNS	(octopod).cc	domain (suspicious)	(static)
+c635eb62
+r2d2
+1
+medium
+11th 10:27:52
+11th 10:27:52
+2.200.97.19 DE	57872	8.8.8.8 US	53 (dns)	UDP	DNS	juronu.com	pua (suspicious)	(static)
+1cd1880c
+r2d2
+2
+medium
+11th 08:33:57
+11th 08:34:04
+2.200.97.19 DE		198.11.136.14 US	80 (http)	TCP	HTTP	198.11.136.14	potential data leakage (suspicious)	(heuristic)
+3bf78b89
+r2d2
+2
+medium
+11th 10:58:25
+11th 10:58:25
+2.200.97.19 DE	63613	199.59.242.155 US	80 (http)	TCP	IP	199.59.242.155 (tracking.bodis.com)	parking site (suspicious)	(static)
+87564432
+r2d2
+2
+medium
+11th 08:34:05
+11th 08:34:07
+2.200.97.19 DE		47.88.68.33 US	80 (http)	TCP	HTTP	47.88.68.33	potential data leakage (suspicious)	(heuristic)
+a1294005
+r2d2
+2
+medium
+11th 08:24:12
+11th 08:24:13
+2.200.97.19 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(vardson-progenes).icu	domain (suspicious)	(static)
+0ddc9980
+r2d2
+3
+medium
+11th 07:55:38
+11th 11:58:29
+2.200.97.19 DE			53 (dns)	UDP	DNS	(cdn).special-offers.online	pushbug (malicious)	(static)
+1d8f1f5c
+r2d2
+3
+medium
+11th 10:23:34
+11th 11:06:57
+2.200.97.19 DE		198.11.136.14 US	80 (http)	TCP	HTTP	amdc.aliexpress.com	potential data leakage (suspicious)	(heuristic)
+772a9e84
+r2d2
+3
+medium
+11th 10:56:50
+11th 10:58:15
+2.200.97.19 DE		199.59.242.153 US		TCP	IP	199.59.242.153 (www.parlel.com)	parking site (suspicious)	(static)
+8e27e2a6
+r2d2
+3
+medium
+11th 07:37:47
+11th 09:33:06
+2.200.97.19 DE		198.11.136.38 US	80 (http)	TCP	HTTP	198.11.136.38	potential data leakage (suspicious)	(heuristic)
+81f5ac7c
+r2d2
+4
+medium
+11th 10:42:46
+11th 12:44:34
+2.200.97.19 DE		8.8.8.8 US	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+7cc8db89
+r2d2
+5
+medium
+11th 08:45:34
+11th 12:21:17
+2.200.97.19 DE		47.88.68.20 US	80 (http)	TCP	HTTP	47.88.68.20	potential data leakage (suspicious)	(heuristic)
+2a8a51bb
+r2d2
+2
+medium
+11th 07:54:59
+11th 07:54:59
+2.200.104.17 DE	49809	23.47.208.87 BR	80 (http)	TCP	UA	SA	user agent (suspicious)	(heuristic)
+edcb1e78
+r2d2
+2
+medium
+11th 11:39:28
+11th 11:39:29
+2.200.104.17 DE	61031	69.94.69.211 CZ	80 (http)	TCP	UA	undefined	user agent (suspicious)	(heuristic)
+6e1981bd
+r2d2
+1
+medium
+11th 08:55:22
+11th 08:55:22
+2.200.104.32 DE	33190	47.88.68.20 US	80 (http)	TCP	HTTP	47.88.68.20	potential data leakage (suspicious)	(heuristic)
+fa3455b8
+r2d2
+1
+medium
+11th 08:19:23
+11th 08:19:23
+2.200.104.32 DE	53227	161.53.160.100 HR	53 (dns)	UDP	DNS	wpad.ie	bad wpad (suspicious)	(static)
+0b63ef64
+r2d2
+2
+medium
+11th 09:57:22
+11th 11:47:32
+2.200.104.32 DE			53 (dns)	UDP	DNS	api.db-ip.com	ipinfo (suspicious)	(static)
+24e14a63
+r2d2
+2
+medium
+11th 09:56:30
+11th 09:56:31
+2.200.104.32 DE			53 (dns)	UDP	DNS	(pro).ip-api.com	ipinfo (suspicious)	(static)
+3e6d0c9a
+r2d2
+2
+medium
+11th 08:06:38
+11th 08:06:46
+2.200.104.32 DE			53 (dns)	UDP	DNS	(i.rmbl).ws	domain (suspicious)	(static)
+473c7b1b
+r2d2
+2
+medium
+11th 10:48:05
+11th 10:48:11
+2.200.104.32 DE			53 (dns)	UDP	DNS	ammankeyan.com	ek router (malicious)	(static)
+59bf42bf
+r2d2
+2
+medium
+11th 07:48:43
+11th 07:48:43
+2.200.104.32 DE	62583	65.9.20.29 US	80 (http)	TCP	UA	HTTPGET	user agent (suspicious)	(heuristic)
+b16fc1a3
+r2d2
+2
+medium
+11th 10:08:07
+11th 10:10:20
+2.200.104.32 DE		185.53.177.52 DE	443 (https)	TCP	IP	185.53.177.52	parking site (suspicious)	(static)
+b18ad7fa
+r2d2
+2
+medium
+11th 11:48:16
+11th 11:48:20
+2.200.104.32 DE			53 (dns)	UDP	DNS	(equited-basects).icu	domain (suspicious)	(static)
+d7d20b25
+r2d2
+2
+medium
+11th 12:58:58
+11th 12:58:58
+2.200.104.32 DE		199.59.242.142 US	53 (dns)	UDP	IP	199.59.242.142 	parking site (suspicious)	(static)
+e828ec91
+r2d2
+2
+medium
+11th 12:53:20
+11th 12:53:25
+2.200.104.32 DE		208.91.197.46 VG	53 (dns)	UDP	IP	208.91.197.46 (www.cityhotelmn.com)	parking site (suspicious)	(static)
+32667edb
+r2d2
+3
+medium
+11th 07:50:37
+11th 07:51:41
+2.200.104.32 DE			53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+769244d9
+r2d2
+3
+medium
+11th 08:55:10
+11th 09:03:45
+2.200.104.32 DE		198.11.136.14 US	80 (http)	TCP	HTTP	amdc.aliexpress.com	potential data leakage (suspicious)	(heuristic)
+1436e433
+r2d2
+4
+medium
+11th 11:06:45
+11th 12:18:38
+2.200.104.32 DE		198.11.136.14 US	80 (http)	TCP	HTTP	198.11.136.14	potential data leakage (suspicious)	(heuristic)
+281652ca
+r2d2
+4
+medium
+11th 09:04:47
+11th 12:07:36
+2.200.104.32 DE			53 (dns)	UDP	DNS	.anvato.net	long domain (suspicious)	(heuristic)
+2c986275
+r2d2
+4
+medium
+11th 09:07:09
+11th 10:35:13
+2.200.104.32 DE			53 (dns)	UDP	DNS	ifcfg.me	ipinfo (suspicious)	(static)
+5ea2bf45
+r2d2
+4
+medium
+11th 09:55:32
+11th 12:25:10
+2.200.104.32 DE		198.11.136.38 US	80 (http)	TCP	HTTP	198.11.136.38	potential data leakage (suspicious)	(heuristic)
+f90a9114
+r2d2
+4
+medium
+11th 10:20:57
+11th 12:20:58
+2.200.104.32 DE			53 (dns)	UDP	DNS	juronu.com	pua (suspicious)	(static)
+0b09f76a
+r2d2
+7
+high
+11th 08:15:18
+11th 12:29:20
+2.200.104.32 DE			53 (dns)	UDP	DNS	mynamedomain.koko	patchbrowse (malware)	(static)
+784420e7
+r2d2
+7
+medium
+11th 10:02:39
+11th 12:46:08
+2.200.104.32 DE		47.88.68.33 US	80 (http)	TCP	HTTP	47.88.68.33	potential data leakage (suspicious)	(heuristic)
+f45516da
+r2d2
+7
+medium
+11th 07:56:07
+11th 12:52:02
+2.200.104.32 DE			53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+2aaffbd9
+r2d2
+8
+medium
+11th 09:07:10
+11th 12:44:03
+2.200.104.32 DE			53 (dns)	UDP	DNS	.cc	domain (suspicious)	(static)
+c1352aa2
+r2d2
+8
+high
+11th 09:01:55
+11th 12:25:35
+2.200.104.32 DE			53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+8bf10311
+r2d2
+10
+medium
+11th 07:42:41
+11th 12:37:41
+2.200.104.32 DE			53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+7194b5d4
+r2d2
+14
+medium
+11th 08:31:28
+11th 12:47:58
+2.200.104.32 DE			53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+13be502a
+r2d2
+18
+medium
+11th 07:48:41
+11th 12:47:15
+2.200.104.32 DE			53 (dns)	UDP	DNS	(cdn).special-offers.online	pushbug (malicious)	(static)
+00feb679
+r2d2
+1
+medium
+11th 08:50:30
+11th 08:50:30
+2.200.104.184 DE	65185	129.134.30.12 US	53 (dns)	UDP	DNS	.workplace.com	long domain (suspicious)	(heuristic)
+1ed50f66
+r2d2
+1
+medium
+11th 07:50:53
+11th 07:50:53
+2.200.104.184 DE	49592	112.106.239.110 KR	80 (http)	TCP	UA	Agent	user agent (suspicious)	(heuristic)
+2b230477
+r2d2
+1
+medium
+11th 09:39:39
+11th 09:39:39
+2.200.104.184 DE	49530	172.64.33.189 US	53 (dns)	UDP	DNS	(bombay-textile).webs.com	free web hosting (suspicious)	(static)
+2e889114
+r2d2
+1
+medium
+11th 08:24:07
+11th 08:24:07
+2.200.104.184 DE	62773	199.59.242.141 US	53 (dns)	UDP	IP	199.59.242.141 (ns1.bodis.com)	parking site (suspicious)	(static)
+4f0872ad
+r2d2
+1
+medium
+11th 09:22:10
+11th 09:22:10
+2.200.104.184 DE	49306	198.51.44.3 US	53 (dns)	UDP	DNS	(168.verticals.sv5).wix.com	free web hosting (suspicious)	(static)
+7066cdf3
+r2d2
+1
+medium
+11th 07:30:05
+11th 07:30:05
+2.200.104.184 DE	65211	208.76.58.1 US	53 (dns)	UDP	DNS	checkip.dyndns.org	ipinfo (suspicious)	(static)
+8efecd3f
+r2d2
+1
+medium
+11th 11:24:07
+11th 11:24:07
+2.200.104.184 DE	61492	208.91.196.46 VG	53 (dns)	UDP	IP	208.91.196.46 (www.searchvity.com)	parking site (suspicious)	(static)
+a28541da
+r2d2
+1
+medium
+11th 12:32:51
+11th 12:32:51
+2.200.104.184 DE	40530	47.88.68.20 US	80 (http)	TCP	HTTP	47.88.68.20	potential data leakage (suspicious)	(heuristic)
+a455a468
+r2d2
+1
+medium
+11th 12:20:54
+11th 12:20:54
+2.200.104.184 DE	65333	192.12.94.30 US	53 (dns)	UDP	DNS	(www).trust.com	domain (suspicious)	(static)
+a4c05df0
+r2d2
+1
+medium
+11th 11:16:03
+11th 11:16:03
+2.200.104.184 DE	64131	192.12.94.30 US	53 (dns)	UDP	DNS	.brightervisionsites16.com	long domain (suspicious)	(heuristic)
+a8b052b0
+r2d2
+1
+medium
+11th 09:32:56
+11th 09:32:56
+2.200.104.184 DE	61005	213.248.216.1 GB	53 (dns)	UDP	DNS	(orkneyislandsgooseshooting).co.uk	long domain (suspicious)	(heuristic)
+aa4d0480
+r2d2
+1
+medium
+11th 12:39:28
+11th 12:39:28
+2.200.104.184 DE	61918	172.64.32.127 US	53 (dns)	UDP	DNS	(www).onclickmega.com	pushbug (malicious)	(static)
+b2333895
+r2d2
+1
+medium
+11th 12:17:56
+11th 12:17:56
+2.200.104.184 DE	62351	200.33.111.1 MX	53 (dns)	UDP	DNS	(ma).tt	domain (suspicious)	(static)
+b7d9a05f
+r2d2
+1
+medium
+11th 12:26:52
+11th 12:26:52
+2.200.104.184 DE	33446	198.11.136.14 US	80 (http)	TCP	HTTP	amdc.aliexpress.com	potential data leakage (suspicious)	(heuristic)
+c755c7ef
+r2d2
+1
+medium
+11th 09:26:26
+11th 09:26:26
+2.200.104.184 DE	64832	95.100.173.64 NL	53 (dns)	UDP	DNS	(filevillemediaproductioncdn).yammer.com	long domain (suspicious)	(heuristic)
+cd502e86
+r2d2
+1
+medium
+11th 12:23:24
+11th 12:23:24
+2.200.104.184 DE	64798	192.12.94.30 US	53 (dns)	UDP	DNS	lowtyroguer.com	ek router (malicious)	(static)
+f36c9936
+r2d2
+1
+medium
+11th 11:29:54
+11th 11:29:54
+2.200.104.184 DE	64419	205.251.196.135 US	53 (dns)	UDP	DNS	(web).jimdo.com	free web hosting (suspicious)	(static)
+fa5f061c
+r2d2
+1
+high
+11th 09:54:47
+11th 09:54:47
+2.200.104.184 DE	61345	8.8.4.4 US	53 (dns)	UDP	DNS	differentia.ru	andromeda (malware)	(static)
+fe38c5c9
+r2d2
+1
+medium
+11th 11:07:38
+11th 11:07:38
+2.200.104.184 DE	64149	111.206.53.6 CN	53 (dns)	UDP	DNS	c.sayhi.360.cn	android pua (suspicious)	(static)
+00e38492
+r2d2
+2
+medium
+11th 11:12:19
+11th 11:12:19
+2.200.104.184 DE			53 (dns)	UDP	DNS	dns0.heteml.jp	phishing	malwaredomains.com
+0730dd78
+r2d2
+2
+medium
+11th 10:55:44
+11th 10:55:44
+2.200.104.184 DE			53 (dns)	UDP	DNS	(liveaction).org.ru	domain (suspicious)	(static)
+0e4fa30a
+r2d2
+2
+medium
+11th 12:24:47
+11th 12:24:47
+2.200.104.184 DE			53 (dns)	UDP	DNS	geoip-db.com	ipinfo (suspicious)	(static)
+14587a1e
+r2d2
+2
+medium
+11th 11:05:00
+11th 11:05:00
+2.200.104.184 DE			53 (dns)	UDP	DNS	(ipv4).icanhazip.com	ipinfo (suspicious)	(static)
+159daa5a
+r2d2
+2
+medium
+11th 11:12:38
+11th 11:14:09
+2.200.104.184 DE			53 (dns)	UDP	DNS	.com	long domain (suspicious)	(heuristic)
+20df41d2
+r2d2
+2
+medium
+11th 08:02:39
+11th 08:31:11
+2.200.104.184 DE			53 (dns)	UDP	DNS	inpagepush.com	pushbug (malicious)	(static)
+227870eb
+r2d2
+2
+medium
+11th 07:00:45
+11th 07:00:45
+2.200.104.184 DE			53 (dns)	UDP	DNS	(static).kqzyfj.com	pua (suspicious)	(static)
+293168a9
+r2d2
+2
+medium
+11th 09:42:26
+11th 12:24:42
+2.200.104.184 DE		97.74.103.14 US	53 (dns)	UDP	DNS	(api).ipify.org	ipinfo (suspicious)	(static)
+2b7be903
+r2d2
+2
+medium
+11th 12:08:56
+11th 12:08:56
+2.200.104.184 DE		199.59.242.142 US	53 (dns)	UDP	IP	199.59.242.142 (www.budi.in)	parking site (suspicious)	(static)
+2c28ecc0
+r2d2
+2
+medium
+11th 12:52:35
+11th 12:52:50
+2.200.104.184 DE	52749	198.54.117.199 US	443 (https)	TCP	IP	198.54.117.199	parking site (suspicious)	(static)
+2f1620f6
+r2d2
+2
+medium
+11th 09:50:10
+11th 09:50:10
+2.200.104.184 DE			53 (dns)	UDP	DNS	(putanjiga11).myddns.me	dynamic domain (suspicious)	(static)
+3d89e671
+r2d2
+2
+medium
+11th 07:06:15
+11th 07:06:15
+2.200.104.184 DE		192.12.94.30 US	53 (dns)	UDP	DNS	.aliyunwaf.com	long domain (suspicious)	(heuristic)
+40630cad
+r2d2
+2
+medium
+11th 08:34:31
+11th 08:34:31
+2.200.104.184 DE			53 (dns)	UDP	DNS	whatismyipaddress.com	ipinfo (suspicious)	(static)
+51746cd8
+r2d2
+2
+medium
+11th 10:06:41
+11th 10:06:46
+2.200.104.184 DE			53 (dns)	UDP	DNS	(zh).us.to	dynamic domain (suspicious)	(static)
+5778de79
+r2d2
+2
+medium
+11th 07:33:13
+11th 09:44:04
+2.200.104.184 DE			53 (dns)	UDP	DNS	myexternalip.com	ipinfo (suspicious)	(static)
+59e2b276
+r2d2
+2
+medium
+11th 10:47:16
+11th 10:47:16
+2.200.104.184 DE			53 (dns)	UDP	DNS	(bakermoorhead.cerpflorcircni).tk	domain (suspicious)	(static)
+617e9371
+r2d2
+2
+medium
+11th 12:52:36
+11th 12:52:51
+2.200.104.184 DE	52750	198.54.117.200 US	443 (https)	TCP	IP	198.54.117.200	parking site (suspicious)	(static)
+634a64fd
+r2d2
+2
+medium
+11th 09:54:09
+11th 09:54:09
+2.200.104.184 DE			53 (dns)	UDP	DNS	(ssl).geoplugin.net	ipinfo (suspicious)	(static)
+63671af1
+r2d2
+2
+high
+11th 09:54:16
+11th 09:54:17
+2.200.104.184 DE			53 (dns)	UDP	DNS	disorderstatus.ru	andromeda (malware)	(static)
+6ec1ee08
+r2d2
+2
+medium
+11th 07:19:41
+11th 12:40:34
+2.200.104.184 DE			53 (dns)	UDP	DNS	pushwelcome.com	pushbug (malicious)	(static)
+73ef22de
+r2d2
+2
+medium
+11th 08:07:56
+11th 08:07:56
+2.200.104.184 DE		52.0.217.44 US	80 (http)	TCP	IP	52.0.217.44 (parkcloud.dynadot.com)	parking site (suspicious)	(static)
+a179625e
+r2d2
+2
+medium
+11th 07:13:46
+11th 08:29:16
+2.200.104.184 DE		161.53.160.100 HR	53 (dns)	UDP	DNS	wpad.ie	bad wpad (suspicious)	(static)
+aa0ec2a6
+r2d2
+2
+medium
+11th 09:01:34
+11th 09:01:34
+2.200.104.184 DE			53 (dns)	UDP	DNS	us.xmlppcbuzz.com	pushbug (malicious)	(static)
+b8a1b95b
+r2d2
+2
+medium
+11th 08:03:25
+11th 08:03:26
+2.200.104.184 DE			53 (dns)	UDP	DNS	(lszup).dynu.net	dynamic domain (suspicious)	(static)
+bfeff7f5
+r2d2
+2
+medium
+11th 11:21:09
+11th 11:21:09
+2.200.104.184 DE			53 (dns)	UDP	DNS	ammankeyan.com	ek router (malicious)	(static)
+c196f31a
+r2d2
+2
+medium
+11th 12:39:27
+11th 12:39:27
+2.200.104.184 DE			53 (dns)	UDP	DNS	(www).hostingcloud.racing	bad script (malicious)	(static)
+c9bca0c3
+r2d2
+2
+medium
+11th 10:22:56
+11th 10:22:56
+2.200.104.184 DE			53 (dns)	UDP	DNS	(nova-ns.nordnet).ws	domain (suspicious)	(static)
+ed3e4303
+r2d2
+2
+medium
+11th 08:10:40
+11th 08:10:40
+2.200.104.184 DE			53 (dns)	UDP	DNS	(rt).webcompanion.com	pua (suspicious)	(static)
+0f5ab78c
+r2d2
+3
+medium
+11th 09:22:33
+11th 09:26:43
+2.200.104.184 DE			53 (dns)	UDP	DNS	.ipaddress.com	ipinfo (suspicious)	(static)
+14ab3f7d
+r2d2
+3
+medium
+11th 07:26:59
+11th 11:45:08
+2.200.104.184 DE			53 (dns)	UDP	DNS	(rep).securedsearch.xyz	pua (suspicious)	(static)
+48e67c4b
+r2d2
+3
+medium
+11th 08:10:37
+11th 08:47:51
+2.200.104.184 DE			53 (dns)	UDP	DNS	jafuq.com	pua (suspicious)	(static)
+4ca04a87
+r2d2
+3
+medium
+11th 07:58:45
+11th 12:56:06
+2.200.104.184 DE			53 (dns)	UDP	DNS	(redactedredactedredactedredacted).ie	long domain (suspicious)	(heuristic)
+4cf1837a
+r2d2
+3
+medium
+11th 09:26:20
+11th 09:27:22
+2.200.104.184 DE			53 (dns)	UDP	DNS	(max2-goskvz).hopto.org	dynamic domain (suspicious)	(static)
+62184602
+r2d2
+3
+medium
+11th 12:51:34
+11th 12:52:08
+2.200.104.184 DE		198.54.117.197 US	443 (https)	TCP	IP	198.54.117.197	parking site (suspicious)	(static)
+ba604c3f
+r2d2
+3
+medium
+11th 12:51:54
+11th 12:52:09
+2.200.104.184 DE	52737	198.54.117.198 US	443 (https)	TCP	IP	198.54.117.198	parking site (suspicious)	(static)
+bdfb3d9d
+r2d2
+3
+medium
+11th 07:23:11
+11th 11:53:47
+2.200.104.184 DE			53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+c3ae22ea
+r2d2
+3
+medium
+11th 09:09:35
+11th 09:51:38
+2.200.104.184 DE			80 (http)	TCP	UA	undefined	user agent (suspicious)	(heuristic)
+e4ac5278
+r2d2
+3
+medium
+11th 12:11:10
+11th 12:31:10
+2.200.104.184 DE			53 (dns)	UDP	DNS	freegeoip.net	ipinfo (suspicious)	(static)
+f01d09ed
+r2d2
+3
+medium
+11th 09:09:49
+11th 09:10:03
+2.200.104.184 DE			53 (dns)	UDP	DNS	.softonic.com	pua (suspicious)	(static)
+0d06cc9e
+r2d2
+4
+medium
+11th 08:19:33
+11th 12:24:42
+2.200.104.184 DE			53 (dns)	UDP	DNS	nagano-19599.herokussl.com	ipinfo (suspicious)	(static)
+936e01dd
+r2d2
+4
+medium
+11th 09:34:04
+11th 12:51:35
+2.200.104.184 DE			53 (dns)	UDP	DNS	.org	long domain (suspicious)	(heuristic)
+b72d05d0
+r2d2
+4
+medium
+11th 07:41:12
+11th 12:55:24
+2.200.104.184 DE			53 (dns)	UDP	DNS	geolocation-db.com	ipinfo (suspicious)	(static)
+53c4a648
+r2d2
+5
+medium
+11th 07:55:39
+11th 11:53:12
+2.200.104.184 DE			53 (dns)	UDP	DNS	jsonip.com	ipinfo (suspicious)	(static)
+6814edc3
+r2d2
+5
+medium
+11th 04:10:53
+11th 11:10:37
+2.200.104.184 DE			53 (dns)	UDP	DNS	toluhuku.com	pua (suspicious)	(static)
+95b33065
+r2d2
+5
+medium
+11th 07:04:17
+11th 08:47:53
+2.200.104.184 DE			80 (http)	TCP	UA	Embarcadero URI Client/1.0	user agent (suspicious)	(heuristic)
+b7b5d6f1
+r2d2
+5
+high
+11th 06:42:56
+11th 12:49:42
+2.200.104.184 DE		199.254.31.1 US	53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+f3511a2f
+r2d2
+5
+medium
+11th 07:31:43
+11th 11:05:09
+2.200.104.184 DE			53 (dns)	UDP	DNS	extreme-ip-lookup.com	ipinfo (suspicious)	(static)
+fbc22876
+r2d2
+5
+medium
+11th 07:47:42
+11th 11:08:08
+2.200.104.184 DE			53 (dns)	UDP	DNS	get.geojs.io	ipinfo (suspicious)	(static)
+6c577804
+r2d2
+7
+medium
+11th 07:43:00
+11th 12:43:19
+2.200.104.184 DE			53 (dns)	UDP	DNS	.ip-api.com	ipinfo (suspicious)	(static)
+7e1033dd
+r2d2
+8
+medium
+11th 07:24:17
+11th 12:20:39
+2.200.104.184 DE			53 (dns)	UDP	DNS	bedrapiona.com	ek router (malicious)	(static)
+f2634881
+r2d2
+8
+medium
+11th 08:10:07
+11th 11:06:35
+2.200.104.184 DE			53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+1c18cdae
+r2d2
+10
+medium
+11th 02:16:22
+11th 12:39:59
+2.200.104.184 DE			53 (dns)	UDP	DNS	.icu	domain (suspicious)	(static)
+43d0f24e
+r2d2
+10
+medium
+11th 08:14:39
+11th 08:55:54
+2.200.104.184 DE			53 (dns)	UDP	DNS	qaloqum.com	pua (suspicious)	(static)
+fb43a622
+r2d2
+13
+medium
+11th 00:10:33
+11th 12:19:36
+2.200.104.184 DE		205.251.192.236 US	53 (dns)	UDP	DNS	juronu.com	pua (suspicious)	(static)
+be3dbac2
+r2d2
+15
+high
+11th 10:04:11
+11th 11:57:16
+2.200.104.184 DE		107.6.74.81 US	80 (http)	TCP	IP	107.6.74.81	sinkhole bitsight (malware)	(static)
+77914d72
+r2d2
+18
+medium
+11th 07:16:48
+11th 12:49:31
+2.200.104.184 DE			53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+adef33cc
+r2d2
+18
+high
+11th 10:06:42
+11th 12:10:40
+2.200.104.184 DE		72.26.218.75 NL	80 (http)	TCP	IP	72.26.218.75	sinkhole bitsight (malware)	(static)
+9fa862d9
+r2d2
+20
+medium
+11th 07:05:00
+11th 12:48:24
+2.200.104.184 DE			53 (dns)	UDP	DNS	.cc	domain (suspicious)	(static)
+1424f159
+r2d2
+30
+high
+11th 09:58:42
+11th 12:11:10
+2.200.104.184 DE		72.5.161.7 SG	80 (http)	TCP	IP	72.5.161.7	sinkhole bitsight (malware)	(static)
+066ce2c3
+r2d2
+37
+medium
+11th 07:32:33
+11th 12:50:00
+2.200.104.184 DE			53 (dns)	UDP	DNS	.myway.com	pua (suspicious)	(static)
+222f3740
+r2d2
+47
+medium
+11th 07:06:56
+11th 12:48:39
+2.200.104.184 DE			53 (dns)	UDP	DNS	.special-offers.online	pushbug (malicious)	(static)
+7b01b7f0
+r2d2
+52
+medium
+11th 06:46:01
+11th 12:48:27
+2.200.104.184 DE			53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+648eaceb
+r2d2
+76
+medium
+11th 01:21:47
+11th 12:48:24
+2.200.104.184 DE			53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+3f6372d3
+r2d2
+95
+high
+11th 09:56:16
+11th 12:15:09
+2.200.104.184 DE		8.8.4.4 US	53 (dns)	UDP	DNS	gvaq70s7he.ru	andromeda (malware)	(static)
+41be70e1
+r2d2
+1
+medium
+11th 10:11:12
+11th 10:11:12
+2.200.105.140 DE	37781	2.200.107.168 DE	53 (dns)	UDP	DNS	(search).conduit.com	pua (suspicious)	(static)
+78efc9ce
+r2d2
+1
+medium
+11th 10:22:22
+11th 10:22:22
+2.200.105.140 DE	42540	2.200.107.168 DE	53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+888abbed
+r2d2
+1
+medium
+11th 09:29:15
+11th 09:29:15
+2.200.105.140 DE	46775	2.200.107.168 DE	53 (dns)	UDP	DNS	(server.4online).pw	domain (suspicious)	(static)
+b442fc9f
+r2d2
+1
+medium
+11th 11:31:12
+11th 11:31:12
+2.200.105.140 DE	13331	2.200.107.168 DE	53 (dns)	UDP	DNS	(api).ipstack.com	ipinfo (suspicious)	(static)
+3e9472ae
+r2d2
+2
+medium
+11th 10:22:23
+11th 10:22:23
+2.200.105.140 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	(mlinarapilive.rerootdev).xyz	domain (suspicious)	(static)
+66169955
+r2d2
+2
+medium
+11th 12:23:58
+11th 12:23:58
+2.200.105.140 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	(www.syrianews).cc	domain (suspicious)	(static)
+71d2a546
+r2d2
+2
+medium
+11th 12:45:43
+11th 12:45:43
+2.200.105.140 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	checkip.dyndns.org	ipinfo (suspicious)	(static)
+79482616
+r2d2
+2
+medium
+11th 11:59:00
+11th 11:59:03
+2.200.105.140 DE		69.16.175.10 US	80 (http)	TCP	UA	NSIS_Inetc( (Mozilla))	user agent (suspicious)	(heuristic)
+87c6df0d
+r2d2
+2
+medium
+11th 10:25:29
+11th 10:25:33
+2.200.105.140 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	.webs.com	free web hosting (suspicious)	(static)
+7a041a81
+r2d2
+3
+medium
+11th 09:36:52
+11th 12:12:24
+2.200.105.140 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	(pro).ip-api.com	ipinfo (suspicious)	(static)
+bacf93b3
+r2d2
+3
+medium
+11th 09:36:51
+11th 12:10:57
+2.200.105.140 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	(api).ipify.org	ipinfo (suspicious)	(static)
+9d7f441a
+r2d2
+4
+medium
+11th 10:26:18
+11th 11:06:31
+2.200.105.140 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	.eu.pn	domain (suspicious)	(static)
+7a8dce83
+r2d2
+1
+medium
+11th 08:09:53
+11th 08:09:53
+2.200.105.226 DE	60040	208.67.222.123 US	53 (dns)	UDP	DNS	geolocation-db.com	ipinfo (suspicious)	(static)
+9135fd22
+r2d2
+1
+medium
+11th 10:56:13
+11th 10:56:13
+2.200.105.226 DE	60199	208.67.222.123 US	53 (dns)	UDP	DNS	get.geojs.io	ipinfo (suspicious)	(static)
+de7a864f
+r2d2
+1
+medium
+11th 12:01:45
+11th 12:01:45
+2.200.105.226 DE	59373	208.67.222.123 US	53 (dns)	UDP	DNS	(postlmg).cc	domain (suspicious)	(static)
+f73c8643
+r2d2
+1
+medium
+11th 07:03:42
+11th 07:03:42
+2.200.105.226 DE	59821	208.67.222.123 US	53 (dns)	UDP	DNS	xmlppcbuzz.com	pushbug (malicious)	(static)
+3e2f823a
+r2d2
+2
+medium
+11th 12:42:26
+11th 12:42:26
+2.200.105.226 DE	60140	208.67.222.123 US	53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+44cd3113
+r2d2
+2
+medium
+11th 08:54:30
+11th 08:54:30
+2.200.105.226 DE	58575	208.67.222.123 US	53 (dns)	UDP	DNS	(api).ipify.org	ipinfo (suspicious)	(static)
+bd54d444
+r2d2
+2
+medium
+11th 07:19:51
+11th 07:19:51
+2.200.105.226 DE			53 (dns)	UDP	DNS	toluhuku.com	pua (suspicious)	(static)
+dbd02fa7
+r2d2
+2
+medium
+11th 07:55:41
+11th 07:55:41
+2.200.105.226 DE	59654	208.67.222.123 US	53 (dns)	UDP	DNS	(my.w).tt	domain (suspicious)	(static)
+e5784851
+r2d2
+2
+medium
+11th 08:39:17
+11th 10:31:53
+2.200.105.226 DE		208.67.222.123 US	53 (dns)	UDP	DNS	ntsecd.com	pushbug (malicious)	(static)
+076c9933
+r2d2
+3
+medium
+11th 08:53:02
+11th 09:49:46
+2.200.105.226 DE		208.67.222.123 US	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+28b622f7
+r2d2
+5
+medium
+11th 09:07:43
+11th 12:13:56
+2.200.105.226 DE		208.67.222.123 US	53 (dns)	UDP	DNS	.ip-api.com	ipinfo (suspicious)	(static)
+5d08b144
+r2d2
+5
+medium
+11th 01:38:32
+11th 07:32:19
+2.200.105.226 DE		208.67.222.123 US	53 (dns)	UDP	DNS	(pool-de).supportxmr.com	crypto mining (suspicious)	(static)
+c4b25de9
+r2d2
+5
+high
+11th 06:43:59
+11th 12:38:09
+2.200.105.226 DE		208.67.222.123 US	53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+2af52862
+r2d2
+6
+medium
+11th 09:49:19
+11th 10:33:22
+2.200.105.226 DE		208.67.222.123 US	53 (dns)	UDP	DNS	(cdn).special-offers.online	pushbug (malicious)	(static)
+bff2b3b3
+r2d2
+6
+medium
+11th 08:08:42
+11th 12:04:33
+2.200.105.226 DE		208.67.222.123 US	53 (dns)	UDP	DNS	nwliko.com	pushbug (malicious)	(static)
+55567687
+r2d2
+11
+medium
+11th 00:15:13
+11th 07:21:17
+2.200.105.226 DE		208.67.222.123 US	53 (dns)	UDP	DNS	pool.supportxmr.com	crypto mining (suspicious)	(static)
+23481625
+r2d2
+12
+medium
+11th 07:19:51
+11th 12:19:51
+2.200.105.226 DE			53 (dns)	UDP	DNS	juronu.com	pua (suspicious)	(static)
+ce9f935b
+r2d2
+22
+medium
+11th 07:54:24
+11th 11:05:24
+2.200.105.226 DE		208.67.222.123 US	53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+33043398
+r2d2
+34
+medium
+11th 07:09:01
+11th 12:53:50
+2.200.105.226 DE			53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+d8b2a843
+r2d2
+60
+medium
+11th 00:02:39
+11th 12:21:37
+2.200.105.226 DE			53 (dns)	UDP	DNS	donate.ssl.xmrig.com	crypto mining (suspicious)	(static)
+0275aafb
+r2d2
+1
+medium
+11th 10:20:13
+11th 10:20:13
+2.200.106.65 DE	55799	2.200.107.169 DE	53 (dns)	UDP	DNS	(library).lol	domain (suspicious)	(static)
+408317dd
+r2d2
+1
+medium
+11th 10:59:58
+11th 10:59:58
+2.200.106.65 DE	65521	2.200.107.168 DE	53 (dns)	UDP	DNS	(pro).ip-api.com	ipinfo (suspicious)	(static)
+b1af58ef
+r2d2
+1
+medium
+11th 11:57:52
+11th 11:57:52
+2.200.106.65 DE	54046	2.200.107.169 DE	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+10208f7d
+r2d2
+2
+medium
+11th 12:11:53
+11th 12:11:53
+2.200.106.65 DE			53 (dns)	UDP	DNS	(postlmg).cc	domain (suspicious)	(static)
+a75594bd
+r2d2
+2
+medium
+11th 10:17:09
+11th 10:17:09
+2.200.106.65 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+54e92efc
+r2d2
+4
+medium
+11th 08:15:56
+11th 12:42:59
+2.200.106.65 DE			53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+902c15cb
+r2d2
+4
+medium
+11th 00:25:09
+11th 09:46:04
+2.200.106.65 DE			53 (dns)	UDP	DNS	.com	long domain (suspicious)	(heuristic)
+840b6d6e
+r2d2
+1
+high
+11th 11:58:22
+11th 11:58:22
+2.200.106.177 DE	51585	108.163.130.184 CA	5655	TCP	IPORT	108.163.130.184:5655	rmsrat (malware)	(static)
+7f02b9f7
+r2d2
+1
+medium
+11th 12:09:35
+11th 12:09:35
+2.200.106.186 DE	64448	8.8.8.8 US	53 (dns)	UDP	DNS	(update).drp.su	pua (suspicious)	(static)
+bc4a1acb
+r2d2
+1
+medium
+11th 07:29:58
+11th 07:29:58
+2.200.106.186 DE	20435	8.8.8.8 US	53 (dns)	UDP	DNS	(hp).myway.com	pua (suspicious)	(static)
+eec8c298
+r2d2
+1
+medium
+11th 10:51:12
+11th 10:51:12
+2.200.106.186 DE	45570	8.8.8.8 US	53 (dns)	UDP	DNS	myexternalip.com	ipinfo (suspicious)	(static)
+0441b346
+r2d2
+1
+medium
+11th 10:23:35
+11th 10:23:35
+2.200.106.188 DE	56181	8.8.8.8 US	53 (dns)	UDP	DNS	(api).ipstack.com	ipinfo (suspicious)	(static)
+079cc28d
+r2d2
+1
+medium
+11th 11:14:00
+11th 11:14:00
+2.200.106.188 DE	56663	8.8.8.8 US	53 (dns)	UDP	DNS	(api).ipify.org	ipinfo (suspicious)	(static)
+5904bddc
+r2d2
+1
+medium
+11th 12:09:35
+11th 12:09:35
+2.200.106.188 DE	55807	8.8.8.8 US	53 (dns)	UDP	DNS	(update).drp.su	pua (suspicious)	(static)
+62d537fb
+r2d2
+1
+medium
+11th 08:06:28
+11th 08:06:28
+2.200.106.188 DE	56080	8.8.8.8 US	53 (dns)	UDP	DNS	(cdn).special-offers.online	pushbug (malicious)	(static)
+7fd18f23
+r2d2
+1
+medium
+11th 10:05:22
+11th 10:05:22
+2.200.106.188 DE	56697	8.8.8.8 US	53 (dns)	UDP	DNS	(v.klp).pw	domain (suspicious)	(static)
+c913c3a6
+r2d2
+1
+medium
+11th 04:04:05
+11th 04:04:05
+2.200.106.188 DE	55999	8.8.8.8 US	53 (dns)	UDP	DNS	(507.gdxox).ml	domain (suspicious)	(static)
+dc7a9bbf
+r2d2
+2
+medium
+11th 10:16:48
+11th 10:16:48
+2.200.106.188 DE		8.8.8.8 US	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+25f86eb5
+r2d2
+8
+medium
+11th 08:06:35
+11th 11:06:55
+2.200.106.188 DE			53 (dns)	UDP	DNS	(go.cp4srvng).xyz	domain (suspicious)	(static)
+dc22ff1d
+r2d2
+10
+medium
+11th 08:06:32
+11th 11:37:45
+2.200.106.188 DE			53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+0eadab73
+r2d2
+1
+medium
+11th 09:15:55
+11th 09:15:55
+2.200.107.146 DE	62458	205.251.198.110 US	53 (dns)	UDP	DNS	(www).metacrawler.com	pua (suspicious)	(static)
+1138580c
+r2d2
+1
+medium
+11th 12:13:39
+11th 12:13:39
+2.200.107.146 DE	15557	178.62.202.109 NL	53 (dns)	UDP	DNS	ntsecd.com	pushbug (malicious)	(static)
+12ad74e3
+r2d2
+1
+medium
+11th 10:18:52
+11th 10:18:52
+2.200.107.146 DE	19518	173.201.71.14 US	53 (dns)	UDP	DNS	tracemyip.org	ipinfo (suspicious)	(static)
+20658b00
+r2d2
+1
+medium
+11th 12:25:13
+11th 12:25:13
+2.200.107.146 DE	9057	194.62.182.53 US	53 (dns)	UDP	DNS	(genesis).ddns.me	dynamic domain (suspicious)	(static)
+26472c31
+r2d2
+1
+medium
+11th 09:56:44
+11th 09:56:44
+2.200.107.146 DE	2947 (gpsd)	205.251.192.148 US	53 (dns)	UDP	DNS	graizoah.com	ek router (malicious)	(static)
+29bdfc1c
+r2d2
+1
+medium
+11th 12:20:06
+11th 12:20:06
+2.200.107.146 DE	45404	199.7.83.42 US	53 (dns)	UDP	DNS	(dbak).mine.nu	dynamic domain (suspicious)	(static)
+2ac2fb46
+r2d2
+1
+medium
+11th 11:24:09
+11th 11:24:09
+2.200.107.146 DE	58366	70.39.76.107 US	53 (dns)	UDP	DNS	(ercrytobpos).edns.biz	dynamic domain (suspicious)	(static)
+337146fe
+r2d2
+1
+medium
+11th 07:21:09
+11th 07:21:09
+2.200.107.146 DE	23690	162.159.1.249 ?	53 (dns)	UDP	DNS	(all.guphotos.com.cdn).jcloudcdn.com	magentocore (malicious)	(static)
+3730dbff
+r2d2
+1
+medium
+11th 10:34:09
+11th 10:34:09
+2.200.107.146 DE	45191	46.105.207.200 FR	53 (dns)	UDP	DNS	(ssl).geoplugin.net	ipinfo (suspicious)	(static)
+461210fc
+r2d2
+1
+medium
+11th 05:21:46
+11th 05:21:46
+2.200.107.146 DE	9021	205.251.198.147 US	53 (dns)	UDP	DNS	xmlppcbuzz.com	pushbug (malicious)	(static)
+4865bc06
+r2d2
+1
+medium
+11th 12:41:52
+11th 12:41:52
+2.200.107.146 DE	45813	192.31.80.30 US	53 (dns)	UDP	DNS	.comodoca.com	long domain (suspicious)	(heuristic)
+6288f23f
+r2d2
+1
+medium
+11th 10:18:28
+11th 10:18:28
+2.200.107.146 DE	7579	192.26.92.30 US	53 (dns)	UDP	DNS	(cloud).firefox1.com	pua (suspicious)	(static)
+66ac83c0
+r2d2
+1
+medium
+11th 11:51:28
+11th 11:51:28
+2.200.107.146 DE	64232	198.51.44.9 US	53 (dns)	UDP	DNS	(www).trovi.com	pua (suspicious)	(static)
+77f17968
+r2d2
+1
+medium
+11th 10:15:28
+11th 10:15:28
+2.200.107.146 DE	50505	192.42.93.30 US	53 (dns)	UDP	DNS	icanhazip.com	ipinfo (suspicious)	(static)
+79385fd5
+r2d2
+1
+medium
+11th 12:13:19
+11th 12:13:19
+2.200.107.146 DE	33932	199.254.49.1 US	53 (dns)	UDP	DNS	(subicevac).dyndns.info	dynamic domain (suspicious)	(static)
+89c9c5c3
+r2d2
+1
+medium
+11th 09:20:28
+11th 09:20:28
+2.200.107.146 DE	29410	192.33.4.12 US	53 (dns)	UDP	DNS	(dailystormer).su	domain (suspicious)	(static)
+aae834a4
+r2d2
+1
+medium
+11th 08:43:06
+11th 08:43:06
+2.200.107.146 DE	30846	104.192.109.6 US	53 (dns)	UDP	DNS	c.sayhi.360.cn	android pua (suspicious)	(static)
+b0697376
+r2d2
+1
+medium
+11th 09:15:26
+11th 09:15:26
+2.200.107.146 DE	35956	192.52.178.30 US	53 (dns)	UDP	DNS	pushwelcome.com	pushbug (malicious)	(static)
+b9146aa0
+r2d2
+1
+medium
+11th 12:02:18
+11th 12:02:18
+2.200.107.146 DE	47271	65.22.162.17 US	53 (dns)	UDP	DNS	get.geojs.io	ipinfo (suspicious)	(static)
+b95d95a6
+r2d2
+1
+high
+11th 06:30:19
+11th 06:30:19
+2.200.107.146 DE	40210	192.31.80.30 US	53 (dns)	UDP	DNS	zimagdcmasn.net	neshuta (malware)	(static)
+c04ed491
+r2d2
+1
+medium
+11th 12:15:52
+11th 12:15:52
+2.200.107.146 DE	18423	194.0.39.2 TK	53 (dns)	UDP	DNS	(www).dot.tk	domain (suspicious)	(static)
+c14f7c89
+r2d2
+1
+medium
+11th 02:14:26
+11th 02:14:26
+2.200.107.146 DE	44885	194.146.106.142 SE	53 (dns)	UDP	DNS	wpad.ie	bad wpad (suspicious)	(static)
+c8c3a141
+r2d2
+1
+medium
+11th 10:38:57
+11th 10:38:57
+2.200.107.146 DE	42521	192.48.79.30 US	53 (dns)	UDP	DNS	ipecho.net	ipinfo (suspicious)	(static)
+d8d9b7df
+r2d2
+1
+medium
+11th 09:13:26
+11th 09:13:26
+2.200.107.146 DE	36746	179.43.173.30 CH	53 (dns)	UDP	DNS	gmai.com	bad history (suspicious)	(static)
+dbae36ab
+r2d2
+1
+medium
+11th 12:09:06
+11th 12:09:06
+2.200.107.146 DE	58982	205.251.192.45 US	53 (dns)	UDP	DNS	lowtyroguer.com	ek router (malicious)	(static)
+dd147376
+r2d2
+1
+medium
+11th 07:40:58
+11th 07:40:58
+2.200.107.146 DE	58258	75.2.85.37 US	53 (dns)	UDP	DNS	xmrpool.eu	crypto mining (suspicious)	(static)+1
+e1f25450
+r2d2
+1
+medium
+11th 10:00:03
+11th 10:00:03
+2.200.107.146 DE	26654	192.43.172.30 US	53 (dns)	UDP	DNS	youutbe.com	domain (suspicious)	(static)
+f839c67e
+r2d2
+1
+high
+11th 08:21:58
+11th 08:21:58
+2.200.107.146 DE	37458	35.174.165.68 US	53 (dns)	UDP	DNS	disorderstatus.ru	andromeda (malware)	(static)
+070a2a46
+r2d2
+2
+medium
+11th 12:50:05
+11th 12:50:05
+2.200.107.146 DE			53 (dns)	UDP	DNS	(tazfuji).tripod.com	free web hosting (suspicious)	(static)
+154ff9fa
+r2d2
+2
+medium
+11th 10:56:35
+11th 11:32:27
+2.200.107.146 DE			53 (dns)	UDP	DNS	(zvonmark).dynns.com	dynamic domain (suspicious)	(static)
+2a3d1bde
+r2d2
+2
+medium
+11th 10:14:49
+11th 11:31:12
+2.200.107.146 DE			53 (dns)	UDP	DNS	(api).ipstack.com	ipinfo (suspicious)	(static)
+37b509fc
+r2d2
+2
+medium
+11th 10:25:33
+11th 12:05:38
+2.200.107.146 DE		108.162.193.189 US	53 (dns)	UDP	DNS	.webs.com	free web hosting (suspicious)	(static)
+3be21eab
+r2d2
+2
+medium
+11th 11:22:17
+11th 12:35:08
+2.200.107.146 DE			53 (dns)	UDP	DNS	freegeoip.app	ipinfo (suspicious)	(static)
+435ea47c
+r2d2
+2
+medium
+11th 08:20:18
+11th 08:20:19
+2.200.107.146 DE			53 (dns)	UDP	DNS	(rebase-api).duckdns.org	dynamic domain (suspicious)	(static)+1
+46a39ca6
+r2d2
+2
+medium
+11th 09:32:49
+11th 11:32:49
+2.200.107.146 DE			53 (dns)	UDP	DNS	(update).drp.su	pua (suspicious)	(static)
+5038bbce
+r2d2
+2
+high
+11th 10:00:01
+11th 10:00:01
+2.200.107.146 DE			53 (dns)	UDP	DNS	(www).abbyycommunity.com	ramnit (malware)	(static)
+557e9e34
+r2d2
+2
+medium
+11th 09:52:46
+11th 09:52:46
+2.200.107.146 DE			53 (dns)	UDP	DNS	.over-blog.com	long domain (suspicious)	(heuristic)
+5d07da2b
+r2d2
+2
+medium
+11th 07:14:31
+11th 07:14:31
+2.200.107.146 DE			53 (dns)	UDP	DNS	(www).whatsmyipaddress.com	ipinfo (suspicious)	(static)
+68d09967
+r2d2
+2
+medium
+11th 10:00:58
+11th 10:02:51
+2.200.107.146 DE		205.251.194.35 US	53 (dns)	UDP	DNS	(web).jimdo.com	free web hosting (suspicious)	(static)
+71bdfe41
+r2d2
+2
+medium
+11th 07:46:40
+11th 07:46:40
+2.200.107.146 DE			53 (dns)	UDP	DNS	.default-search.net	pua (suspicious)	(static)
+7579708f
+r2d2
+2
+medium
+11th 08:56:27
+11th 08:56:27
+2.200.107.146 DE			53 (dns)	UDP	DNS	us.xmlppcbuzz.com	pushbug (malicious)	(static)
+7d347aba
+r2d2
+2
+medium
+11th 08:39:18
+11th 08:39:18
+2.200.107.146 DE			53 (dns)	UDP	DNS	.web-networking.com	long domain (suspicious)	(heuristic)
+7f310b53
+r2d2
+2
+medium
+11th 07:52:25
+11th 07:52:26
+2.200.107.146 DE		121.14.1.22 CN	53 (dns)	UDP	DNS	.dpool.sina.com.cn	ipinfo (suspicious)	(static)
+80cc7406
+r2d2
+2
+medium
+11th 10:54:55
+11th 12:16:25
+2.200.107.146 DE			53 (dns)	UDP	DNS	geoip-db.com	ipinfo (suspicious)	(static)
+842ec7dc
+r2d2
+2
+high
+11th 07:33:59
+11th 11:58:40
+2.200.107.146 DE			53 (dns)	UDP	DNS	ns5.biz	fin7 (malware)	(static)
+8b5745fb
+r2d2
+2
+medium
+11th 00:31:09
+11th 00:31:10
+2.200.107.146 DE		208.91.197.13 VG	53 (dns)	UDP	IP	208.91.197.13 (lennonforjustice.com)	parking site (suspicious)	(static)
+8d981b5f
+r2d2
+2
+medium
+11th 08:22:08
+11th 11:48:13
+2.200.107.146 DE			53 (dns)	UDP	DNS	.tk	domain (suspicious)	(static)
+a398dfd9
+r2d2
+2
+medium
+11th 07:14:32
+11th 07:14:32
+2.200.107.146 DE			53 (dns)	UDP	DNS	(www).whatismyip.org	ipinfo (suspicious)	(static)
+cb5b0813
+r2d2
+2
+medium
+11th 10:34:52
+11th 10:34:52
+2.200.107.146 DE			53 (dns)	UDP	DNS	(autoupdate.chromewebtb).tbccint.com	pua (suspicious)	(static)
+cf929d06
+r2d2
+2
+medium
+11th 10:02:34
+11th 10:02:34
+2.200.107.146 DE		173.201.78.52 US	53 (dns)	UDP	DNS	.wisecleaner.net	pua (suspicious)	(static)
+d4508146
+r2d2
+2
+medium
+11th 10:55:13
+11th 10:55:13
+2.200.107.146 DE			53 (dns)	UDP	DNS	.sweetim.com	pua (suspicious)	(static)
+e0a4e617
+r2d2
+2
+medium
+11th 12:18:01
+11th 12:18:01
+2.200.107.146 DE			53 (dns)	UDP	DNS	extreme-ip-lookup.com	ipinfo (suspicious)	(static)
+ec042bcd
+r2d2
+2
+medium
+11th 11:25:38
+11th 11:25:49
+2.200.107.146 DE			53 (dns)	UDP	DNS	.ml	domain (suspicious)	(static)
+f9eb836b
+r2d2
+2
+high
+11th 11:27:39
+11th 11:27:39
+2.200.107.146 DE			53 (dns)	UDP	DNS	.rainbowisp.info	malware	cybercrime-tracker.net
+01bd884f
+r2d2
+3
+medium
+11th 07:49:53
+11th 12:51:43
+2.200.107.146 DE			53 (dns)	UDP	DNS	ammankeyan.com	ek router (malicious)	(static)
+0caa1d26
+r2d2
+3
+medium
+11th 07:26:29
+11th 12:14:09
+2.200.107.146 DE		199.59.242.142 US	53 (dns)	UDP	IP	199.59.242.142 	parking site (suspicious)	(static)
+0f2053b4
+r2d2
+3
+medium
+11th 07:32:36
+11th 10:34:50
+2.200.107.146 DE			53 (dns)	UDP	DNS	caradstag.casa	pushbug (malicious)	(static)
+1450cc81
+r2d2
+3
+medium
+11th 12:40:32
+11th 12:41:02
+2.200.107.146 DE			53 (dns)	UDP	DNS	.free.fr	domain (suspicious)	(static)
+4527f6c8
+r2d2
+3
+medium
+11th 09:09:27
+11th 10:24:52
+2.200.107.146 DE			53 (dns)	UDP	DNS	(api).ipify.org	ipinfo (suspicious)	(static)
+706b6d37
+r2d2
+3
+medium
+11th 07:36:07
+11th 08:35:47
+2.200.107.146 DE			53 (dns)	UDP	DNS	toluhuku.com	pua (suspicious)	(static)
+96f0a951
+r2d2
+3
+medium
+11th 07:08:00
+11th 11:07:44
+2.200.107.146 DE			53 (dns)	UDP	DNS	(mtenjeri).noip.me	dynamic domain (suspicious)	(static)
+c5d9ad80
+r2d2
+3
+medium
+11th 06:43:13
+11th 10:35:50
+2.200.107.146 DE			53 (dns)	UDP	DNS	onstunkyr.com	ek router (malicious)	(static)
+cf0160e8
+r2d2
+3
+medium
+11th 07:39:26
+11th 09:16:58
+2.200.107.146 DE			53 (dns)	UDP	DNS	myexternalip.com	ipinfo (suspicious)	(static)
+f307cbf7
+r2d2
+3
+medium
+11th 11:02:39
+11th 11:25:28
+2.200.107.146 DE			53 (dns)	UDP	DNS	.net.ru	domain (suspicious)	(static)
+7bb9aab8
+r2d2
+4
+medium
+11th 08:05:59
+11th 10:47:04
+2.200.107.146 DE			53 (dns)	UDP	DNS	.lol	domain (suspicious)	(static)
+89014a5d
+r2d2
+4
+medium
+11th 07:35:05
+11th 07:58:59
+2.200.107.146 DE			53 (dns)	UDP	DNS	.anvato.net	long domain (suspicious)	(heuristic)
+bbc1de47
+r2d2
+4
+medium
+11th 09:27:44
+11th 12:31:10
+2.200.107.146 DE			53 (dns)	UDP	DNS	jsonip.com	ipinfo (suspicious)	(static)
+bc2e5dec
+r2d2
+4
+medium
+11th 10:26:18
+11th 11:06:31
+2.200.107.146 DE			53 (dns)	UDP	DNS	.eu.pn	domain (suspicious)	(static)
+d1a98575
+r2d2
+4
+medium
+11th 09:54:15
+11th 11:36:41
+2.200.107.146 DE			53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+ecd33d08
+r2d2
+4
+medium
+11th 07:26:29
+11th 12:38:47
+2.200.107.146 DE		199.59.242.141 US	53 (dns)	UDP	IP	199.59.242.141 	parking site (suspicious)	(static)
+04cd8793
+r2d2
+5
+medium
+11th 08:22:52
+11th 12:45:43
+2.200.107.146 DE			53 (dns)	UDP	DNS	checkip.dyndns.org	ipinfo (suspicious)	(static)
+34dd2ae2
+r2d2
+5
+medium
+11th 02:52:37
+11th 11:23:38
+2.200.107.146 DE			53 (dns)	UDP	DNS	.org.ru	domain (suspicious)	(static)
+bf123e1b
+r2d2
+5
+medium
+11th 09:09:27
+11th 12:09:27
+2.200.107.146 DE			53 (dns)	UDP	DNS	nagano-19599.herokussl.com	ipinfo (suspicious)	(static)
+f7360fea
+r2d2
+5
+medium
+11th 09:29:15
+11th 12:23:29
+2.200.107.146 DE			53 (dns)	UDP	DNS	.pw	domain (suspicious)	(static)
+153ed367
+r2d2
+6
+medium
+11th 06:43:07
+11th 10:34:46
+2.200.107.146 DE			53 (dns)	UDP	DNS	inpagepush.com	pushbug (malicious)	(static)
+17069057
+r2d2
+6
+medium
+11th 09:10:17
+11th 12:49:27
+2.200.107.146 DE			53 (dns)	UDP	DNS	geolocation-db.com	ipinfo (suspicious)	(static)
+3ea81798
+r2d2
+6
+medium
+11th 07:20:21
+11th 12:56:59
+2.200.107.146 DE			53 (dns)	UDP	DNS	(search).conduit.com	pua (suspicious)	(static)
+4c501171
+r2d2
+6
+medium
+11th 08:58:43
+11th 10:57:31
+2.200.107.146 DE			53 (dns)	UDP	DNS	geedoovu.net	ek router (malicious)	(static)
+96190a12
+r2d2
+6
+high
+11th 07:45:23
+11th 10:51:18
+2.200.107.146 DE		38.102.150.29 US	53 (dns)	UDP	IP	38.102.150.29 	sinkhole conficker (malware)	(static)
+3fbda483
+r2d2
+7
+high
+11th 07:44:19
+11th 12:59:25
+2.200.107.146 DE		38.229.70.125 US	53 (dns)	UDP	IP	38.229.70.125 	sinkhole conficker (malware)	(static)
+51fde44f
+r2d2
+7
+medium
+11th 09:12:54
+11th 11:57:31
+2.200.107.146 DE			53 (dns)	UDP	DNS	.softonic.com	pua (suspicious)	(static)
+7778b2aa
+r2d2
+7
+medium
+11th 07:38:15
+11th 10:03:32
+2.200.107.146 DE			53 (dns)	UDP	DNS	.webcompanion.com	pua (suspicious)	(static)
+7b8b7a0d
+r2d2
+7
+medium
+11th 07:14:32
+11th 12:45:44
+2.200.107.146 DE			53 (dns)	UDP	DNS	checkip.dyndns.com	ipinfo (suspicious)	(static)
+944ae29a
+r2d2
+7
+medium
+11th 06:15:16
+11th 12:15:16
+2.200.107.146 DE			53 (dns)	UDP	DNS	(ipv4bot).whatismyipaddress.com	ipinfo (suspicious)	(static)
+6a86c0d9
+r2d2
+9
+medium
+11th 08:52:24
+11th 12:42:48
+2.200.107.146 DE			53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+4a80182c
+r2d2
+10
+medium
+11th 07:01:32
+11th 12:35:13
+2.200.107.146 DE			53 (dns)	UDP	DNS	.ip-api.com	ipinfo (suspicious)	(static)
+59ebdc32
+r2d2
+11
+high
+11th 06:52:22
+11th 12:59:33
+2.200.107.146 DE		136.161.101.53 US	53 (dns)	UDP	IP	136.161.101.53 	sinkhole conficker (malware)	(static)
+6489b8ab
+r2d2
+11
+high
+11th 02:14:10
+11th 12:28:40
+2.200.107.146 DE			53 (dns)	UDP	DNS	id.remoteutilities.com	rmsrat (malware)	(static)
+c9ee160c
+r2d2
+11
+medium
+11th 01:00:00
+11th 12:46:38
+2.200.107.146 DE			53 (dns)	UDP	DNS	jafuq.com	pua (suspicious)	(static)
+1093ae4c
+r2d2
+15
+medium
+11th 01:14:18
+11th 12:14:18
+2.200.107.146 DE			53 (dns)	UDP	DNS	hahofaba.com	pua (suspicious)	(static)
+bac36201
+r2d2
+15
+medium
+11th 01:34:09
+11th 12:56:19
+2.200.107.146 DE			53 (dns)	UDP	DNS	.com	long domain (suspicious)	(heuristic)
+ce1fc1ec
+r2d2
+15
+medium
+11th 07:13:17
+11th 12:33:11
+2.200.107.146 DE			53 (dns)	UDP	DNS	.myway.com	pua (suspicious)	(static)
+145190D0
+r2d2
+16
+high
+11th 06:52:22
+11th 12:59:33
+2.200.107.146 DE			53 (dns)	UDP	DNS		conficker dga (malware)	360.com
+854b7dc3
+r2d2
+17
+medium
+11th 00:28:58
+11th 11:28:07
+2.200.107.146 DE			53 (dns)	UDP	DNS	.ws	domain (suspicious)	(static)
+fa90ec5f
+r2d2
+17
+high
+11th 00:29:01
+11th 11:20:28
+2.200.107.146 DE			53 (dns)	UDP	DNS	taxonprofits.com	cryptowall (malware)	(static)
+5d408b74
+r2d2
+18
+medium
+11th 00:10:48
+11th 08:42:47
+2.200.107.146 DE			53 (dns)	UDP	DNS	ns1.frobbit.se	rogue dns (malicious)	(static)
+8c59c0dd
+r2d2
+19
+medium
+11th 00:02:10
+11th 12:36:07
+2.200.107.146 DE			53 (dns)	UDP	DNS	juronu.com	pua (suspicious)	(static)
+ef830cca
+r2d2
+20
+medium
+11th 03:39:21
+11th 12:54:16
+2.200.107.146 DE			53 (dns)	UDP	DNS	qaloqum.com	pua (suspicious)	(static)
+c137b397
+r2d2
+21
+medium
+11th 08:04:02
+11th 12:59:25
+2.200.107.146 DE			53 (dns)	UDP	DNS	.special-offers.online	pushbug (malicious)	(static)
+0e496223
+r2d2
+23
+medium
+11th 07:19:19
+11th 12:50:52
+2.200.107.146 DE			53 (dns)	UDP	DNS	.icu	domain (suspicious)	(static)
+b2a04e74
+r2d2
+23
+medium
+11th 07:18:04
+11th 12:51:59
+2.200.107.146 DE			53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+54f6e891
+r2d2
+26
+medium
+11th 00:39:43
+11th 12:46:37
+2.200.107.146 DE			53 (dns)	UDP	DNS	soaring.betsystemreviews.com	ek nuclear (malicious)	(static)
+16a47577
+r2d2
+27
+high
+11th 00:09:27
+11th 12:01:19
+2.200.107.146 DE			53 (dns)	UDP	DNS	(7tno4hib47vlep5o).42kjb11.net	teslacrypt (malware)	(static)
+b7bf078d
+r2d2
+27
+high
+11th 00:22:17
+11th 12:59:18
+2.200.107.146 DE			53 (dns)	UDP	DNS	7tno4hib47vlep5o.42kdb12.net	teslacrypt (malware)	(static)
+d950710e
+r2d2
+27
+high
+11th 00:09:27
+11th 12:01:18
+2.200.107.146 DE			53 (dns)	UDP	DNS	iynus.net	locky (malware)	(static)
+de17d283
+r2d2
+27
+medium
+11th 02:58:21
+11th 12:42:21
+2.200.107.146 DE			53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+4a5629c7
+r2d2
+28
+high
+11th 00:19:59
+11th 12:28:43
+2.200.107.146 DE			53 (dns)	UDP	DNS		nanocore (malware)	(static)
+cbea0bfe
+r2d2
+28
+medium
+11th 00:27:00
+11th 12:26:00
+2.200.107.146 DE			53 (dns)	UDP	DNS	.wix.com	free web hosting (suspicious)	(static)
+5d780b06
+r2d2
+29
+high
+11th 00:03:43
+11th 12:58:43
+2.200.107.146 DE			53 (dns)	UDP	DNS	(www).zagrebseba.net	balkanrat (malware)	(static)
+e208de38
+r2d2
+29
+high
+11th 00:26:46
+11th 12:48:48
+2.200.107.146 DE			53 (dns)	UDP	DNS	content-delivery.in	afrodita (malware)	(static)
+f933580e
+r2d2
+29
+high
+11th 00:12:54
+11th 12:38:52
+2.200.107.146 DE			53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+539cda6c
+r2d2
+32
+high
+11th 00:21:30
+11th 12:59:23
+2.200.107.146 DE			53 (dns)	UDP	DNS	recenthosts.ru	generic (malware)	(static)
+798f28a1
+r2d2
+32
+high
+11th 00:01:43
+11th 12:56:43
+2.200.107.146 DE			53 (dns)	UDP	DNS	(www).porezna-uprava.org	balkanrat (malware)	(static)
+cf896baa
+r2d2
+32
+high
+11th 08:23:10
+11th 12:49:39
+2.200.107.146 DE			53 (dns)	UDP	DNS	4nbizac8.ru	andromeda (malware)	(static)
+e09d4244
+r2d2
+34
+medium
+11th 07:32:33
+11th 12:48:58
+2.200.107.146 DE			53 (dns)	UDP	DNS	.cc	domain (suspicious)	(static)
+0dfe4e37
+r2d2
+35
+high
+11th 00:36:15
+11th 12:46:38
+2.200.107.146 DE			53 (dns)	UDP	DNS	tredokilo745241.ru	zeus (malware)	(static)
+8328cfb6
+r2d2
+38
+medium
+11th 07:41:21
+11th 12:56:08
+2.200.107.146 DE			53 (dns)	UDP	DNS	monerohash.com	crypto mining (suspicious)	(static)+1
+b9aec519
+r2d2
+38
+medium
+11th 06:19:16
+11th 12:58:50
+2.200.107.146 DE			53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+eb3cdf8a
+r2d2
+39
+medium
+11th 00:21:28
+11th 12:59:23
+2.200.107.146 DE			53 (dns)	UDP	DNS	supervision.sactown.us	ek nuclear (malicious)	(static)
+384e15f5
+r2d2
+41
+medium
+11th 00:24:37
+11th 12:46:38
+2.200.107.146 DE			53 (dns)	UDP	DNS	foley.go2lightuniversity.com	ek nuclear (malicious)	(static)
+7eb1ae27
+r2d2
+41
+medium
+11th 00:11:36
+11th 12:54:48
+2.200.107.146 DE			53 (dns)	UDP	DNS	cdnrep.reimage.com	pua (suspicious)	(static)
+fbc3835e
+r2d2
+43
+medium
+11th 00:05:57
+11th 12:59:23
+2.200.107.146 DE			53 (dns)	UDP	DNS	banking.techpool.org	ek nuclear (malicious)	(static)
+00cce5f9
+r2d2
+45
+medium
+11th 00:03:07
+11th 12:39:58
+2.200.107.146 DE			53 (dns)	UDP	DNS	(vio-ck-zvdnggdkkp).dynamic-m.com	dynamic domain (suspicious)	(static)
+be121805
+r2d2
+45
+high
+11th 00:07:16
+11th 12:59:23
+2.200.107.146 DE			53 (dns)	UDP	DNS	7tno4hib47vlep5o.tor2web.fi	teslacrypt (malware)	(static)
+1caf08c0
+r2d2
+46
+medium
+11th 00:26:40
+11th 12:54:58
+2.200.107.146 DE			53 (dns)	UDP	DNS	.reimageplus.com	pua (suspicious)	(static)
+475eeb54
+r2d2
+57
+high
+11th 00:04:14
+11th 12:52:54
+2.200.107.146 DE			53 (dns)	UDP	DNS	.southlife.church	locky (malware)	(static)
+2bd10afc
+r2d2
+58
+high
+11th 00:06:01
+11th 12:59:23
+2.200.107.146 DE			53 (dns)	UDP	DNS	.jesusdenazaret.com.ve	locky (malware)	(static)
+dfd1245e
+r2d2
+61
+medium
+11th 00:06:49
+11th 12:58:49
+2.200.107.146 DE			53 (dns)	UDP	DNS	un-blocking.info	bad wpad (suspicious)	(static)
+780492de
+r2d2
+103
+medium
+11th 00:02:59
+11th 12:57:59
+2.200.107.146 DE			53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+e60e635b
+r2d2
+137
+high
+11th 00:08:18
+11th 12:58:08
+2.200.107.146 DE			53 (dns)	UDP	DNS	7tno4hib47vlep5o.tor2web.blutmagie.de	teslacrypt (malware)	(static)
+e08a4f2b
+r2d2
+246
+high
+11th 00:02:59
+11th 12:55:59
+2.200.107.146 DE			53 (dns)	UDP	DNS	atacoinc8897.hopto.org	nanocore (malware)	(static)
+4c33836c
+r2d2
+323
+high
+11th 00:00:11
+11th 12:59:18
+2.200.107.146 DE			53 (dns)	UDP	DNS	j0mla.sytes.net	generic (malware)	(static)
+263ac9a7
+r2d2
+1
+medium
+11th 10:10:45
+11th 10:10:45
+2.200.107.168 DE	53 (dns)	2.200.108.98 DE	55878	UDP	DNS	(wordpresscommerce).net	consonant threshold no such domain (suspicious)	(heuristic)
+88eedf42
+r2d2
+1
+medium
+11th 10:42:20
+11th 10:42:20
+2.200.107.168 DE	53 (dns)	2.200.110.233 DE	57097	UDP	DNS	(redacted.com).ie	parked site (suspicious)	(heuristic)
+94a11aec
+r2d2
+1
+medium
+11th 08:54:41
+11th 08:54:41
+2.200.107.168 DE	53 (dns)	2.200.106.65 DE	65370	UDP	DNS	ib.beintoo.com	excessive no such domain (suspicious)	(heuristic)
+a6c9fd52
+r2d2
+1
+medium
+11th 09:41:55
+11th 09:41:55
+2.200.107.168 DE	53 (dns)	2.200.106.65 DE	54267	UDP	DNS	(forensicanthropology).eu-content	entropy threshold no such domain (suspicious)	(heuristic)
+e8768655
+r2d2
+1
+high
+11th 09:58:19
+11th 09:58:19
+2.200.107.168 DE	53 (dns)	2.200.109.50 DE	60342	UDP	DNS	pfpcwbw.info	sinkholed by securityscorecard (malware)	(heuristic)
+efeb37c0
+r2d2
+1
+medium
+11th 11:25:38
+11th 11:25:38
+2.200.107.168 DE	53 (dns)	2.200.109.50 DE	62307	UDP	DNS	(balkanritam).ml	parked site (suspicious)	(heuristic)
+3ee5f805
+r2d2
+2
+medium
+11th 08:45:45
+11th 08:45:45
+2.200.107.168 DE	53 (dns)	2.200.110.233 DE	64834	UDP	DNS	(gsdjgjskdfjksjdhgjhjaighs).gasdguiua	consonant threshold no such domain (suspicious)	(heuristic)
+473d7efc
+r2d2
+2
+medium
+11th 12:30:37
+11th 12:30:37
+2.200.107.168 DE	53 (dns)			UDP	DNS	(sadi).me	parked site (suspicious)	(heuristic)
+4a30df7e
+r2d2
+2
+medium
+11th 07:26:29
+11th 07:26:30
+2.200.107.168 DE	53 (dns)	2.200.110.232 DE		UDP	DNS	.club	parked site (suspicious)	(heuristic)
+605fa2d9
+r2d2
+2
+medium
+11th 12:30:34
+11th 12:30:34
+2.200.107.168 DE	53 (dns)	2.200.110.233 DE	56526	UDP	DNS	(www.ski-club-auringen).de	parked site (suspicious)	(heuristic)
+646f2957
+r2d2
+2
+medium
+11th 09:55:50
+11th 09:55:50
+2.200.107.168 DE	53 (dns)	2.200.110.232 DE	54143	UDP	DNS	(simplejdbccall).returningresultset	consonant threshold no such domain (suspicious)	(heuristic)
+77773502
+r2d2
+2
+medium
+11th 12:37:42
+11th 12:37:43
+2.200.107.168 DE	53 (dns)			UDP	DNS	(lpzvtbzokdnzgs).redacted	consonant threshold no such domain (suspicious)	(heuristic)
+d7d65b6e
+r2d2
+2
+medium
+11th 12:43:20
+11th 12:43:20
+2.200.107.168 DE	53 (dns)	2.200.110.233 DE	64145	UDP	DNS	(honourabledrivers).com	entropy threshold no such domain (suspicious)	(heuristic)
+92bfbb75
+r2d2
+3
+medium
+11th 01:47:47
+11th 08:24:59
+2.200.107.168 DE	53 (dns)			UDP	DNS	.net	parked site (suspicious)	(heuristic)
+bd81de76
+r2d2
+3
+medium
+11th 12:13:36
+11th 12:14:09
+2.200.107.168 DE	53 (dns)			UDP	DNS	.pro	parked site (suspicious)	(heuristic)
+e46928c6
+r2d2
+3
+medium
+11th 10:00:37
+11th 12:38:09
+2.200.107.168 DE	53 (dns)			UDP	DNS	.corp	entropy threshold no such domain (suspicious)	(heuristic)
+eae31d22
+r2d2
+3
+medium
+11th 08:57:41
+11th 10:28:08
+2.200.107.168 DE	53 (dns)	2.200.110.233 DE		UDP	DNS	(kondilomi).info	parked site (suspicious)	(heuristic)
+f1742873
+r2d2
+3
+medium
+11th 10:01:10
+11th 11:01:10
+2.200.107.168 DE	53 (dns)	2.200.110.233 DE		UDP	DNS	(tracker.nyaa).uk	parked site (suspicious)	(heuristic)
+654740d0
+r2d2
+4
+medium
+11th 09:24:30
+11th 11:25:35
+2.200.107.168 DE	53 (dns)			UDP	DNS	.org	parked site (suspicious)	(heuristic)
+6ad2f0e5
+r2d2
+5
+medium
+11th 09:48:10
+11th 12:38:09
+2.200.107.168 DE	53 (dns)			UDP	DNS	.corp	consonant threshold no such domain (suspicious)	(heuristic)
+95349481
+r2d2
+8
+high
+11th 06:52:23
+11th 10:50:17
+2.200.107.168 DE	53 (dns)			UDP	DNS	.ws	sinkholed by farsight (malware)	(heuristic)
+ece5fcc8
+r2d2
+12
+medium
+11th 00:07:26
+11th 12:32:37
+2.200.107.168 DE	53 (dns)	2.200.110.232 DE		UDP	DNS	(leicon).it	parked site (suspicious)	(heuristic)
+5ab012fd
+r2d2
+19
+medium
+11th 00:04:09
+11th 12:51:51
+2.200.107.168 DE	53 (dns)			UDP	DNS	.com	parked site (suspicious)	(heuristic)
+5eb79217
+r2d2
+1
+medium
+11th 07:26:30
+11th 07:26:30
+2.200.107.169 DE	53 (dns)	2.200.110.233 DE	63648	UDP	DNS	(www.ladyfootlockermid).info	parked site (suspicious)	(heuristic)
+682b3552
+r2d2
+1
+medium
+11th 10:48:43
+11th 10:48:43
+2.200.107.169 DE	53 (dns)	2.200.108.101 DE	63623	UDP	DNS	(nemaspojmakolikomepalis).com	consonant threshold no such domain (suspicious)	(heuristic)
+b1685778
+r2d2
+1
+medium
+11th 09:20:35
+11th 09:20:35
+2.200.107.169 DE	53 (dns)	2.200.108.98 DE	57048	UDP	DNS	autodiscover.redacted.com	excessive no such domain (suspicious)	(heuristic)
+d78bfffa
+r2d2
+1
+high
+11th 08:21:58
+11th 08:21:58
+2.200.107.169 DE	53 (dns)	2.200.108.98 DE	55716	UDP	DNS	disorderstatus.ru	sinkholed by bitsight (malware)	(heuristic)
+0231cc8c
+r2d2
+2
+medium
+11th 10:01:10
+11th 10:01:10
+2.200.107.169 DE	53 (dns)	2.200.110.232 DE	49462	UDP	DNS	(tracker.nyaa).uk	parked site (suspicious)	(heuristic)
+80214b9e
+r2d2
+2
+medium
+11th 07:26:29
+11th 07:26:29
+2.200.107.169 DE	53 (dns)	2.200.110.233 DE		UDP	DNS	.us	parked site (suspicious)	(heuristic)
+b72846ee
+r2d2
+2
+high
+11th 07:45:25
+11th 10:48:44
+2.200.107.169 DE	53 (dns)	2.200.108.98 DE		UDP	DNS	pfpcwbw.info	sinkholed by securityscorecard (malware)	(heuristic)
+0160aba5
+r2d2
+3
+medium
+11th 01:47:47
+11th 08:26:52
+2.200.107.169 DE	53 (dns)			UDP	DNS	.net	parked site (suspicious)	(heuristic)
+482965ee
+r2d2
+8
+medium
+11th 00:31:10
+11th 11:34:29
+2.200.107.169 DE	53 (dns)			UDP	DNS	.com	parked site (suspicious)	(heuristic)
+4d535d68
+r2d2
+9
+high
+11th 07:44:20
+11th 10:51:26
+2.200.107.169 DE	53 (dns)	2.200.108.98 DE		UDP	DNS	.ws	sinkholed by farsight (malware)	(heuristic)
+9cb23fb8
+r2d2
+9
+medium
+11th 01:08:53
+11th 10:03:01
+2.200.107.169 DE	53 (dns)	2.200.110.232 DE		UDP	DNS	(leicon).it	parked site (suspicious)	(heuristic)
+52c5d2e2
+r2d2
+4
+medium
+11th 10:02:21
+11th 11:05:45
+2.200.107.228 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(go.cp4srvng).xyz	domain (suspicious)	(static)
+0ea10bb3
+r2d2
+1
+medium
+11th 11:55:23
+11th 11:55:23
+2.200.107.248 DE	12035	8.8.8.8 US	53 (dns)	UDP	DNS	geolocation-db.com	ipinfo (suspicious)	(static)
+2f2bdc7a
+r2d2
+1
+medium
+11th 12:28:15
+11th 12:28:15
+2.200.107.248 DE	22637	8.8.8.8 US	53 (dns)	UDP	DNS	nwliko.com	pushbug (malicious)	(static)
+83291726
+r2d2
+1
+medium
+11th 09:33:49
+11th 09:33:49
+2.200.107.248 DE	26762	8.8.8.8 US	53 (dns)	UDP	DNS	(ssl).geoplugin.net	ipinfo (suspicious)	(static)
+84967092
+r2d2
+1
+medium
+11th 07:50:16
+11th 07:50:16
+2.200.107.248 DE	24111	8.8.8.8 US	53 (dns)	UDP	DNS	(websearch).search-guide.info	pua (suspicious)	(static)
+d7133464
+r2d2
+1
+medium
+11th 10:57:46
+11th 10:57:46
+2.200.107.248 DE	36851	8.8.8.8 US	53 (dns)	UDP	DNS	(unpackingthelivingroommsvu).ca	long domain (suspicious)	(heuristic)
+07cd180c
+r2d2
+2
+medium
+11th 12:31:37
+11th 12:31:37
+2.200.107.248 DE	26611	8.8.8.8 US	53 (dns)	UDP	DNS	(ldhldh).myds.me	dynamic domain (suspicious)	(static)
+76089cc4
+r2d2
+2
+medium
+11th 09:12:02
+11th 09:12:04
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.lulusoft.com	pua (suspicious)	(static)
+78132545
+r2d2
+2
+medium
+11th 10:11:25
+11th 10:11:25
+2.200.107.248 DE	14627	8.8.8.8 US	53 (dns)	UDP	DNS	(www.playnvg).tk	domain (suspicious)	(static)
+95bf09e2
+r2d2
+2
+medium
+11th 10:53:42
+11th 10:59:16
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.nmrodam.com	long domain (suspicious)	(heuristic)
+96147d74
+r2d2
+2
+medium
+11th 09:18:40
+11th 09:18:40
+2.200.107.248 DE	46371	95.211.219.67 NL	80 (http)	TCP	IP	95.211.219.67 (x.mochiads.com)	parking site (suspicious)	(static)
+dd027e1c
+r2d2
+2
+medium
+11th 09:15:53
+11th 10:51:57
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+394e4e10
+r2d2
+3
+medium
+11th 07:43:45
+11th 08:12:17
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+b5abf12c
+r2d2
+3
+medium
+11th 11:32:21
+11th 11:57:18
+2.200.107.248 DE		95.211.219.65 NL	80 (http)	TCP	IP	95.211.219.65	parking site (suspicious)	(static)
+f30f05c7
+r2d2
+3
+medium
+11th 09:03:41
+11th 09:50:07
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	get.geojs.io	ipinfo (suspicious)	(static)
+1d4073a9
+r2d2
+4
+medium
+11th 10:59:10
+11th 11:55:48
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.cc	domain (suspicious)	(static)
+4805f44b
+r2d2
+4
+medium
+11th 10:20:35
+11th 11:19:31
+2.200.107.248 DE		72.52.179.174 US	80 (http)	TCP	IP	72.52.179.174 (netacard.com)	parking site (suspicious)	(static)
+c39396dc
+r2d2
+4
+medium
+11th 08:43:24
+11th 12:21:54
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	extreme-ip-lookup.com	ipinfo (suspicious)	(static)
+d303034f
+r2d2
+4
+medium
+11th 10:42:43
+11th 12:56:46
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.com	long domain (suspicious)	(heuristic)
+dc281505
+r2d2
+4
+medium
+11th 10:09:47
+11th 12:53:47
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.ip-api.com	ipinfo (suspicious)	(static)
+39a7b852
+r2d2
+5
+medium
+11th 10:20:37
+11th 11:22:08
+2.200.107.248 DE		199.59.242.155 US	80 (http)	TCP	IP	199.59.242.155 (tracking.bodis.com)	parking site (suspicious)	(static)
+ae4f6d8c
+r2d2
+5
+medium
+11th 08:03:28
+11th 12:11:29
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+a10ff05c
+r2d2
+6
+medium
+11th 10:20:36
+11th 11:22:08
+2.200.107.248 DE		199.59.242.153 US	80 (http)	TCP	IP	199.59.242.153 (ww7.netacard.com)	parking site (suspicious)	(static)
+ca083c04
+r2d2
+6
+medium
+11th 10:02:19
+11th 12:42:24
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.ipify.org	ipinfo (suspicious)	(static)
+47dae8cc
+r2d2
+7
+medium
+11th 07:58:43
+11th 12:05:04
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+0105fff5
+r2d2
+17
+medium
+11th 00:55:41
+11th 12:55:43
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(update).drp.su	pua (suspicious)	(static)
+f7f33ac1
+r2d2
+18
+medium
+11th 08:10:02
+11th 12:58:22
+2.200.107.248 DE		8.8.8.8 US	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+7eaee55f
+r2d2
+2
+medium
+11th 10:15:11
+11th 10:15:11
+2.200.107.252 DE			53 (dns)	UDP	DNS	(internationalsecurityjournal).com	long domain (suspicious)	(heuristic)
+aeb995dd
+r2d2
+2
+medium
+11th 08:21:30
+11th 08:21:30
+2.200.107.252 DE			53 (dns)	UDP	DNS	(interdent).cc	domain (suspicious)	(static)
+cbcc232b
+r2d2
+2
+medium
+11th 07:05:20
+11th 07:05:22
+2.200.107.252 DE			53 (dns)	UDP	DNS	.dnsexit.com	dynamic domain (suspicious)	(static)
+e6ebbe7e
+r2d2
+2
+medium
+11th 12:42:22
+11th 12:42:22
+2.200.107.252 DE			53 (dns)	UDP	DNS	(sdk0.521.gdxox).ml	domain (suspicious)	(static)
+2d6f33bf
+r2d2
+1
+medium
+11th 10:57:45
+11th 10:57:45
+2.200.108.59 DE	10964	2.200.240.54 DE	53 (dns)	UDP	DNS	(unpackingthelivingroommsvu).ca	long domain (suspicious)	(heuristic)
+c15e56c0
+r2d2
+1
+medium
+11th 12:28:15
+11th 12:28:15
+2.200.108.59 DE	24918	8.8.8.8 US	53 (dns)	UDP	DNS	nwliko.com	pushbug (malicious)	(static)
+d6df9a22
+r2d2
+1
+medium
+11th 11:53:43
+11th 11:53:43
+2.200.108.59 DE	14417	67.227.226.240 US	443 (https)	TCP	IP	67.227.226.240	parking site (suspicious)	(static)
+10c9567c
+r2d2
+2
+medium
+11th 09:44:43
+11th 09:44:44
+2.200.108.59 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.tt	domain (suspicious)	(static)
+1cc23863
+r2d2
+2
+medium
+11th 10:10:34
+11th 10:10:34
+2.200.108.59 DE	25638	2.200.240.54 DE	53 (dns)	UDP	DNS	(web).jimdo.com	free web hosting (suspicious)	(static)
+1da72bce
+r2d2
+2
+high
+11th 08:35:21
+11th 08:35:21
+2.200.108.59 DE		2.200.240.54 DE	53 (dns)	UDP	DNS	ac6ruv8t.ru	andromeda (malware)	(static)
+3219a52e
+r2d2
+2
+high
+11th 10:52:01
+11th 10:52:01
+2.200.108.59 DE		8.8.8.8 US	53 (dns)	UDP	DNS	76236osm1.ru	andromeda (malware)	(static)
+32894b9e
+r2d2
+2
+medium
+11th 09:59:33
+11th 09:59:34
+2.200.108.59 DE		2.200.240.54 DE	53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+4f746896
+r2d2
+2
+medium
+11th 08:12:40
+11th 08:12:40
+2.200.108.59 DE		8.8.8.8 US	53 (dns)	UDP	DNS	myexternalip.com	ipinfo (suspicious)	(static)
+706022bc
+r2d2
+2
+medium
+11th 11:43:14
+11th 11:43:14
+2.200.108.59 DE		2.200.240.54 DE	53 (dns)	UDP	DNS	.drp.su	pua (suspicious)	(static)
+79e214b6
+r2d2
+2
+medium
+11th 10:53:42
+11th 10:59:17
+2.200.108.59 DE			53 (dns)	UDP	DNS	.nmrodam.com	long domain (suspicious)	(heuristic)
+b47ad9f2
+r2d2
+2
+medium
+11th 10:50:00
+11th 10:50:00
+2.200.108.59 DE	10648	8.8.8.8 US	53 (dns)	UDP	DNS	.radwarecloud.net	long domain (suspicious)	(heuristic)
+c43ac23b
+r2d2
+2
+medium
+11th 12:42:24
+11th 12:42:24
+2.200.108.59 DE		2.200.240.54 DE	53 (dns)	UDP	DNS	.ipify.org	ipinfo (suspicious)	(static)
+dafff2e3
+r2d2
+2
+medium
+11th 11:55:49
+11th 11:55:49
+2.200.108.59 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(arbazzz).cc	domain (suspicious)	(static)
+f2e90728
+r2d2
+2
+medium
+11th 11:52:20
+11th 11:52:20
+2.200.108.59 DE			53 (dns)	UDP	DNS	(equited-basects).icu	domain (suspicious)	(static)
+2dd0fc4c
+r2d2
+3
+medium
+11th 08:03:29
+11th 12:01:38
+2.200.108.59 DE			53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+3873563d
+r2d2
+3
+medium
+11th 08:39:37
+11th 08:40:07
+2.200.108.59 DE		198.54.117.197 US	443 (https)	TCP	IP	198.54.117.197	parking site (suspicious)	(static)
+7afa21d8
+r2d2
+3
+medium
+11th 12:20:20
+11th 12:35:31
+2.200.108.59 DE			53 (dns)	UDP	DNS	(uupdump).ml	domain (suspicious)	(static)
+9964fc30
+r2d2
+3
+medium
+11th 08:21:53
+11th 12:30:55
+2.200.108.59 DE			53 (dns)	UDP	DNS	.hao123.com	pua (suspicious)	(static)
+a0ea2689
+r2d2
+3
+high
+11th 12:02:44
+11th 12:18:09
+2.200.108.59 DE			53 (dns)	UDP	DNS	4nbizac8.ru	andromeda (malware)	(static)
+2fca2a53
+r2d2
+4
+medium
+11th 10:42:43
+11th 12:36:49
+2.200.108.59 DE			53 (dns)	UDP	DNS	.com	long domain (suspicious)	(heuristic)
+43212085
+r2d2
+5
+medium
+11th 07:58:43
+11th 12:01:37
+2.200.108.59 DE			53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+f98e5f4f
+r2d2
+8
+high
+11th 08:57:47
+11th 12:15:06
+2.200.108.59 DE			53 (dns)	UDP	DNS	srv5020.net	phorpiex (malware)	(static)
+392a0971
+r2d2
+11
+high
+11th 08:57:23
+11th 12:44:23
+2.200.108.59 DE			53 (dns)	UDP	DNS	srv5010.net	phorpiex (malware)	(static)
+0301dfa1
+r2d2
+20
+medium
+11th 07:43:52
+11th 12:50:06
+2.200.108.59 DE			53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+caf9d653
+r2d2
+80
+low
+11th 00:03:32
+11th 12:53:33
+2.200.108.59 DE		77.53.81.105 SE		TCP	IP	2.200.108.59	potential port scanning	(heuristic)
+148ea10e
+r2d2
+1
+medium
+11th 07:14:32
+11th 07:14:32
+2.200.108.98 DE	57383	2.200.107.168 DE	53 (dns)	UDP	DNS	(www).whatismyip.org	ipinfo (suspicious)	(static)
+1bd6f7ee
+r2d2
+1
+medium
+11th 11:23:59
+11th 11:23:59
+2.200.108.98 DE	56444	2.200.107.168 DE	53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+62001639
+r2d2
+1
+medium
+11th 07:14:31
+11th 07:14:31
+2.200.108.98 DE	56808	2.200.107.168 DE	53 (dns)	UDP	DNS	(www).whatsmyipaddress.com	ipinfo (suspicious)	(static)
+7a686a78
+r2d2
+1
+high
+11th 08:22:00
+11th 08:22:00
+2.200.108.98 DE	2622	149.5.232.53 FR	53 (dns)	UDP	DNS	differentia.ru	andromeda (malware)	(static)
+8265b038
+r2d2
+1
+medium
+11th 07:14:32
+11th 07:14:32
+2.200.108.98 DE	57232	2.200.107.168 DE	53 (dns)	UDP	DNS	checkip.dyndns.org	ipinfo (suspicious)	(static)
+b100671c
+r2d2
+1
+medium
+11th 09:30:26
+11th 09:30:26
+2.200.108.98 DE	56234	2.200.107.168 DE	53 (dns)	UDP	DNS	(pro).ip-api.com	ipinfo (suspicious)	(static)
+08c66565
+r2d2
+2
+medium
+11th 07:50:36
+11th 07:59:41
+2.200.108.98 DE			53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+5fda369c
+r2d2
+2
+high
+11th 08:21:58
+11th 08:21:58
+2.200.108.98 DE	2622	62.209.40.75 DE	53 (dns)	UDP	DNS	disorderstatus.ru	andromeda (malware)	(static)
+12e5ed1d
+r2d2
+3
+medium
+11th 09:21:42
+11th 11:49:56
+2.200.108.98 DE			53 (dns)	UDP	DNS	(go.cp4srvng).xyz	domain (suspicious)	(static)
+758b5f1e
+r2d2
+4
+medium
+11th 07:45:32
+11th 10:50:50
+2.200.108.98 DE		2.200.107.169 DE	53 (dns)	UDP	DNS	.ws	domain (suspicious)	(static)
+f51ae8D0
+r2d2
+10
+high
+11th 07:44:19
+11th 10:51:45
+2.200.108.98 DE			53 (dns)	UDP	DNS		conficker dga (malware)	360.com
+72d1a9e0
+r2d2
+52
+high
+11th 08:23:10
+11th 12:54:42
+2.200.108.98 DE			53 (dns)	UDP	DNS	4nbizac8.ru	andromeda (malware)	(static)
+1f0d2a4c
+r2d2
+1
+medium
+11th 06:26:12
+11th 06:26:12
+2.200.108.101 DE	34048	2.200.107.168 DE	53 (dns)	UDP	DNS	(cdn).special-offers.online	pushbug (malicious)	(static)
+1f5f9303
+r2d2
+1
+medium
+11th 10:15:39
+11th 10:15:39
+2.200.108.101 DE	60971	2.200.107.168 DE	53 (dns)	UDP	DNS	(static-cache.k2s).cc	domain (suspicious)	(static)
+9c8f0fa6
+r2d2
+1
+medium
+11th 06:26:12
+11th 06:26:12
+2.200.108.101 DE	19764	2.200.107.168 DE	53 (dns)	UDP	DNS	(go.cp4srvng).xyz	domain (suspicious)	(static)
+e54da394
+r2d2
+1
+medium
+11th 07:35:28
+11th 07:35:28
+2.200.108.101 DE	51993	2.200.107.168 DE	53 (dns)	UDP	DNS	wpad.ie	bad wpad (suspicious)	(static)
+09cd442f
+r2d2
+2
+medium
+11th 07:35:33
+11th 07:35:33
+2.200.108.101 DE	49826	69.94.69.211 CZ	80 (http)	TCP	UA	undefined	user agent (suspicious)	(heuristic)
+5dfda3d1
+r2d2
+2
+medium
+11th 06:19:16
+11th 10:10:22
+2.200.108.101 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+d6c64a24
+r2d2
+2
+medium
+11th 12:27:27
+11th 12:50:06
+2.200.108.101 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	(nationsflushedoccasionally).com	long domain (suspicious)	(heuristic)
+0388a0c0
+r2d2
+5
+medium
+11th 08:57:19
+11th 12:02:30
+2.200.108.101 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+5d98dc19
+r2d2
+1
+high
+11th 07:45:25
+11th 07:45:25
+2.200.108.103 DE	61606	208.100.26.245 US	80 (http)	TCP	IP	208.100.26.245	sinkhole securityscorecard (malware)	(static)
+bd087258
+r2d2
+1
+high
+11th 08:21:58
+11th 08:21:58
+2.200.108.103 DE	49184	173.231.189.27 US	80 (http)	TCP	IP	173.231.189.27	sinkhole bitsight (malware)	(static)
+ea05fe05
+r2d2
+1
+medium
+11th 12:16:10
+11th 12:16:10
+2.200.108.103 DE	59642	37.48.82.67 NL	80 (http)	TCP	UA	XxX 	user agent (suspicious)	(heuristic)
+9ea1625a
+r2d2
+2
+medium
+11th 11:23:59
+11th 11:23:59
+2.200.108.103 DE	49373	51.91.82.30 FR	80 (http)	TCP	UA	Embarcadero URI Client/1.0	user agent (suspicious)	(heuristic)
+7bd271e0
+r2d2
+3
+high
+11th 08:21:58
+11th 08:59:34
+2.200.108.103 DE		8.8.4.4 US	53 (dns)	UDP	DNS	disorderstatus.ru	andromeda (malware)	(static)
+efbc4dd5
+r2d2
+3
+high
+11th 08:22:00
+11th 08:59:34
+2.200.108.103 DE		8.8.4.4 US	53 (dns)	UDP	DNS	differentia.ru	andromeda (malware)	(static)
+167666b7
+r2d2
+8
+high
+11th 07:45:25
+11th 10:51:36
+2.200.108.103 DE		104.244.14.252 US	80 (http)	TCP	IP	104.244.14.252	sinkhole farsight (malware)	(static)
+2a24e476
+r2d2
+10
+high
+11th 07:44:20
+11th 10:51:27
+2.200.108.103 DE		38.102.150.27 US	80 (http)	TCP	IP	38.102.150.27	sinkhole farsight (malware)	(static)
+5df7e7d2
+r2d2
+89
+high
+11th 08:23:10
+11th 12:57:50
+2.200.108.103 DE		8.8.4.4 US	53 (dns)	UDP	DNS	4nbizac8.ru	andromeda (malware)	(static)
+534ccae3
+r2d2
+1
+medium
+11th 11:23:28
+11th 11:23:28
+2.200.108.117 DE	43816	208.91.197.27 VG	443 (https)	TCP	IP	208.91.197.27	parking site (suspicious)	(static)
+ed92bc18
+r2d2
+1
+medium
+11th 12:11:24
+11th 12:11:24
+2.200.108.117 DE	44104	199.59.242.155 US	80 (http)	TCP	IP	199.59.242.155 (tracking.bodis.com)	parking site (suspicious)	(static)
+3c780a54
+r2d2
+2
+medium
+11th 10:46:43
+11th 12:11:22
+2.200.108.117 DE		199.59.242.153 US		TCP	IP	199.59.242.153 (shqipiptv.unaux.com)	parking site (suspicious)	(static)
+5296624b
+r2d2
+5
+medium
+11th 10:06:44
+11th 11:44:25
+2.200.108.117 DE		198.54.117.199 US	443 (https)	TCP	IP	198.54.117.199	parking site (suspicious)	(static)
+2384e838
+r2d2
+7
+medium
+11th 09:45:10
+11th 11:43:56
+2.200.108.117 DE		198.54.117.198 US	443 (https)	TCP	IP	198.54.117.198	parking site (suspicious)	(static)
+584f83ff
+r2d2
+1
+medium
+11th 11:53:14
+11th 11:53:14
+2.200.108.131 DE	42837	104.76.200.223 DE	80 (http)	TCP	UA	CN	user agent (suspicious)	(heuristic)
+17bddadb
+r2d2
+1
+medium
+11th 11:15:59
+11th 11:15:59
+2.200.109.50 DE	60130	8.8.8.8 US	53 (dns)	UDP	DNS	(www).zapmeta.ws	pua (suspicious)	(static)
+2c6d311b
+r2d2
+1
+medium
+11th 10:26:38
+11th 10:26:38
+2.200.109.50 DE	61506	8.8.8.8 US	53 (dns)	UDP	DNS	jsonip.com	ipinfo (suspicious)	(static)
+33a9af07
+r2d2
+1
+medium
+11th 08:58:59
+11th 08:58:59
+2.200.109.50 DE	61991	8.8.8.8 US	53 (dns)	UDP	DNS	(www.ntsc).ac.cn	domain (suspicious)	(static)
+a43c5160
+r2d2
+1
+medium
+11th 06:06:56
+11th 06:06:56
+2.200.109.50 DE	61659	8.8.8.8 US	53 (dns)	UDP	DNS	(resonancecinema).org.ru	domain (suspicious)	(static)
+bef3f04e
+r2d2
+1
+medium
+11th 09:48:27
+11th 09:48:27
+2.200.109.50 DE	61004	8.8.8.8 US	53 (dns)	UDP	DNS	(hp).myway.com	pua (suspicious)	(static)
+eae021e6
+r2d2
+1
+medium
+11th 12:35:08
+11th 12:35:08
+2.200.109.50 DE	61632	8.8.8.8 US	53 (dns)	UDP	DNS	freegeoip.app	ipinfo (suspicious)	(static)
+f5107f64
+r2d2
+1
+medium
+11th 09:47:34
+11th 09:47:34
+2.200.109.50 DE	62305	8.8.8.8 US	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+2734c150
+r2d2
+2
+high
+11th 09:17:01
+11th 12:36:22
+2.200.109.50 DE		8.8.8.8 US	53 (dns)	UDP	DNS	mynamedomain.koko	patchbrowse (malware)	(static)
+4dc474cc
+r2d2
+2
+medium
+11th 01:41:24
+11th 10:32:49
+2.200.109.50 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(update).drp.su	pua (suspicious)	(static)
+937302eb
+r2d2
+2
+medium
+11th 12:21:43
+11th 12:33:06
+2.200.109.50 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.pw	domain (suspicious)	(static)
+a6a357c9
+r2d2
+3
+medium
+11th 08:14:25
+11th 10:33:00
+2.200.109.50 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.ip-api.com	ipinfo (suspicious)	(static)
+847dfecd
+r2d2
+4
+medium
+11th 06:46:39
+11th 10:56:24
+2.200.109.50 DE		8.8.8.8 US	53 (dns)	UDP	DNS	cdnrep.reimage.com	pua (suspicious)	(static)
+b81e583b
+r2d2
+6
+medium
+11th 06:46:18
+11th 11:20:17
+2.200.109.50 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.reimageplus.com	pua (suspicious)	(static)
+d01b47ca
+r2d2
+6
+medium
+11th 00:45:28
+11th 11:20:08
+2.200.109.50 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.cc	domain (suspicious)	(static)
+4ed1a7c2
+r2d2
+7
+high
+11th 01:53:51
+11th 10:25:09
+2.200.109.50 DE		8.8.8.8 US	53 (dns)	UDP	DNS	id.remoteutilities.com	rmsrat (malware)	(static)
+111e9eD0
+r2d2
+9
+high
+11th 03:48:55
+11th 06:55:22
+2.200.109.50 DE		8.8.8.8 US	53 (dns)	UDP	DNS		conficker dga (malware)	360.com
+9908469c
+r2d2
+12
+medium
+11th 08:59:22
+11th 12:32:20
+2.200.109.50 DE		8.8.8.8 US	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+e516067e
+r2d2
+13
+medium
+11th 00:24:01
+11th 11:16:21
+2.200.109.50 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+c4f8647d
+r2d2
+15
+medium
+11th 00:45:36
+11th 06:54:15
+2.200.109.50 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.ws	domain (suspicious)	(static)
+256e8c86
+r2d2
+1
+medium
+11th 12:44:27
+11th 12:44:27
+2.200.109.51 DE	54826	8.8.8.8 US	53 (dns)	UDP	DNS	(webservice).reimageplus.com	pua (suspicious)	(static)
+5f793d0d
+r2d2
+1
+medium
+11th 12:32:01
+11th 12:32:01
+2.200.109.51 DE	58900	8.8.8.8 US	53 (dns)	UDP	DNS	(video.redwap).xyz	domain (suspicious)	(static)
+aa2608c2
+r2d2
+1
+medium
+11th 12:44:16
+11th 12:44:16
+2.200.109.51 DE	58073	8.8.8.8 US	53 (dns)	UDP	DNS	cdnrep.reimage.com	pua (suspicious)	(static)
+22abed1f
+r2d2
+3
+medium
+11th 08:53:17
+11th 09:14:17
+2.200.109.51 DE		8.8.8.8 US	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+fd27f09e
+r2d2
+1
+medium
+11th 08:26:02
+11th 08:26:02
+2.200.109.58 DE	37354	121.40.91.126 CN	53 (dns)	UDP	DNS	(hongchengprint).xicp.net	dynamic domain (suspicious)	(static)
+1b0c46c9
+r2d2
+2
+medium
+11th 09:17:58
+11th 09:23:47
+2.200.109.58 DE		199.59.242.142 US	53 (dns)	UDP	IP	199.59.242.142 	parking site (suspicious)	(static)
+2a9e456c
+r2d2
+2
+medium
+11th 01:16:04
+11th 01:16:04
+2.200.109.58 DE			53 (dns)	UDP	DNS	.ml	domain (suspicious)	(static)
+2e420c2c
+r2d2
+2
+medium
+11th 00:57:12
+11th 00:57:12
+2.200.109.58 DE			53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+32ba8acb
+r2d2
+2
+medium
+11th 11:56:31
+11th 11:56:32
+2.200.109.58 DE			53 (dns)	UDP	DNS	(carolinadesignercraftsmen).com	long domain (suspicious)	(heuristic)
+bbbc25d0
+r2d2
+2
+medium
+11th 08:08:08
+11th 09:17:58
+2.200.109.58 DE		199.59.242.141 US	53 (dns)	UDP	IP	199.59.242.141 	parking site (suspicious)	(static)
+c9386674
+r2d2
+2
+medium
+11th 03:30:01
+11th 03:30:01
+2.200.109.58 DE			53 (dns)	UDP	DNS	.su	domain (suspicious)	(static)
+aea99422
+r2d2
+5
+medium
+11th 04:29:16
+11th 08:37:21
+2.200.109.58 DE			53 (dns)	UDP	DNS	.eicp.net	dynamic domain (suspicious)	(static)
+e971db2f
+r2d2
+5
+medium
+11th 03:19:40
+11th 12:36:01
+2.200.109.58 DE			53 (dns)	UDP	DNS	.cc	domain (suspicious)	(static)
+ec8f440f
+r2d2
+1
+medium
+11th 12:37:21
+11th 12:37:21
+2.200.109.84 DE	53115	8.8.8.8 US	53 (dns)	UDP	DNS	(tiny).cc	domain (suspicious)	(static)
+a4790de9
+r2d2
+2
+medium
+11th 07:50:05
+11th 07:50:33
+2.200.109.84 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(grmkdi).ga	domain (suspicious)	(static)
+93900645
+r2d2
+1
+medium
+11th 09:55:12
+11th 09:55:12
+2.200.109.170 DE	54250	8.8.8.8 US	53 (dns)	UDP	DNS	(ssl).geoplugin.net	ipinfo (suspicious)	(static)
+a8da2cce
+r2d2
+1
+medium
+11th 11:21:16
+11th 11:21:16
+2.200.109.170 DE	51537	8.8.8.8 US	53 (dns)	UDP	DNS	(zvonmark).dynns.com	dynamic domain (suspicious)	(static)
+49efb62e
+r2d2
+2
+medium
+11th 09:06:49
+11th 09:06:50
+2.200.109.170 DE			53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+f41b4f0c
+r2d2
+2
+medium
+11th 09:06:51
+11th 10:57:48
+2.200.109.170 DE			53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+4e5cd0f3
+r2d2
+3
+medium
+11th 08:14:41
+11th 08:59:36
+2.200.109.170 DE			53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+0ad2fe29
+r2d2
+1
+medium
+11th 10:21:55
+11th 10:21:55
+2.200.109.177 DE	44012	8.8.8.8 US	53 (dns)	UDP	DNS	(kamera.smucisce).ga	domain (suspicious)	(static)
+0e534c7a
+r2d2
+1
+medium
+11th 08:47:46
+11th 08:47:46
+2.200.109.177 DE	35179	8.8.8.8 US	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+15140184
+r2d2
+1
+medium
+11th 09:49:18
+11th 09:49:18
+2.200.109.177 DE	31571	8.8.8.8 US	53 (dns)	UDP	DNS	(www).suprnova.cc	crypto mining (suspicious)	(static)
+299509e9
+r2d2
+1
+medium
+11th 11:26:21
+11th 11:26:21
+2.200.109.177 DE	35740	8.8.8.8 US	53 (dns)	UDP	DNS	t1.daumcdn.net	pua (suspicious)	(static)
+55091e56
+r2d2
+1
+medium
+11th 11:09:16
+11th 11:09:16
+2.200.109.177 DE	39601	8.8.8.8 US	53 (dns)	UDP	DNS	(hospitalityequipmentonline).com.au	long domain (suspicious)	(heuristic)
+810839e7
+r2d2
+1
+medium
+11th 07:10:26
+11th 07:10:26
+2.200.109.177 DE	25720	8.8.8.8 US	53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+8193716b
+r2d2
+1
+medium
+11th 11:09:19
+11th 11:09:19
+2.200.109.177 DE	39601	8.8.8.8 US	53 (dns)	UDP	DNS	(globalsciencecollaboration).org	long domain (suspicious)	(heuristic)
+86639ba5
+r2d2
+1
+medium
+11th 09:40:31
+11th 09:40:31
+2.200.109.177 DE	38155	8.8.8.8 US	53 (dns)	UDP	DNS	freegeoip.net	ipinfo (suspicious)	(static)
+8965fddb
+r2d2
+1
+medium
+11th 12:51:35
+11th 12:51:35
+2.200.109.177 DE	41920	18.215.128.143 US	443 (https)	TCP	IP	18.215.128.143	parking site (suspicious)	(static)
+a4b8e307
+r2d2
+1
+medium
+11th 10:58:47
+11th 10:58:47
+2.200.109.177 DE	41379	8.8.8.8 US	53 (dns)	UDP	DNS	(cinema).org.ru	domain (suspicious)	(static)
+b31cfe57
+r2d2
+1
+medium
+11th 09:15:10
+11th 09:15:10
+2.200.109.177 DE	3471	8.8.8.8 US	53 (dns)	UDP	DNS	.mesnotices.fr	long domain (suspicious)	(heuristic)
+d03b749a
+r2d2
+1
+medium
+11th 08:57:59
+11th 08:57:59
+2.200.109.177 DE	35982	80.237.132.61 DE	80 (http)	TCP	URL	www.multidoc-converter.com(/setup.exe)	direct .exe download (suspicious)	(heuristic)
+d75c57a8
+r2d2
+1
+medium
+11th 08:11:53
+11th 08:11:53
+2.200.109.177 DE	23034	212.44.101.109 SI	80 (http)	TCP	URL	(www.powersept.ie)/js/mage/cookies.js	magentocore (malicious)	(static)
+e802ceac
+r2d2
+1
+medium
+11th 10:19:41
+11th 10:19:41
+2.200.109.177 DE	17142	8.8.8.8 US	53 (dns)	UDP	DNS	geoip-db.com	ipinfo (suspicious)	(static)
+eb7ae051
+r2d2
+1
+medium
+11th 07:08:00
+11th 07:08:00
+2.200.109.177 DE	8626	8.8.8.8 US	53 (dns)	UDP	DNS	(mtenjeri).noip.me	dynamic domain (suspicious)	(static)
+f1bc9d88
+r2d2
+1
+medium
+11th 08:54:58
+11th 08:54:58
+2.200.109.177 DE	39800	8.8.8.8 US	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+31d6a524
+r2d2
+2
+medium
+11th 09:51:12
+11th 10:27:23
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.com	long domain (suspicious)	(heuristic)
+52335464
+r2d2
+2
+medium
+11th 09:20:13
+11th 10:10:40
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(lanterna).tk	domain (suspicious)	(static)
+64e30121
+r2d2
+2
+medium
+11th 07:57:13
+11th 12:38:34
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(www).default-search.net	pua (suspicious)	(static)
+a37df98c
+r2d2
+2
+medium
+11th 10:32:16
+11th 10:32:25
+2.200.109.177 DE		72.52.179.175 US	443 (https)	TCP	IP	72.52.179.175	parking site (suspicious)	(static)
+b1b0dd96
+r2d2
+2
+medium
+11th 12:33:30
+11th 12:46:10
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	jsonip.com	ipinfo (suspicious)	(static)
+cca31711
+r2d2
+2
+medium
+11th 11:25:40
+11th 11:25:40
+2.200.109.177 DE	5949	185.53.177.31 DE	80 (http)	TCP	IP	185.53.177.31 (balkanritam.ml)	parking site (suspicious)	(static)
+f9d730d6
+r2d2
+2
+medium
+11th 09:52:22
+11th 10:13:05
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(api).ipify.org	ipinfo (suspicious)	(static)
+4ebde000
+r2d2
+3
+medium
+11th 12:18:07
+11th 12:19:30
+2.200.109.177 DE		208.91.197.46 VG	80 (http)	TCP	IP	208.91.197.46	parking site (suspicious)	(static)
+6c8570dc
+r2d2
+3
+medium
+11th 11:09:19
+11th 11:10:04
+2.200.109.177 DE	11899	198.54.117.197 US	443 (https)	TCP	IP	198.54.117.197	parking site (suspicious)	(static)
+8ac7f3a4
+r2d2
+3
+medium
+11th 10:09:16
+11th 10:19:35
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.cc	domain (suspicious)	(static)
+9ed319a6
+r2d2
+3
+medium
+11th 07:07:32
+11th 12:09:05
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(search).conduit.com	pua (suspicious)	(static)
+c5b44bc2
+r2d2
+3
+medium
+11th 08:11:34
+11th 11:59:34
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.ip-api.com	ipinfo (suspicious)	(static)
+10220a25
+r2d2
+4
+medium
+11th 07:58:20
+11th 11:05:09
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+3e638515
+r2d2
+4
+medium
+11th 11:45:57
+11th 12:31:59
+2.200.109.177 DE		72.52.178.23 US	80 (http)	TCP	IP	72.52.178.23 	parking site (suspicious)	(static)
+80de85ac
+r2d2
+4
+high
+11th 09:04:22
+11th 12:39:05
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	mynamedomain.koko	patchbrowse (malware)	(static)
+f61ebad5
+r2d2
+5
+medium
+11th 09:40:21
+11th 12:56:39
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(hp).myway.com	pua (suspicious)	(static)
+0af04ebe
+r2d2
+6
+high
+11th 00:10:52
+11th 11:35:33
+2.200.109.177 DE		108.163.130.184 CA	5655	TCP	IPORT	108.163.130.184:5655	rmsrat (malware)	(static)
+20eb7e62
+r2d2
+6
+medium
+11th 07:41:24
+11th 12:32:49
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	(update).drp.su	pua (suspicious)	(static)
+2d2835e5
+r2d2
+7
+medium
+11th 06:18:14
+11th 06:40:41
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.ws	domain (suspicious)	(static)
+98b1048f
+r2d2
+9
+medium
+11th 00:04:04
+11th 11:09:54
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+189ba14e
+r2d2
+40
+high
+11th 00:30:18
+11th 12:54:51
+2.200.109.177 DE		8.8.8.8 US	53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+1ceda835
+r2d2
+2
+medium
+11th 11:34:05
+11th 11:45:53
+2.200.109.252 DE		198.11.136.14 US	80 (http)	TCP	HTTP	198.11.136.14	potential data leakage (suspicious)	(heuristic)
+4fb8ec5c
+r2d2
+2
+medium
+11th 11:27:48
+11th 12:49:15
+2.200.109.252 DE		47.88.68.33 US	80 (http)	TCP	HTTP	47.88.68.33	potential data leakage (suspicious)	(heuristic)
+7aa8de05
+r2d2
+2
+medium
+11th 10:31:00
+11th 12:59:30
+2.200.109.252 DE		47.88.68.20 US	80 (http)	TCP	HTTP	47.88.68.20	potential data leakage (suspicious)	(heuristic)
+bc1c492a
+r2d2
+3
+medium
+11th 10:24:16
+11th 12:49:18
+2.200.109.252 DE		198.11.136.14 US	80 (http)	TCP	HTTP	amdc.aliexpress.com	potential data leakage (suspicious)	(heuristic)
+a85cd4c0
+r2d2
+5
+medium
+11th 09:38:38
+11th 11:52:10
+2.200.109.252 DE		198.11.136.38 US	80 (http)	TCP	HTTP	198.11.136.38	potential data leakage (suspicious)	(heuristic)
+4bb80b1a
+r2d2
+3
+medium
+11th 00:08:18
+11th 08:46:36
+2.200.110.135 DE		8.8.8.8 US	53 (dns)	UDP	DNS	.ml	domain (suspicious)	(static)
+1c70aa67
+r2d2
+1
+high
+11th 03:57:20
+11th 03:57:20
+2.200.110.232 DE	65394	2.200.107.168 DE	53 (dns)	UDP	DNS	work.a-poster.info	tofsee (malware)	(static)
+32954612
+r2d2
+1
+medium
+11th 09:54:15
+11th 09:54:15
+2.200.110.232 DE	52655	2.200.107.168 DE	53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+447ba2be
+r2d2
+1
+medium
+11th 08:56:27
+11th 08:56:27
+2.200.110.232 DE	64967	2.200.107.168 DE	53 (dns)	UDP	DNS	us.xmlppcbuzz.com	pushbug (malicious)	(static)
+4d0a7f50
+r2d2
+1
+medium
+11th 10:00:03
+11th 10:00:03
+2.200.110.232 DE	49203	2.200.107.169 DE	53 (dns)	UDP	DNS	youutbe.com	domain (suspicious)	(static)
+5b6ab96f
+r2d2
+1
+medium
+11th 12:13:19
+11th 12:13:19
+2.200.110.232 DE	49485	2.200.107.169 DE	53 (dns)	UDP	DNS	(subicevac).dyndns.info	dynamic domain (suspicious)	(static)
+723076fb
+r2d2
+1
+medium
+11th 08:20:18
+11th 08:20:18
+2.200.110.232 DE	62507	2.200.107.168 DE	53 (dns)	UDP	DNS	(rebase-api).duckdns.org	dynamic domain (suspicious)	(static)+1
+77f3df54
+r2d2
+1
+medium
+11th 07:08:55
+11th 07:08:55
+2.200.110.232 DE	63513	2.200.107.169 DE	53 (dns)	UDP	DNS	(www).trovi.com	pua (suspicious)	(static)
+7bc498fc
+r2d2
+1
+medium
+11th 05:21:46
+11th 05:21:46
+2.200.110.232 DE	63947	2.200.107.168 DE	53 (dns)	UDP	DNS	xmlppcbuzz.com	pushbug (malicious)	(static)
+93b1b603
+r2d2
+1
+medium
+11th 10:02:34
+11th 10:02:34
+2.200.110.232 DE	64507	2.200.107.169 DE	53 (dns)	UDP	DNS	(www).wisecleaner.net	pua (suspicious)	(static)
+95daba82
+r2d2
+1
+medium
+11th 07:40:58
+11th 07:40:58
+2.200.110.232 DE	49306	2.200.107.169 DE	53 (dns)	UDP	DNS	.anvato.net	long domain (suspicious)	(heuristic)
+9699f066
+r2d2
+1
+medium
+11th 10:38:58
+11th 10:38:58
+2.200.110.232 DE	64783	2.200.107.168 DE	53 (dns)	UDP	DNS	ipecho.net	ipinfo (suspicious)	(static)
+9d0c83bf
+r2d2
+1
+medium
+11th 07:20:21
+11th 07:20:21
+2.200.110.232 DE	65201	2.200.107.168 DE	53 (dns)	UDP	DNS	(search).conduit.com	pua (suspicious)	(static)
+9d73fb17
+r2d2
+1
+medium
+11th 11:25:28
+11th 11:25:28
+2.200.110.232 DE	64839	2.200.107.169 DE	53 (dns)	UDP	DNS	(hit-cinema).net.ru	domain (suspicious)	(static)
+a8f19303
+r2d2
+1
+medium
+11th 12:20:06
+11th 12:20:06
+2.200.110.232 DE	52664	2.200.107.168 DE	53 (dns)	UDP	DNS	(dbak).mine.nu	dynamic domain (suspicious)	(static)
+b81810a5
+r2d2
+1
+medium
+11th 09:15:26
+11th 09:15:26
+2.200.110.232 DE	64773	2.200.107.169 DE	53 (dns)	UDP	DNS	pushwelcome.com	pushbug (malicious)	(static)
+c1e9dfaf
+r2d2
+1
+medium
+11th 09:13:26
+11th 09:13:26
+2.200.110.232 DE	53755	2.200.107.168 DE	53 (dns)	UDP	DNS	gmai.com	bad history (suspicious)	(static)
+d573b0b8
+r2d2
+1
+medium
+11th 10:55:13
+11th 10:55:13
+2.200.110.232 DE	65138	2.200.107.169 DE	53 (dns)	UDP	DNS	(content).sweetim.com	pua (suspicious)	(static)
+dcbc1408
+r2d2
+1
+medium
+11th 10:15:28
+11th 10:15:28
+2.200.110.232 DE	49162	2.200.107.169 DE	53 (dns)	UDP	DNS	icanhazip.com	ipinfo (suspicious)	(static)
+e8c31965
+r2d2
+1
+medium
+11th 12:20:31
+11th 12:20:31
+2.200.110.232 DE	64079	2.200.107.169 DE	53 (dns)	UDP	DNS	(mail2).runhosting.com	free web hosting (suspicious)	(static)
+ea47fe22
+r2d2
+1
+medium
+11th 09:11:36
+11th 09:11:36
+2.200.110.232 DE	64431	2.200.107.168 DE	53 (dns)	UDP	DNS	(script.vast).wtf	domain (suspicious)	(static)
+f0cf4561
+r2d2
+1
+medium
+11th 11:21:38
+11th 11:21:38
+2.200.110.232 DE	64182	2.200.107.168 DE	53 (dns)	UDP	DNS	(again).pw	domain (suspicious)	(static)
+f1d29ecd
+r2d2
+1
+medium
+11th 07:52:25
+11th 07:52:25
+2.200.110.232 DE	63479	2.200.107.169 DE	53 (dns)	UDP	DNS	(int).dpool.sina.com.cn	ipinfo (suspicious)	(static)
+fdb01a8b
+r2d2
+1
+medium
+11th 02:14:26
+11th 02:14:26
+2.200.110.232 DE	49464	2.200.107.169 DE	53 (dns)	UDP	DNS	wpad.ie	bad wpad (suspicious)	(static)
+01e63f1b
+r2d2
+2
+medium
+11th 10:24:11
+11th 10:26:23
+2.200.110.232 DE			53 (dns)	UDP	DNS	(opencdn).jomodns.com	dynamic domain (suspicious)	(static)
+1589da10
+r2d2
+2
+medium
+11th 09:20:28
+11th 09:22:37
+2.200.110.232 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	(dailystormer).su	domain (suspicious)	(static)
+27ee3854
+r2d2
+2
+medium
+11th 09:27:44
+11th 11:36:45
+2.200.110.232 DE			53 (dns)	UDP	DNS	jsonip.com	ipinfo (suspicious)	(static)
+4c56d79b
+r2d2
+2
+medium
+11th 10:35:06
+11th 10:47:04
+2.200.110.232 DE			53 (dns)	UDP	DNS	(xmovies8).lol	domain (suspicious)	(static)
+4d07dd45
+r2d2
+2
+medium
+11th 10:24:52
+11th 12:15:32
+2.200.110.232 DE			53 (dns)	UDP	DNS	(api).ipify.org	ipinfo (suspicious)	(static)
+4f64d487
+r2d2
+2
+medium
+11th 07:49:53
+11th 12:43:39
+2.200.110.232 DE			53 (dns)	UDP	DNS	ammankeyan.com	ek router (malicious)	(static)
+57f8ee49
+r2d2
+2
+medium
+11th 08:42:37
+11th 09:21:16
+2.200.110.232 DE			53 (dns)	UDP	DNS	.ws	domain (suspicious)	(static)
+58d028a7
+r2d2
+2
+medium
+11th 12:40:32
+11th 12:41:02
+2.200.110.232 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	.free.fr	domain (suspicious)	(static)
+68a9f9f0
+r2d2
+2
+medium
+11th 07:36:07
+11th 08:35:47
+2.200.110.232 DE			53 (dns)	UDP	DNS	toluhuku.com	pua (suspicious)	(static)
+b8fd87d2
+r2d2
+2
+medium
+11th 07:39:26
+11th 09:16:58
+2.200.110.232 DE			53 (dns)	UDP	DNS	myexternalip.com	ipinfo (suspicious)	(static)
+cb2113aa
+r2d2
+2
+medium
+11th 06:43:13
+11th 10:26:26
+2.200.110.232 DE			53 (dns)	UDP	DNS	onstunkyr.com	ek router (malicious)	(static)
+f0d33933
+r2d2
+2
+medium
+11th 00:58:05
+11th 12:58:49
+2.200.110.232 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	un-blocking.info	bad wpad (suspicious)	(static)
+f153100a
+r2d2
+2
+medium
+11th 07:33:42
+11th 10:34:50
+2.200.110.232 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	caradstag.casa	pushbug (malicious)	(static)
+f379ae61
+r2d2
+2
+medium
+11th 07:47:26
+11th 12:18:01
+2.200.110.232 DE			53 (dns)	UDP	DNS	extreme-ip-lookup.com	ipinfo (suspicious)	(static)
+1c38264a
+r2d2
+3
+medium
+11th 12:05:38
+11th 12:17:53
+2.200.110.232 DE			53 (dns)	UDP	DNS	(fizika-os).webs.com	free web hosting (suspicious)	(static)
+63f6d905
+r2d2
+3
+medium
+11th 11:19:43
+11th 11:23:38
+2.200.110.232 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	.org.ru	domain (suspicious)	(static)
+92fc26e6
+r2d2
+3
+medium
+11th 07:48:09
+11th 08:51:46
+2.200.110.232 DE			53 (dns)	UDP	DNS	webcompanion.com	pua (suspicious)	(static)
+3997fbfa
+r2d2
+4
+medium
+11th 10:12:24
+11th 11:40:48
+2.200.110.232 DE			53 (dns)	UDP	DNS	checkip.dyndns.org	ipinfo (suspicious)	(static)
+0cf42f9f
+r2d2
+5
+medium
+11th 10:24:28
+11th 12:49:27
+2.200.110.232 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	geolocation-db.com	ipinfo (suspicious)	(static)
+37a46148
+r2d2
+5
+medium
+11th 06:43:07
+11th 10:34:46
+2.200.110.232 DE			53 (dns)	UDP	DNS	inpagepush.com	pushbug (malicious)	(static)
+08d9dd46
+r2d2
+6
+medium
+11th 08:52:24
+11th 12:42:48
+2.200.110.232 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+98d8df77
+r2d2
+6
+medium
+11th 08:20:50
+11th 11:57:31
+2.200.110.232 DE			53 (dns)	UDP	DNS	.softonic.com	pua (suspicious)	(static)
+f10a91ad
+r2d2
+6
+medium
+11th 06:15:16
+11th 12:15:16
+2.200.110.232 DE			53 (dns)	UDP	DNS	(ipv4bot).whatismyipaddress.com	ipinfo (suspicious)	(static)
+615cae71
+r2d2
+7
+medium
+11th 08:44:06
+11th 10:57:31
+2.200.110.232 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	geedoovu.net	ek router (malicious)	(static)
+695c55a1
+r2d2
+7
+medium
+11th 07:01:32
+11th 12:15:32
+2.200.110.232 DE			53 (dns)	UDP	DNS	(pro).ip-api.com	ipinfo (suspicious)	(static)
+b4b47dfc
+r2d2
+7
+medium
+11th 08:20:45
+11th 12:30:35
+2.200.110.232 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	.com	long domain (suspicious)	(heuristic)
+5e605096
+r2d2
+8
+medium
+11th 07:05:26
+11th 08:34:00
+2.200.110.232 DE			53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+dfcb07d2
+r2d2
+8
+medium
+11th 08:20:55
+11th 12:17:41
+2.200.110.232 DE			53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+e06b892b
+r2d2
+9
+medium
+11th 07:13:17
+11th 12:33:11
+2.200.110.232 DE			53 (dns)	UDP	DNS	(hp).myway.com	pua (suspicious)	(static)
+c0bf0f08
+r2d2
+10
+medium
+11th 01:08:01
+11th 12:46:38
+2.200.110.232 DE			53 (dns)	UDP	DNS	jafuq.com	pua (suspicious)	(static)
+8a35f999
+r2d2
+16
+medium
+11th 00:14:18
+11th 12:51:19
+2.200.110.232 DE			53 (dns)	UDP	DNS	hahofaba.com	pua (suspicious)	(static)
+be33c523
+r2d2
+25
+medium
+11th 08:04:02
+11th 12:59:25
+2.200.110.232 DE			53 (dns)	UDP	DNS	.special-offers.online	pushbug (malicious)	(static)
+380b2f90
+r2d2
+27
+high
+11th 00:12:54
+11th 12:38:52
+2.200.110.232 DE			53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+cc08cad2
+r2d2
+27
+medium
+11th 00:33:00
+11th 11:59:43
+2.200.110.232 DE			53 (dns)	UDP	DNS	.wix.com	free web hosting (suspicious)	(static)
+09f855af
+r2d2
+28
+medium
+11th 00:02:10
+11th 12:36:07
+2.200.110.232 DE			53 (dns)	UDP	DNS	juronu.com	pua (suspicious)	(static)
+e5d215ef
+r2d2
+28
+medium
+11th 07:32:33
+11th 12:48:58
+2.200.110.232 DE			53 (dns)	UDP	DNS	.cc	domain (suspicious)	(static)
+5db08f77
+r2d2
+31
+medium
+11th 03:39:21
+11th 12:54:16
+2.200.110.232 DE			53 (dns)	UDP	DNS	qaloqum.com	pua (suspicious)	(static)
+915a2a36
+r2d2
+34
+medium
+11th 00:11:36
+11th 08:43:21
+2.200.110.232 DE			53 (dns)	UDP	DNS	cdnrep.reimage.com	pua (suspicious)	(static)
+6640c524
+r2d2
+39
+medium
+11th 08:11:58
+11th 12:51:04
+2.200.110.232 DE			53 (dns)	UDP	DNS	monerohash.com	crypto mining (suspicious)	(static)+1
+799cfb9a
+r2d2
+39
+medium
+11th 07:28:38
+11th 12:44:10
+2.200.110.232 DE			53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+81b47227
+r2d2
+46
+medium
+11th 00:11:36
+11th 11:17:20
+2.200.110.232 DE			53 (dns)	UDP	DNS	.reimageplus.com	pua (suspicious)	(static)
+d2d85726
+r2d2
+48
+high
+11th 00:01:43
+11th 12:56:43
+2.200.110.232 DE			53 (dns)	UDP	DNS	(www).porezna-uprava.org	balkanrat (malware)	(static)
+2418935e
+r2d2
+49
+high
+11th 00:04:43
+11th 12:43:59
+2.200.110.232 DE			53 (dns)	UDP	DNS		nanocore (malware)	(static)
+4183a37f
+r2d2
+49
+high
+11th 00:11:43
+11th 12:48:53
+2.200.110.232 DE			53 (dns)	UDP	DNS	content-delivery.in	afrodita (malware)	(static)
+516f05cb
+r2d2
+49
+high
+11th 00:09:28
+11th 12:46:38
+2.200.110.232 DE			53 (dns)	UDP	DNS	tredokilo745241.ru	zeus (malware)	(static)
+607aa68d
+r2d2
+49
+high
+11th 00:09:27
+11th 12:46:38
+2.200.110.232 DE			53 (dns)	UDP	DNS	(7tno4hib47vlep5o).42kjb11.net	teslacrypt (malware)	(static)
+1ac49427
+r2d2
+50
+high
+11th 00:09:27
+11th 12:46:38
+2.200.110.232 DE			53 (dns)	UDP	DNS	recenthosts.ru	generic (malware)	(static)
+314c5ada
+r2d2
+50
+high
+11th 00:13:59
+11th 12:36:03
+2.200.110.232 DE			53 (dns)	UDP	DNS	taxonprofits.com	cryptowall (malware)	(static)
+3dab6140
+r2d2
+50
+high
+11th 00:06:59
+11th 12:59:18
+2.200.110.232 DE			53 (dns)	UDP	DNS	7tno4hib47vlep5o.42kdb12.net	teslacrypt (malware)	(static)
+81561ea6
+r2d2
+50
+medium
+11th 00:09:27
+11th 12:46:38
+2.200.110.232 DE			53 (dns)	UDP	DNS	foley.go2lightuniversity.com	ek nuclear (malicious)	(static)
+9cbd3c15
+r2d2
+50
+medium
+11th 00:09:27
+11th 12:46:38
+2.200.110.232 DE			53 (dns)	UDP	DNS	supervision.sactown.us	ek nuclear (malicious)	(static)
+b5fe0057
+r2d2
+50
+high
+11th 00:03:43
+11th 12:58:43
+2.200.110.232 DE			53 (dns)	UDP	DNS	(www).zagrebseba.net	balkanrat (malware)	(static)
+c01874ad
+r2d2
+50
+high
+11th 00:09:27
+11th 12:46:37
+2.200.110.232 DE			53 (dns)	UDP	DNS	iynus.net	locky (malware)	(static)
+30165b13
+r2d2
+51
+high
+11th 00:14:16
+11th 12:51:27
+2.200.110.232 DE			53 (dns)	UDP	DNS	7tno4hib47vlep5o.tor2web.fi	teslacrypt (malware)	(static)
+7ffa7d0a
+r2d2
+51
+medium
+11th 00:09:27
+11th 12:46:37
+2.200.110.232 DE			53 (dns)	UDP	DNS	soaring.betsystemreviews.com	ek nuclear (malicious)	(static)
+86331677
+r2d2
+51
+medium
+11th 00:09:27
+11th 12:46:38
+2.200.110.232 DE			53 (dns)	UDP	DNS	banking.techpool.org	ek nuclear (malicious)	(static)
+00917b6b
+r2d2
+55
+high
+11th 00:09:31
+11th 12:46:38
+2.200.110.232 DE			53 (dns)	UDP	DNS	.jesusdenazaret.com.ve	locky (malware)	(static)
+fc7db17d
+r2d2
+72
+medium
+11th 00:03:07
+11th 12:39:58
+2.200.110.232 DE			53 (dns)	UDP	DNS	(vio-ck-zvdnggdkkp).dynamic-m.com	dynamic domain (suspicious)	(static)
+07685d96
+r2d2
+75
+high
+11th 00:03:05
+11th 12:52:54
+2.200.110.232 DE			53 (dns)	UDP	DNS	.southlife.church	locky (malware)	(static)
+99683db1
+r2d2
+131
+medium
+11th 00:02:59
+11th 12:57:59
+2.200.110.232 DE			53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+2ef39944
+r2d2
+235
+high
+11th 00:01:59
+11th 12:58:08
+2.200.110.232 DE			53 (dns)	UDP	DNS	7tno4hib47vlep5o.tor2web.blutmagie.de	teslacrypt (malware)	(static)
+f16ce04d
+r2d2
+489
+high
+11th 00:01:43
+11th 12:58:43
+2.200.110.232 DE			53 (dns)	UDP	DNS	atacoinc8897.hopto.org	nanocore (malware)	(static)
+ecb2e958
+r2d2
+641
+high
+11th 00:00:11
+11th 12:59:18
+2.200.110.232 DE			53 (dns)	UDP	DNS	j0mla.sytes.net	generic (malware)	(static)
+070f4a1e
+r2d2
+1
+medium
+11th 12:02:18
+11th 12:02:18
+2.200.110.233 DE	56857	2.200.107.168 DE	53 (dns)	UDP	DNS	get.geojs.io	ipinfo (suspicious)	(static)
+129f1234
+r2d2
+1
+medium
+11th 08:56:27
+11th 08:56:27
+2.200.110.233 DE	49158	2.200.107.169 DE	53 (dns)	UDP	DNS	us.xmlppcbuzz.com	pushbug (malicious)	(static)
+1f70c9c8
+r2d2
+1
+high
+11th 06:30:19
+11th 06:30:19
+2.200.110.233 DE	49184	2.200.107.168 DE	53 (dns)	UDP	DNS	catpitaqmi.net	neshuta (malware)	(static)
+26f575ce
+r2d2
+1
+medium
+11th 07:52:25
+11th 07:52:25
+2.200.110.233 DE	63898	2.200.107.168 DE	53 (dns)	UDP	DNS	(int).dpool.sina.com.cn	ipinfo (suspicious)	(static)
+2fb1af87
+r2d2
+1
+medium
+11th 08:39:18
+11th 08:39:18
+2.200.110.233 DE	65021	2.200.107.168 DE	53 (dns)	UDP	DNS	.web-networking.com	long domain (suspicious)	(heuristic)
+395fcf23
+r2d2
+1
+medium
+11th 07:40:57
+11th 07:40:57
+2.200.110.233 DE	64549	2.200.107.168 DE	53 (dns)	UDP	DNS	xmrpool.eu	crypto mining (suspicious)	(static)+1
+40723701
+r2d2
+1
+medium
+11th 10:55:13
+11th 10:55:13
+2.200.110.233 DE	64769	2.200.107.168 DE	53 (dns)	UDP	DNS	(content).sweetim.com	pua (suspicious)	(static)
+4845e05b
+r2d2
+1
+high
+11th 06:30:19
+11th 06:30:19
+2.200.110.233 DE	64832	2.200.107.168 DE	53 (dns)	UDP	DNS	zimagdcmasn.net	neshuta (malware)	(static)
+529f402a
+r2d2
+1
+medium
+11th 09:15:55
+11th 09:15:55
+2.200.110.233 DE	55859	2.200.107.168 DE	53 (dns)	UDP	DNS	(www).metacrawler.com	pua (suspicious)	(static)
+53ab9d2e
+r2d2
+1
+medium
+11th 08:45:45
+11th 08:45:45
+2.200.110.233 DE	64834	2.200.107.168 DE	53 (dns)	UDP	DNS	(gsdjgjskdfjksjdhgjhjaighs).gasdguiua	long domain (suspicious)	(heuristic)
+81142127
+r2d2
+1
+medium
+11th 10:00:03
+11th 10:00:03
+2.200.110.233 DE	64068	2.200.107.168 DE	53 (dns)	UDP	DNS	youutbe.com	domain (suspicious)	(static)
+8d07ca41
+r2d2
+1
+medium
+11th 11:21:39
+11th 11:21:39
+2.200.110.233 DE	65297	2.200.107.168 DE	53 (dns)	UDP	DNS	(again).pw	domain (suspicious)	(static)
+9503e8e5
+r2d2
+1
+medium
+11th 12:09:06
+11th 12:09:06
+2.200.110.233 DE	64975	2.200.107.168 DE	53 (dns)	UDP	DNS	lowtyroguer.com	ek router (malicious)	(static)
+9cf73fbc
+r2d2
+1
+medium
+11th 10:02:34
+11th 10:02:34
+2.200.110.233 DE	63689	2.200.107.168 DE	53 (dns)	UDP	DNS	(www).wisecleaner.net	pua (suspicious)	(static)
+9d81eeda
+r2d2
+1
+medium
+11th 09:13:26
+11th 09:13:26
+2.200.110.233 DE	54731	2.200.107.168 DE	53 (dns)	UDP	DNS	gmai.com	bad history (suspicious)	(static)
+b2687452
+r2d2
+1
+medium
+11th 05:21:46
+11th 05:21:46
+2.200.110.233 DE	63819	2.200.107.169 DE	53 (dns)	UDP	DNS	xmlppcbuzz.com	pushbug (malicious)	(static)
+c5b796d3
+r2d2
+1
+medium
+11th 08:59:18
+11th 08:59:18
+2.200.110.233 DE	64054	2.200.107.168 DE	53 (dns)	UDP	DNS	(safcom).sytes.net	dynamic domain (suspicious)	(static)
+c9569218
+r2d2
+1
+medium
+11th 06:43:13
+11th 06:43:13
+2.200.110.233 DE	64481	2.200.107.168 DE	53 (dns)	UDP	DNS	onstunkyr.com	ek router (malicious)	(static)
+cc70090a
+r2d2
+1
+medium
+11th 10:34:09
+11th 10:34:09
+2.200.110.233 DE	56118	2.200.107.168 DE	53 (dns)	UDP	DNS	(ssl).geoplugin.net	ipinfo (suspicious)	(static)
+d0a4c359
+r2d2
+1
+medium
+11th 09:16:59
+11th 09:16:59
+2.200.110.233 DE	49157	2.200.107.168 DE	53 (dns)	UDP	DNS	myexternalip.com	ipinfo (suspicious)	(static)
+d6a76694
+r2d2
+1
+medium
+11th 09:29:30
+11th 09:29:30
+2.200.110.233 DE	55281	2.200.107.168 DE	53 (dns)	UDP	DNS	(euramend-ported).icu	domain (suspicious)	(static)
+e4a673bb
+r2d2
+1
+medium
+11th 12:20:06
+11th 12:20:06
+2.200.110.233 DE	54971	2.200.107.168 DE	53 (dns)	UDP	DNS	(dbak).mine.nu	dynamic domain (suspicious)	(static)
+ea4bd6c2
+r2d2
+1
+medium
+11th 08:22:08
+11th 08:22:08
+2.200.110.233 DE	54637	2.200.107.168 DE	53 (dns)	UDP	DNS	(lanterna).tk	domain (suspicious)	(static)
+eb3a088d
+r2d2
+1
+medium
+11th 10:34:52
+11th 10:34:52
+2.200.110.233 DE	65253	2.200.107.168 DE	53 (dns)	UDP	DNS	(autoupdate.chromewebtb).tbccint.com	pua (suspicious)	(static)
+eff20d92
+r2d2
+1
+medium
+11th 10:15:28
+11th 10:15:28
+2.200.110.233 DE	63620	2.200.107.168 DE	53 (dns)	UDP	DNS	icanhazip.com	ipinfo (suspicious)	(static)
+f29c18c3
+r2d2
+1
+medium
+11th 09:11:36
+11th 09:11:36
+2.200.110.233 DE	64623	2.200.107.169 DE	53 (dns)	UDP	DNS	(script.vast).wtf	domain (suspicious)	(static)
+f35ae8e0
+r2d2
+1
+medium
+11th 12:41:52
+11th 12:41:52
+2.200.110.233 DE	56024	2.200.107.168 DE	53 (dns)	UDP	DNS	.comodoca.com	long domain (suspicious)	(heuristic)
+fed83340
+r2d2
+1
+medium
+11th 10:38:57
+11th 10:38:57
+2.200.110.233 DE	49292	2.200.107.168 DE	53 (dns)	UDP	DNS	ipecho.net	ipinfo (suspicious)	(static)
+25d5c10b
+r2d2
+2
+medium
+11th 08:20:19
+11th 09:53:03
+2.200.110.233 DE			53 (dns)	UDP	DNS	(rebase-api).duckdns.org	dynamic domain (suspicious)	(static)+1
+2d9bad9b
+r2d2
+2
+medium
+11th 07:33:42
+11th 10:34:50
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	caradstag.casa	pushbug (malicious)	(static)
+3135c438
+r2d2
+2
+medium
+11th 07:47:26
+11th 12:18:01
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	extreme-ip-lookup.com	ipinfo (suspicious)	(static)
+67a73fe2
+r2d2
+2
+medium
+11th 07:48:56
+11th 08:05:36
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	wpad.ie	bad wpad (suspicious)	(static)
+941f5085
+r2d2
+2
+medium
+11th 08:15:33
+11th 10:37:36
+2.200.110.233 DE			53 (dns)	UDP	DNS	(search).conduit.com	pua (suspicious)	(static)
+a3bb7b0e
+r2d2
+2
+medium
+11th 07:36:07
+11th 08:35:47
+2.200.110.233 DE		2.200.107.169 DE	53 (dns)	UDP	DNS	toluhuku.com	pua (suspicious)	(static)
+a6e63608
+r2d2
+2
+medium
+11th 09:54:15
+11th 10:38:57
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+d0157bcd
+r2d2
+2
+medium
+11th 09:18:27
+11th 10:18:34
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	(cloud).brobgser.com	pua (suspicious)	(static)
+d93e90d9
+r2d2
+2
+medium
+11th 11:25:28
+11th 11:25:28
+2.200.110.233 DE	64212		53 (dns)	UDP	DNS	(hit-cinema).net.ru	domain (suspicious)	(static)
+e739b43e
+r2d2
+2
+medium
+11th 12:15:32
+11th 12:25:41
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	(api).ipify.org	ipinfo (suspicious)	(static)
+04b3e6f9
+r2d2
+3
+medium
+11th 09:18:22
+11th 10:18:30
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	.firefox1.com	pua (suspicious)	(static)
+16b7b9ba
+r2d2
+3
+medium
+11th 11:52:06
+11th 12:49:27
+2.200.110.233 DE			53 (dns)	UDP	DNS	geolocation-db.com	ipinfo (suspicious)	(static)
+1737846d
+r2d2
+3
+medium
+11th 07:53:14
+11th 11:00:46
+2.200.110.233 DE			53 (dns)	UDP	DNS	.reimageplus.com	pua (suspicious)	(static)
+1b85d4d1
+r2d2
+3
+medium
+11th 09:20:28
+11th 09:22:37
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	(dailystormer).su	domain (suspicious)	(static)
+8814fac0
+r2d2
+3
+medium
+11th 08:05:59
+11th 10:47:04
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	.lol	domain (suspicious)	(static)
+c0ebe84a
+r2d2
+3
+medium
+11th 12:22:27
+11th 12:34:43
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	(genesis).ddns.me	dynamic domain (suspicious)	(static)
+c4641588
+r2d2
+3
+medium
+11th 11:36:45
+11th 12:31:10
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	jsonip.com	ipinfo (suspicious)	(static)
+d7ffc8aa
+r2d2
+3
+medium
+11th 10:30:33
+11th 11:40:48
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	checkip.dyndns.org	ipinfo (suspicious)	(static)
+dbcc9751
+r2d2
+3
+medium
+11th 11:19:43
+11th 11:23:38
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	.org.ru	domain (suspicious)	(static)
+dff53bc9
+r2d2
+3
+medium
+11th 07:49:53
+11th 12:51:43
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	ammankeyan.com	ek router (malicious)	(static)
+a8125e0f
+r2d2
+4
+medium
+11th 07:28:22
+11th 07:58:59
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	.anvato.net	long domain (suspicious)	(heuristic)
+82dc1766
+r2d2
+5
+medium
+11th 08:24:36
+11th 11:28:07
+2.200.110.233 DE			53 (dns)	UDP	DNS	.ws	domain (suspicious)	(static)
+d0303738
+r2d2
+5
+medium
+11th 07:01:32
+11th 12:35:13
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	.ip-api.com	ipinfo (suspicious)	(static)
+f1424f95
+r2d2
+5
+medium
+11th 06:43:07
+11th 10:34:46
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	inpagepush.com	pushbug (malicious)	(static)
+3f76500f
+r2d2
+7
+medium
+11th 07:38:15
+11th 10:03:32
+2.200.110.233 DE			53 (dns)	UDP	DNS	.webcompanion.com	pua (suspicious)	(static)
+4c89d6e6
+r2d2
+7
+medium
+11th 08:52:24
+11th 12:42:48
+2.200.110.233 DE			53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+5c686190
+r2d2
+7
+medium
+11th 08:44:06
+11th 10:57:31
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	geedoovu.net	ek router (malicious)	(static)
+8968a4a8
+r2d2
+7
+medium
+11th 00:26:40
+11th 06:28:13
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	cdnrep.reimage.com	pua (suspicious)	(static)
+c62b8ae1
+r2d2
+7
+medium
+11th 06:15:16
+11th 12:15:16
+2.200.110.233 DE		2.200.107.168 DE	53 (dns)	UDP	DNS	(ipv4bot).whatismyipaddress.com	ipinfo (suspicious)	(static)
+1513f443
+r2d2
+8
+medium
+11th 08:20:50
+11th 11:57:27
+2.200.110.233 DE			53 (dns)	UDP	DNS	.softonic.com	pua (suspicious)	(static)
+4320e54b
+r2d2
+9
+medium
+11th 08:15:34
+11th 12:30:35
+2.200.110.233 DE			53 (dns)	UDP	DNS	.com	long domain (suspicious)	(heuristic)
+8ffe80fe
+r2d2
+9
+medium
+11th 01:00:00
+11th 12:42:29
+2.200.110.233 DE			53 (dns)	UDP	DNS	jafuq.com	pua (suspicious)	(static)
+a233e16d
+r2d2
+11
+medium
+11th 02:58:21
+11th 12:16:06
+2.200.110.233 DE			53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+4c4c359c
+r2d2
+14
+medium
+11th 08:12:03
+11th 12:56:52
+2.200.110.233 DE			53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+ebf910bb
+r2d2
+14
+medium
+11th 07:13:17
+11th 12:33:11
+2.200.110.233 DE			53 (dns)	UDP	DNS	.myway.com	pua (suspicious)	(static)
+b48bbaea
+r2d2
+15
+medium
+11th 07:36:07
+11th 12:36:07
+2.200.110.233 DE			53 (dns)	UDP	DNS	juronu.com	pua (suspicious)	(static)
+7ced821b
+r2d2
+19
+medium
+11th 00:14:18
+11th 12:51:19
+2.200.110.233 DE			53 (dns)	UDP	DNS	hahofaba.com	pua (suspicious)	(static)
+e5ed987d
+r2d2
+23
+medium
+11th 03:39:21
+11th 12:14:18
+2.200.110.233 DE			53 (dns)	UDP	DNS	qaloqum.com	pua (suspicious)	(static)
+d3d8fe39
+r2d2
+25
+medium
+11th 07:32:33
+11th 12:48:58
+2.200.110.233 DE			53 (dns)	UDP	DNS	.cc	domain (suspicious)	(static)
+f452a7d2
+r2d2
+26
+medium
+11th 08:04:02
+11th 12:59:25
+2.200.110.233 DE			53 (dns)	UDP	DNS	(cdn).special-offers.online	pushbug (malicious)	(static)
+b560e4ec
+r2d2
+28
+high
+11th 00:12:54
+11th 12:38:52
+2.200.110.233 DE			53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+f25cbd91
+r2d2
+39
+medium
+11th 07:28:38
+11th 12:49:01
+2.200.110.233 DE			53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+4d4d41a8
+r2d2
+46
+high
+11th 00:09:27
+11th 12:46:38
+2.200.110.233 DE			53 (dns)	UDP	DNS	(7tno4hib47vlep5o).42kjb11.net	teslacrypt (malware)	(static)
+631dc639
+r2d2
+46
+medium
+11th 00:10:37
+11th 12:48:58
+2.200.110.233 DE			53 (dns)	UDP	DNS	foley.go2lightuniversity.com	ek nuclear (malicious)	(static)
+4b272719
+r2d2
+49
+high
+11th 00:07:07
+11th 12:59:23
+2.200.110.233 DE			53 (dns)	UDP	DNS	7tno4hib47vlep5o.42kdb12.net	teslacrypt (malware)	(static)
+a00341d1
+r2d2
+49
+medium
+11th 00:09:27
+11th 12:46:37
+2.200.110.233 DE			53 (dns)	UDP	DNS	soaring.betsystemreviews.com	ek nuclear (malicious)	(static)
+d4ef1418
+r2d2
+49
+high
+11th 00:14:07
+11th 12:51:08
+2.200.110.233 DE			53 (dns)	UDP	DNS	taxonprofits.com	cryptowall (malware)	(static)
+3a8d6a16
+r2d2
+50
+high
+11th 00:06:19
+11th 12:59:23
+2.200.110.233 DE			53 (dns)	UDP	DNS	recenthosts.ru	generic (malware)	(static)
+ace6f684
+r2d2
+50
+high
+11th 00:11:47
+11th 12:48:48
+2.200.110.233 DE			53 (dns)	UDP	DNS	content-delivery.in	afrodita (malware)	(static)
+baead6f7
+r2d2
+50
+high
+11th 00:05:58
+11th 12:59:23
+2.200.110.233 DE			53 (dns)	UDP	DNS	tredokilo745241.ru	zeus (malware)	(static)
+e4296a92
+r2d2
+50
+medium
+11th 00:06:18
+11th 12:59:23
+2.200.110.233 DE			53 (dns)	UDP	DNS	supervision.sactown.us	ek nuclear (malicious)	(static)
+fb02248d
+r2d2
+50
+medium
+11th 00:05:57
+11th 12:59:23
+2.200.110.233 DE			53 (dns)	UDP	DNS	banking.techpool.org	ek nuclear (malicious)	(static)
+959bb297
+r2d2
+51
+high
+11th 00:09:27
+11th 12:46:37
+2.200.110.233 DE			53 (dns)	UDP	DNS	iynus.net	locky (malware)	(static)
+e6092fb0
+r2d2
+52
+high
+11th 00:07:16
+11th 12:59:23
+2.200.110.233 DE			53 (dns)	UDP	DNS	7tno4hib47vlep5o.tor2web.fi	teslacrypt (malware)	(static)
+1dd0e966
+r2d2
+57
+medium
+11th 07:41:21
+11th 12:56:08
+2.200.110.233 DE			53 (dns)	UDP	DNS	monerohash.com	crypto mining (suspicious)	(static)+1
+ca119351
+r2d2
+74
+medium
+11th 00:10:37
+11th 12:52:09
+2.200.110.233 DE			53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+d437cfe1
+r2d2
+99
+high
+11th 00:06:01
+11th 12:59:23
+2.200.110.233 DE			53 (dns)	UDP	DNS	.jesusdenazaret.com.ve	locky (malware)	(static)
+b03c1224
+r2d2
+103
+medium
+11th 00:06:49
+11th 12:52:13
+2.200.110.233 DE			53 (dns)	UDP	DNS	un-blocking.info	bad wpad (suspicious)	(static)
+4525d360
+r2d2
+226
+high
+11th 00:02:27
+11th 12:58:08
+2.200.110.233 DE			53 (dns)	UDP	DNS	7tno4hib47vlep5o.tor2web.blutmagie.de	teslacrypt (malware)	(static)
+0034a7f1
+r2d2
+609
+high
+11th 00:00:11
+11th 12:59:18
+2.200.110.233 DE			53 (dns)	UDP	DNS	j0mla.sytes.net	generic (malware)	(static)
+256f3262
+r2d2
+3
+medium
+11th 07:37:57
+11th 10:15:27
+2.200.211.2 DE			445 (smb)	TCP	PORT	445	potential infection	(heuristic)
+06914734
+r2d2
+9
+medium
+11th 10:46:51
+11th 11:46:19
+2.200.215.186 DE			445 (smb)	TCP	PORT	445	potential infection	(heuristic)
+dbf40df3
+r2d2
+4
+medium
+11th 10:47:06
+11th 11:46:17
+2.200.215.188 DE			445 (smb)	TCP	PORT	445	potential infection	(heuristic)
+59652caa
+r2d2
+2
+medium
+11th 10:42:42
+11th 10:42:42
+2.200.240.54 DE	53 (dns)	2.200.108.59 DE		UDP	DNS	(www.duplointernational).eu	parked site (suspicious)	(heuristic)
+384f475e
+r2d2
+3
+medium
+11th 08:39:37
+11th 11:53:43
+2.200.240.54 DE	53 (dns)	2.200.108.59 DE		UDP	DNS	.com	parked site (suspicious)	(heuristic)
+76d5959e
+r2d2
+1
+medium
+11th 10:04:26
+11th 10:04:26
+8.8.4.4 US	53 (dns)	2.200.97.1 DE	53741	UDP	DNS	(webcreationfactory).com	entropy threshold no such domain (suspicious)	(heuristic)
+a5691a1f
+r2d2
+1
+medium
+11th 09:02:51
+11th 09:02:51
+8.8.4.4 US	53 (dns)	2.200.97.1 DE	52767	UDP	DNS	(eocevidnik.inspektorat).ie	parked site (suspicious)	(heuristic)
+bcdc0d55
+r2d2
+3
+high
+11th 08:22:00
+11th 09:54:47
+8.8.4.4 US	53 (dns)			UDP	DNS	differentia.ru	sinkholed by kryptoslogic (malware)	(heuristic)
+750779f3
+r2d2
+119
+high
+11th 08:21:58
+11th 12:15:09
+8.8.4.4 US	53 (dns)			UDP	DNS	.ru	sinkholed by bitsight (malware)	(heuristic)
+8651da51
+r2d2
+1
+high
+11th 10:52:01
+11th 10:52:01
+8.8.8.8 US	53 (dns)	2.200.108.59 DE	14118	UDP	DNS	76236osm1.ru	sinkholed by shadowserver (malware)	(heuristic)
+ac1eee5b
+r2d2
+1
+medium
+11th 11:09:19
+11th 11:09:19
+8.8.8.8 US	53 (dns)	2.200.109.177 DE	39601	UDP	DNS	(globalsciencecollaboration).org	parked site (suspicious)	(heuristic)
+0faa492b
+r2d2
+2
+medium
+11th 00:46:42
+11th 00:48:25
+8.8.8.8 US	53 (dns)	2.200.109.50 DE		UDP	DNS	.biz	consonant threshold no such domain (suspicious)	(heuristic)
+78080dc8
+r2d2
+2
+medium
+11th 09:52:44
+11th 09:53:29
+8.8.8.8 US	53 (dns)	2.200.109.177 DE		UDP	DNS	www.connect.facebook.net	excessive no such domain (suspicious)	(heuristic)
+820a976c
+r2d2
+2
+medium
+11th 10:04:26
+11th 10:46:39
+8.8.8.8 US	53 (dns)			UDP	DNS	.com	entropy threshold no such domain (suspicious)	(heuristic)
+8cd5c171
+r2d2
+2
+medium
+11th 11:59:57
+11th 11:59:57
+8.8.8.8 US	53 (dns)	2.200.107.248 DE	18073	UDP	DNS	(prcdn).co	parked site (suspicious)	(heuristic)
+c037fe79
+r2d2
+2
+medium
+11th 10:09:38
+11th 10:09:38
+8.8.8.8 US	53 (dns)	2.200.108.59 DE	11568	UDP	DNS	(www.mir).ie	parked site (suspicious)	(heuristic)
+f0e44928
+r2d2
+2
+medium
+11th 11:34:58
+11th 11:34:58
+8.8.8.8 US	53 (dns)	2.200.107.248 DE	11477	UDP	DNS	(360.almari).io	parked site (suspicious)	(heuristic)
+f6c54079
+r2d2
+2
+medium
+11th 09:53:29
+11th 09:53:47
+8.8.8.8 US	53 (dns)	2.200.109.177 DE	55117	UDP	DNS	(www.connect).facebook.net	excessive no such domain (suspicious)	(heuristic)
+9b7ab55b
+r2d2
+3
+medium
+11th 00:47:04
+11th 00:48:10
+8.8.8.8 US	53 (dns)	2.200.109.50 DE		UDP	DNS	.info	consonant threshold no such domain (suspicious)	(heuristic)
+da6a050a
+r2d2
+3
+medium
+11th 00:45:36
+11th 00:47:26
+8.8.8.8 US	53 (dns)	2.200.109.50 DE		UDP	DNS	.org	consonant threshold no such domain (suspicious)	(heuristic)
+220097f6
+r2d2
+4
+high
+11th 00:45:28
+11th 06:52:59
+8.8.8.8 US	53 (dns)	2.200.109.50 DE		UDP	DNS	.info	sinkholed by securityscorecard (malware)	(heuristic)
+a21b16af
+r2d2
+4
+medium
+11th 04:01:17
+11th 10:02:02
+8.8.8.8 US	53 (dns)			UDP	DNS	.com	consonant threshold no such domain (suspicious)	(heuristic)
+e34df73d
+r2d2
+4
+medium
+11th 07:49:14
+11th 07:51:01
+8.8.8.8 US	53 (dns)	2.200.104.32 DE		UDP	DNS	srvsccm2.redacted.com	excessive no such domain (suspicious)	(heuristic)
+6fef2d59
+r2d2
+5
+medium
+11th 00:45:51
+11th 00:48:25
+8.8.8.8 US	53 (dns)	2.200.109.50 DE		UDP	DNS	.net	consonant threshold no such domain (suspicious)	(heuristic)
+69dd2386
+r2d2
+11
+medium
+11th 07:43:49
+11th 12:28:03
+8.8.8.8 US	53 (dns)			UDP	DNS	.redacted.com	excessive no such domain (suspicious)	(heuristic)
+0701fa66
+r2d2
+13
+medium
+11th 08:59:08
+11th 11:42:38
+8.8.8.8 US	53 (dns)			UDP	DNS	autodiscover.redacted.com	excessive no such domain (suspicious)	(heuristic)
+f7218748
+r2d2
+13
+high
+11th 00:45:28
+11th 06:55:15
+8.8.8.8 US	53 (dns)	2.200.109.50 DE		UDP	DNS	.ws	sinkholed by farsight (malware)	(heuristic)
+a87a4971
+r2d2
+21
+medium
+11th 05:30:59
+11th 12:55:02
+8.8.8.8 US	53 (dns)			UDP	DNS	.com	parked site (suspicious)	(heuristic)
+9c86db54
+r2d2
+1
+low
+11th 00:06:18
+11th 00:06:18
+8.210.151.146 HK		2.200.106.136 DE		TCP	IP	8.210.151.146	potential port scanning	(heuristic)
+3c7f67d2
+r2d2
+1
+low
+11th 11:44:41
+11th 11:44:41
+8.210.187.243 HK		2.200.103.19 DE		TCP	IP	8.210.187.243	potential port scanning	(heuristic)
+e128b023
+r2d2
+2
+medium
+11th 12:13:19
+11th 12:13:19
+10.1.5.29 LAN	58278	10.1.192.236 LAN	53 (dns)	UDP	DNS	(subicevac).dyndns.info	dynamic domain (suspicious)	(static)
+f4e7ae07
+r2d2
+2
+medium
+11th 09:51:09
+11th 12:09:33
+10.1.6.157 LAN		10.1.192.236 LAN	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+9cc236ef
+r2d2
+1
+medium
+11th 11:54:33
+11th 11:54:33
+10.1.6.215 LAN	53836	10.1.192.236 LAN	53 (dns)	UDP	DNS	(pro).ip-api.com	ipinfo (suspicious)	(static)
+1f4ff178
+r2d2
+1
+medium
+11th 10:24:28
+11th 10:24:28
+10.1.12.220 LAN	56129	10.1.192.236 LAN	53 (dns)	UDP	DNS	geolocation-db.com	ipinfo (suspicious)	(static)
+414a0544
+r2d2
+1
+medium
+11th 07:08:55
+11th 07:08:55
+10.1.12.220 LAN	60966	10.1.192.236 LAN	53 (dns)	UDP	DNS	(www).trovi.com	pua (suspicious)	(static)
+94e9500a
+r2d2
+1
+medium
+11th 07:40:30
+11th 07:40:30
+10.1.14.247 LAN	53690	10.1.192.236 LAN	53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+fd61523f
+r2d2
+1
+medium
+11th 11:12:50
+11th 11:12:50
+10.1.15.243 LAN	56678	10.1.192.236 LAN	53 (dns)	UDP	DNS	(zero.testtrack).xyz	domain (suspicious)	(static)
+53b9e4a5
+r2d2
+249
+medium
+11th 00:00:41
+11th 12:58:20
+10.1.19.42 LAN		208.68.240.103 US	80 (http)	TCP	UA	OINC 	user agent (suspicious)	(heuristic)
+dd726c31
+r2d2
+1
+medium
+11th 00:45:36
+11th 00:45:36
+10.1.20.50 LAN	53 (dns)	10.2.120.16 LAN	1693	UDP	DNS	(frmjfmctzoj).org	consonant threshold no such domain (suspicious)	(heuristic)
+43d9314c
+r2d2
+2
+medium
+11th 00:46:42
+11th 00:48:25
+10.1.20.50 LAN	53 (dns)	10.2.120.16 LAN	1690	UDP	DNS	.biz	consonant threshold no such domain (suspicious)	(heuristic)
+75f5b371
+r2d2
+2
+high
+11th 00:45:28
+11th 09:58:19
+10.1.20.50 LAN	53 (dns)	10.2.120.16 LAN		UDP	DNS	.info	sinkholed by securityscorecard (malware)	(heuristic)
+de02323e
+r2d2
+2
+medium
+11th 00:47:26
+11th 00:48:25
+10.1.20.50 LAN	53 (dns)	10.2.120.16 LAN		UDP	DNS	.net	consonant threshold no such domain (suspicious)	(heuristic)
+963a42e9
+r2d2
+3
+medium
+11th 00:47:34
+11th 00:48:10
+10.1.20.50 LAN	53 (dns)	10.2.120.16 LAN		UDP	DNS	.info	consonant threshold no such domain (suspicious)	(heuristic)
+275cba8b
+r2d2
+14
+high
+11th 00:46:20
+11th 12:59:26
+10.1.20.50 LAN	53 (dns)	10.2.120.16 LAN		UDP	DNS	.ws	sinkholed by farsight (malware)	(heuristic)
+3733bbea
+r2d2
+1
+medium
+11th 08:56:27
+11th 08:56:27
+10.1.41.252 LAN	51665	10.1.192.236 LAN	53 (dns)	UDP	DNS	us.xmlppcbuzz.com	pushbug (malicious)	(static)
+d8c7f82f
+r2d2
+6
+medium
+11th 11:50:23
+11th 12:59:25
+10.1.41.252 LAN			53 (dns)	UDP	DNS	(cdn).special-offers.online	pushbug (malicious)	(static)
+288c48d5
+r2d2
+1
+medium
+11th 11:06:57
+11th 11:06:57
+10.1.42.22 LAN	45850	198.11.136.38 US	80 (http)	TCP	HTTP	198.11.136.38	potential data leakage (suspicious)	(heuristic)
+9072af8f
+r2d2
+2
+medium
+11th 11:06:45
+11th 11:06:45
+10.1.42.22 LAN	52848	198.11.136.14 US	80 (http)	TCP	HTTP	198.11.136.14	potential data leakage (suspicious)	(heuristic)
+e09a35d2
+r2d2
+38
+high
+11th 00:10:42
+11th 12:38:04
+10.1.81.47 LAN			53 (dns)	UDP	DNS	id.remoteutilities.com	rmsrat (malware)	(static)
+c38713f4
+r2d2
+3
+medium
+11th 08:32:36
+11th 11:35:46
+10.1.121.36 LAN		10.1.20.50 LAN	53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+88f2196d
+r2d2
+95
+medium
+11th 06:36:00
+11th 12:57:49
+10.1.192.180 LAN	80 (http)			TCP	HTTP	application/x-sh	content type (suspicious)	(heuristic)
+caf02060
+r2d2
+3
+medium
+11th 08:46:08
+11th 10:11:04
+10.1.192.236 LAN	53 (dns)			UDP	DNS	.com	parked site (suspicious)	(heuristic)
+17303249
+r2d2
+3
+medium
+11th 08:46:08
+11th 10:11:04
+10.1.192.237 LAN	53 (dns)			UDP	DNS	.com	parked site (suspicious)	(heuristic)
+470a4713
+r2d2
+1
+medium
+11th 08:26:52
+11th 08:26:52
+10.1.192.238 LAN	53 (dns)	10.48.193.2 LAN	62489	UDP	DNS	(www.collegetextbookcheap).net	parked site (suspicious)	(heuristic)
+43b2be00
+r2d2
+1
+medium
+11th 12:30:37
+11th 12:30:37
+10.1.194.234 LAN	53 (dns)	10.43.192.212 LAN	51356	UDP	DNS	(sadi).me	parked site (suspicious)	(heuristic)
+68adfb71
+r2d2
+1
+medium
+11th 12:30:34
+11th 12:30:34
+10.1.194.234 LAN	53 (dns)	10.43.192.212 LAN	54250	UDP	DNS	(www.ski-club-auringen).de	parked site (suspicious)	(heuristic)
+91c840e1
+r2d2
+1
+medium
+11th 09:48:03
+11th 09:48:03
+10.1.194.234 LAN	53 (dns)	10.21.192.180 LAN	55560	UDP	DNS	(www.teme).org	parked site (suspicious)	(heuristic)
+e5986180
+r2d2
+1
+medium
+11th 12:37:43
+11th 12:37:43
+10.1.194.234 LAN	53 (dns)	10.37.194.156 LAN	57422	UDP	DNS	(lpzvtbzokdnzgs).redacted	consonant threshold no such domain (suspicious)	(heuristic)
+538056b6
+r2d2
+2
+medium
+11th 08:24:59
+11th 08:24:59
+10.1.194.234 LAN	53 (dns)	10.48.192.193 LAN		UDP	DNS	(onlyf).net	parked site (suspicious)	(heuristic)
+7d1b2747
+r2d2
+2
+medium
+11th 08:57:41
+11th 10:28:08
+10.1.194.234 LAN	53 (dns)	10.48.192.152 LAN		UDP	DNS	(kondilomi).info	parked site (suspicious)	(heuristic)
+feab4f71
+r2d2
+2
+medium
+11th 10:42:20
+11th 10:52:36
+10.1.194.234 LAN	53 (dns)	10.32.20.135 LAN		UDP	DNS	(redacted.com).ie	parked site (suspicious)	(heuristic)
+51bcd04a
+r2d2
+4
+medium
+11th 10:00:37
+11th 12:38:09
+10.1.194.234 LAN	53 (dns)	10.44.10.209 LAN		UDP	DNS	.corp	entropy threshold no such domain (suspicious)	(heuristic)
+394987d4
+r2d2
+5
+medium
+11th 09:48:10
+11th 12:38:09
+10.1.194.234 LAN	53 (dns)	10.44.10.209 LAN		UDP	DNS	.corp	consonant threshold no such domain (suspicious)	(heuristic)
+dab3e434
+r2d2
+10
+medium
+11th 08:02:51
+11th 12:51:51
+10.1.194.234 LAN	53 (dns)			UDP	DNS	.com	parked site (suspicious)	(heuristic)
+74d3fefd
+r2d2
+1
+medium
+11th 09:55:50
+11th 09:55:50
+10.1.194.235 LAN	53 (dns)	10.36.70.140 LAN	51668	UDP	DNS	(simplejdbccall).returningresultset	consonant threshold no such domain (suspicious)	(heuristic)
+7d6d0ee9
+r2d2
+1
+medium
+11th 12:30:37
+11th 12:30:37
+10.1.194.235 LAN	53 (dns)	10.43.192.212 LAN	51356	UDP	DNS	(sadi).me	parked site (suspicious)	(heuristic)
+93f55a45
+r2d2
+1
+medium
+11th 12:30:34
+11th 12:30:34
+10.1.194.235 LAN	53 (dns)	10.43.192.212 LAN	54250	UDP	DNS	(www.ski-club-auringen).de	parked site (suspicious)	(heuristic)
+c7879a47
+r2d2
+1
+medium
+11th 09:48:03
+11th 09:48:03
+10.1.194.235 LAN	53 (dns)	10.21.192.180 LAN	55560	UDP	DNS	(www.teme).org	parked site (suspicious)	(heuristic)
+9d8681ce
+r2d2
+2
+medium
+11th 12:37:42
+11th 12:52:28
+10.1.194.235 LAN	53 (dns)	10.37.194.156 LAN		UDP	DNS	.redacted	consonant threshold no such domain (suspicious)	(heuristic)
+4b26edb6
+r2d2
+3
+medium
+11th 09:48:10
+11th 10:00:13
+10.1.194.235 LAN	53 (dns)	10.44.10.209 LAN		UDP	DNS	.corp	consonant threshold no such domain (suspicious)	(heuristic)
+8445e184
+r2d2
+3
+medium
+11th 10:00:37
+11th 12:38:09
+10.1.194.235 LAN	53 (dns)	10.44.10.209 LAN		UDP	DNS	.corp	entropy threshold no such domain (suspicious)	(heuristic)
+c852e1d3
+r2d2
+8
+medium
+11th 08:02:51
+11th 12:51:52
+10.1.194.235 LAN	53 (dns)			UDP	DNS	.com	parked site (suspicious)	(heuristic)
+862a055e
+r2d2
+20
+medium
+11th 06:46:18
+11th 12:44:27
+10.2.64.50 LAN		10.1.20.50 LAN	53 (dns)	UDP	DNS	.reimageplus.com	pua (suspicious)	(static)
+8837a9dc
+r2d2
+21
+medium
+11th 06:46:39
+11th 12:54:48
+10.2.64.50 LAN		10.1.20.50 LAN	53 (dns)	UDP	DNS	cdnrep.reimage.com	pua (suspicious)	(static)
+7ecbff4d
+r2d2
+9
+medium
+11th 07:34:20
+11th 12:44:27
+10.2.65.203 LAN			53 (dns)	UDP	DNS	(webservice).reimageplus.com	pua (suspicious)	(static)
+b6d5a297
+r2d2
+9
+medium
+11th 06:57:12
+11th 12:54:48
+10.2.65.203 LAN			53 (dns)	UDP	DNS	cdnrep.reimage.com	pua (suspicious)	(static)
+831f19d6
+r2d2
+1
+medium
+11th 09:05:21
+11th 09:05:21
+10.2.65.223 LAN	52156	10.1.108.50 LAN	53 (dns)	UDP	DNS	(stream.radio4you).cc	domain (suspicious)	(static)
+098e8592
+r2d2
+5
+medium
+11th 00:45:28
+11th 00:48:18
+10.2.120.16 LAN		10.1.20.50 LAN	53 (dns)	UDP	DNS	.cc	domain (suspicious)	(static)
+3d0ec283
+r2d2
+12
+medium
+11th 00:45:28
+11th 12:59:33
+10.2.120.16 LAN		10.1.20.50 LAN	53 (dns)	UDP	DNS	.ws	domain (suspicious)	(static)
+e7aba2D0
+r2d2
+14
+high
+11th 03:48:55
+11th 12:59:33
+10.2.120.16 LAN		10.1.20.50 LAN	53 (dns)	UDP	DNS		conficker dga (malware)	360.com
+b51dcee2
+r2d2
+206
+medium
+11th 00:00:08
+11th 12:58:16
+10.3.160.42 LAN		8.8.8.8 US	53 (dns)	UDP	DNS	checkip.dyndns.org	ipinfo (suspicious)	(static)
+7e890c00
+r2d2
+6
+medium
+11th 10:28:19
+11th 12:54:21
+10.6.0.51 LAN		10.1.20.50 LAN	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+32c16e7f
+r2d2
+4
+medium
+11th 08:59:18
+11th 09:42:18
+10.6.21.78 LAN			53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+1592d5ba
+r2d2
+11
+medium
+11th 09:56:18
+11th 12:30:20
+10.6.120.51 LAN			53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+6c5f3410
+r2d2
+14
+medium
+11th 08:47:17
+11th 12:48:21
+10.6.140.51 LAN			53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+75c8f9ed
+r2d2
+2
+medium
+11th 07:08:00
+11th 07:08:00
+10.8.0.51 LAN	51974	10.1.20.50 LAN	53 (dns)	UDP	DNS	(mtenjeri).noip.me	dynamic domain (suspicious)	(static)
+05fee9d8
+r2d2
+1
+medium
+11th 11:07:44
+11th 11:07:44
+10.8.20.200 LAN	52327	10.1.20.50 LAN	53 (dns)	UDP	DNS	(mtenjeri).noip.me	dynamic domain (suspicious)	(static)
+757c3d6b
+r2d2
+8
+medium
+11th 10:04:12
+11th 11:21:12
+10.8.221.50 LAN		10.1.20.50 LAN	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+b009387e
+r2d2
+3
+medium
+11th 02:06:51
+11th 06:11:04
+10.11.0.51 LAN		10.1.20.50 LAN	53 (dns)	UDP	DNS	(popcorntime-update).xyz	domain (suspicious)	(static)
+2285433f
+r2d2
+4
+medium
+11th 05:10:01
+11th 08:13:11
+10.11.1.28 LAN		10.1.20.50 LAN	53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+f351aa1b
+r2d2
+1
+medium
+11th 12:41:41
+11th 12:41:41
+10.12.195.46 LAN	54714	10.1.194.235 LAN	53 (dns)	UDP	DNS	(tracepath).cc	domain (suspicious)	(static)
+e1884d4a
+r2d2
+1
+medium
+11th 08:42:37
+11th 08:42:37
+10.12.195.147 LAN	61339	10.1.194.234 LAN	53 (dns)	UDP	DNS	(www.pula).ws	domain (suspicious)	(static)
+07658dd6
+r2d2
+8
+medium
+11th 08:58:43
+11th 10:57:31
+10.12.195.147 LAN			53 (dns)	UDP	DNS	geedoovu.net	ek router (malicious)	(static)
+4176982d
+r2d2
+2
+medium
+11th 09:47:58
+11th 09:48:18
+10.12.195.211 LAN		10.1.194.234 LAN	53 (dns)	UDP	DNS	.softonic.com	pua (suspicious)	(static)
+bc351f9b
+r2d2
+6
+medium
+11th 02:02:37
+11th 12:02:12
+10.14.192.212 LAN		10.1.192.236 LAN	53 (dns)	UDP	DNS	juronu.com	pua (suspicious)	(static)
+8ec0b7b5
+r2d2
+1
+medium
+11th 11:06:27
+11th 11:06:27
+10.17.30.143 LAN	53145	10.1.192.236 LAN	53 (dns)	UDP	DNS	(www.storenike99).xyz	domain (suspicious)	(static)
+06fba904
+r2d2
+1
+medium
+11th 08:06:04
+11th 08:06:04
+10.19.192.238 LAN	58356	10.1.194.234 LAN	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+b38db81e
+r2d2
+1
+medium
+11th 07:47:44
+11th 07:47:44
+10.21.1.162 LAN	50550	10.1.194.234 LAN	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+46724a41
+r2d2
+1
+medium
+11th 12:07:32
+11th 12:07:32
+10.21.20.162 LAN	49808	10.1.194.235 LAN	53 (dns)	UDP	DNS	(ori-myphone-download.wondershare).cc	domain (suspicious)	(static)
+0d26653a
+r2d2
+1
+medium
+11th 10:59:54
+11th 10:59:54
+10.21.193.122 LAN	63503	10.1.194.234 LAN	53 (dns)	UDP	DNS	(hp).myway.com	pua (suspicious)	(static)
+d55b0560
+r2d2
+1
+medium
+11th 12:49:00
+11th 12:49:00
+10.21.193.138 LAN	54929	10.1.194.235 LAN	53 (dns)	UDP	DNS	(go.cp4srvng).xyz	domain (suspicious)	(static)
+a7f11451
+r2d2
+6
+medium
+11th 08:11:35
+11th 12:49:01
+10.21.193.138 LAN			53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+f1fef6ec
+r2d2
+1
+medium
+11th 09:32:18
+11th 09:32:18
+10.27.20.78 LAN	62754	10.1.192.236 LAN	53 (dns)	UDP	DNS	(mydreams).cc	domain (suspicious)	(static)
+1cb89e3a
+r2d2
+1
+medium
+11th 07:05:26
+11th 07:05:26
+10.27.40.221 LAN	57209	10.1.192.236 LAN	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+d0b5f1a9
+r2d2
+2
+medium
+11th 09:07:32
+11th 10:02:19
+10.27.50.154 LAN		10.1.192.237 LAN	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+8c0cb539
+r2d2
+10
+high
+11th 07:22:03
+11th 12:31:23
+10.36.40.193 LAN			53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+c503b216
+r2d2
+1
+medium
+11th 12:35:13
+11th 12:35:13
+10.36.50.142 LAN	56606	10.1.194.235 LAN	53 (dns)	UDP	DNS	ip-api.com	ipinfo (suspicious)	(static)
+4c78772b
+r2d2
+1
+medium
+11th 11:57:47
+11th 11:57:47
+10.36.70.132 LAN	50453	10.1.194.234 LAN	53 (dns)	UDP	DNS	jsonip.com	ipinfo (suspicious)	(static)
+99d5d059
+r2d2
+1
+medium
+11th 09:52:46
+11th 09:52:46
+10.36.192.101 LAN	58912	10.1.194.234 LAN	53 (dns)	UDP	DNS	.over-blog.com	long domain (suspicious)	(heuristic)
+262e0d35
+r2d2
+1
+medium
+11th 10:31:34
+11th 10:31:34
+10.36.192.103 LAN	59902	10.1.194.235 LAN	53 (dns)	UDP	DNS	(go.cp4srvng).xyz	domain (suspicious)	(static)
+aa714f01
+r2d2
+1
+medium
+11th 10:43:06
+11th 10:43:06
+10.36.192.104 LAN	51704	10.1.194.234 LAN	53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+b73cddf6
+r2d2
+3
+medium
+11th 09:20:28
+11th 09:23:38
+10.36.192.106 LAN			53 (dns)	UDP	DNS	(dailystormer).su	domain (suspicious)	(static)
+97256eb4
+r2d2
+1
+medium
+11th 10:38:10
+11th 10:38:10
+10.36.192.119 LAN	63315	10.1.194.234 LAN	53 (dns)	UDP	DNS	(arbazzz).cc	domain (suspicious)	(static)
+d7f59f25
+r2d2
+31
+medium
+11th 00:41:43
+11th 12:33:30
+10.36.192.126 LAN		10.1.76.150 LAN	80 (http)	TCP	UA	bfac 	user agent (suspicious)	(heuristic)
+9fdad9c5
+r2d2
+3
+medium
+11th 12:22:27
+11th 12:34:43
+10.36.192.130 LAN		10.1.194.234 LAN	53 (dns)	UDP	DNS	(genesis).ddns.me	dynamic domain (suspicious)	(static)
+7ad07526
+r2d2
+12
+high
+11th 08:30:45
+11th 10:23:32
+10.36.192.149 LAN			53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+07fe07d0
+r2d2
+1
+medium
+11th 08:49:39
+11th 08:49:39
+10.36.192.171 LAN	55347	10.1.194.234 LAN	53 (dns)	UDP	DNS	checkip.dyndns.org	ipinfo (suspicious)	(static)
+18e911fe
+r2d2
+2
+medium
+11th 11:57:16
+11th 11:57:31
+10.37.194.2 LAN		10.1.194.235 LAN	53 (dns)	UDP	DNS	.softonic.com	pua (suspicious)	(static)
+299cdfb2
+r2d2
+1
+medium
+11th 07:35:07
+11th 07:35:07
+10.37.194.63 LAN	63228	10.1.194.234 LAN	53 (dns)	UDP	DNS	(hp).myway.com	pua (suspicious)	(static)
+5b4e6099
+r2d2
+2
+medium
+11th 08:16:52
+11th 08:17:02
+10.37.194.70 LAN	57405	62.138.16.82 FR	80 (http)	TCP	URL	www.sportinfocentar.com	direct .dll download (suspicious)	(heuristic)
+74c2503d
+r2d2
+1
+medium
+11th 12:04:14
+11th 12:04:14
+10.37.194.72 LAN	58724	10.1.194.235 LAN	53 (dns)	UDP	DNS	geolocation-db.com	ipinfo (suspicious)	(static)
+efab278e
+r2d2
+3
+medium
+11th 07:50:10
+11th 07:56:10
+10.37.194.74 LAN		10.1.194.234 LAN	53 (dns)	UDP	DNS	.myway.com	pua (suspicious)	(static)
+eac7d2ab
+r2d2
+1
+medium
+11th 09:31:14
+11th 09:31:14
+10.37.194.154 LAN	62583	10.1.194.235 LAN	53 (dns)	UDP	DNS	(api).ipify.org	ipinfo (suspicious)	(static)
+b45f5cb3
+r2d2
+1
+medium
+11th 10:46:42
+11th 10:46:42
+10.37.194.165 LAN	58496	10.1.194.234 LAN	53 (dns)	UDP	DNS	(hp).myway.com	pua (suspicious)	(static)
+ed84b080
+r2d2
+1
+medium
+11th 09:09:27
+11th 09:09:27
+10.38.50.151 LAN	64051	10.1.194.234 LAN	53 (dns)	UDP	DNS	(api).ipify.org	ipinfo (suspicious)	(static)
+cf19294b
+r2d2
+1
+medium
+11th 08:22:08
+11th 08:22:08
+10.38.80.208 LAN	59000	10.1.194.235 LAN	53 (dns)	UDP	DNS	(lanterna).tk	domain (suspicious)	(static)
+cec02c33
+r2d2
+1
+medium
+11th 11:03:08
+11th 11:03:08
+10.38.104.151 LAN	54973	10.1.194.235 LAN	53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+fa4312a1
+r2d2
+1
+medium
+11th 11:03:08
+11th 11:03:08
+10.38.104.151 LAN	57732	10.1.194.235 LAN	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+711c9013
+r2d2
+1
+medium
+11th 08:13:42
+11th 08:13:42
+10.38.193.189 LAN	55214	10.1.194.235 LAN	53 (dns)	UDP	DNS	(lx1.dyncdn).cc	domain (suspicious)	(static)
+9f2e5957
+r2d2
+2
+medium
+11th 07:13:17
+11th 12:33:11
+10.38.193.214 LAN		10.1.194.234 LAN	53 (dns)	UDP	DNS	(hp).myway.com	pua (suspicious)	(static)
+b89d6d5f
+r2d2
+14
+high
+11th 00:12:54
+11th 10:00:37
+10.38.194.125 LAN			53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+73c28ca7
+r2d2
+2
+medium
+11th 09:47:08
+11th 10:51:09
+10.38.194.126 LAN		10.1.194.234 LAN	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+d1458b5b
+r2d2
+2
+medium
+11th 10:47:10
+11th 11:47:08
+10.38.194.126 LAN		10.1.194.234 LAN	53 (dns)	UDP	DNS	(octopod).cc	domain (suspicious)	(static)
+85793111
+r2d2
+1
+medium
+11th 12:18:01
+11th 12:18:01
+10.38.195.175 LAN	55277	10.1.194.235 LAN	53 (dns)	UDP	DNS	extreme-ip-lookup.com	ipinfo (suspicious)	(static)
+64cf172c
+r2d2
+1
+medium
+11th 09:50:15
+11th 09:50:15
+10.42.192.110 LAN	62222	10.1.194.235 LAN	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+d56fa68b
+r2d2
+1
+medium
+11th 08:30:17
+11th 08:30:17
+10.42.192.133 LAN	64156	10.1.194.234 LAN	53 (dns)	UDP	DNS	(hp).myway.com	pua (suspicious)	(static)
+fe77472a
+r2d2
+2
+medium
+11th 08:10:03
+11th 09:45:57
+10.43.10.254 LAN			53 (dns)	UDP	DNS	(go.cp4srvng).xyz	domain (suspicious)	(static)
+0eaac9dc
+r2d2
+21
+medium
+11th 03:50:56
+11th 04:10:49
+10.43.192.103 LAN		213.252.245.197 LT	452	TCP	IPORT	213.252.245.197:452	crypto mining (suspicious)	(static)
+23671aa6
+r2d2
+21
+medium
+11th 03:30:55
+11th 03:50:38
+10.43.192.103 LAN		213.252.245.223 LT	452	TCP	IPORT	213.252.245.223:452	crypto mining (suspicious)	(static)
+c02cdb82
+r2d2
+21
+medium
+11th 10:51:07
+11th 11:10:19
+10.43.192.103 LAN		213.252.245.157 LT	451	TCP	IPORT	213.252.245.157:451	crypto mining (suspicious)	(static)
+c381425c
+r2d2
+21
+medium
+11th 06:30:53
+11th 06:50:42
+10.43.192.103 LAN		213.252.245.197 LT	453	TCP	IPORT	213.252.245.197:453	crypto mining (suspicious)	(static)
+ca817a8b
+r2d2
+21
+medium
+11th 02:11:00
+11th 02:30:31
+10.43.192.103 LAN		213.252.245.157 LT	452	TCP	IPORT	213.252.245.157:452	crypto mining (suspicious)	(static)
+eea2907b
+r2d2
+21
+medium
+11th 11:31:03
+11th 11:50:39
+10.43.192.103 LAN		213.252.245.223 LT	457	TCP	IPORT	213.252.245.223:457	crypto mining (suspicious)	(static)
+135404a7
+r2d2
+22
+medium
+11th 01:30:53
+11th 01:50:56
+10.43.192.103 LAN		213.252.245.197 LT	457	TCP	IPORT	213.252.245.197:457	crypto mining (suspicious)	(static)
+fd79c0d7
+r2d2
+38
+medium
+11th 00:50:58
+11th 11:30:59
+10.43.192.103 LAN		213.252.245.197 LT	454	TCP	IPORT	213.252.245.197:454	crypto mining (suspicious)	(static)
+8c2ea27e
+r2d2
+1
+medium
+11th 09:54:15
+11th 09:54:15
+10.43.192.134 LAN	55630	10.1.194.234 LAN	53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+2a2a373c
+r2d2
+1
+medium
+11th 12:30:35
+11th 12:30:35
+10.43.192.212 LAN	50694	10.1.194.234 LAN	53 (dns)	UDP	DNS	(naltrexonealcoholismmedication).com	long domain (suspicious)	(heuristic)
+23260e00
+r2d2
+4
+medium
+11th 01:00:00
+11th 11:41:54
+10.43.193.193 LAN			53 (dns)	UDP	DNS	jafuq.com	pua (suspicious)	(static)
+a4b610ad
+r2d2
+6
+medium
+11th 11:41:51
+11th 12:14:18
+10.43.193.193 LAN			53 (dns)	UDP	DNS	qaloqum.com	pua (suspicious)	(static)
+b679ce67
+r2d2
+19
+medium
+11th 00:14:18
+11th 12:15:18
+10.43.193.193 LAN			53 (dns)	UDP	DNS	hahofaba.com	pua (suspicious)	(static)
+18306629
+r2d2
+1
+medium
+11th 12:16:06
+11th 12:16:06
+10.44.40.218 LAN	64459	10.1.194.234 LAN	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+be3c0377
+r2d2
+41
+medium
+11th 00:18:14
+11th 12:18:00
+10.44.70.211 LAN		10.1.76.150 LAN	80 (http)	TCP	UA	bfac 	user agent (suspicious)	(heuristic)
+1d1221f4
+r2d2
+1
+medium
+11th 10:52:00
+11th 10:52:00
+10.44.70.216 LAN	61799	10.1.194.234 LAN	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+c115354b
+r2d2
+1
+medium
+11th 07:50:42
+11th 07:50:42
+10.44.80.209 LAN	64091	10.1.194.234 LAN	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+61aeb02b
+r2d2
+1
+medium
+11th 12:48:58
+11th 12:48:58
+10.44.192.116 LAN	60217	10.1.194.234 LAN	53 (dns)	UDP	DNS	(octopod).cc	domain (suspicious)	(static)
+57b77265
+r2d2
+1
+medium
+11th 08:19:31
+11th 08:19:31
+10.44.192.144 LAN	63779	10.1.194.234 LAN	53 (dns)	UDP	DNS	(hp).myway.com	pua (suspicious)	(static)
+461e8df6
+r2d2
+1
+medium
+11th 08:20:45
+11th 08:20:45
+10.44.192.186 LAN	51863	10.1.194.235 LAN	53 (dns)	UDP	DNS	(tremblingkeyboardassistant).com	long domain (suspicious)	(heuristic)
+5f697531
+r2d2
+1
+medium
+11th 08:20:46
+11th 08:20:46
+10.44.192.186 LAN	54291	10.1.194.235 LAN	53 (dns)	UDP	DNS	special-offers.online	pushbug (malicious)	(static)
+d81312e0
+r2d2
+1
+medium
+11th 09:15:55
+11th 09:15:55
+10.44.192.186 LAN	53647	10.1.194.234 LAN	53 (dns)	UDP	DNS	(www).metacrawler.com	pua (suspicious)	(static)
+00fdabae
+r2d2
+2
+medium
+11th 07:37:57
+11th 12:42:29
+10.44.193.233 LAN		10.1.194.235 LAN	53 (dns)	UDP	DNS	jafuq.com	pua (suspicious)	(static)
+4d41c516
+r2d2
+1
+medium
+11th 09:51:25
+11th 09:51:25
+10.44.194.4 LAN	63132	51.91.75.105 FR	80 (http)	TCP	UA	Embarcadero URI Client/1.0	user agent (suspicious)	(heuristic)
+65fc53bf
+r2d2
+1
+high
+11th 03:37:54
+11th 03:37:54
+10.44.194.4 LAN	60196	51.178.161.234 FR	443 (https)	TCP	IPORT	51.178.161.234:443	latentbot (malware)	(static)
+f1f3c0ff
+r2d2
+1
+medium
+11th 07:22:14
+11th 07:22:14
+10.44.194.11 LAN	55426	10.1.194.234 LAN	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+b3d62942
+r2d2
+3
+medium
+11th 10:30:55
+11th 11:43:56
+10.44.194.24 LAN			53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+e07f7ac3
+r2d2
+1
+medium
+11th 09:13:26
+11th 09:13:26
+10.46.192.67 LAN	63857	10.1.194.234 LAN	53 (dns)	UDP	DNS	gmai.com	bad history (suspicious)	(static)
+b93351d0
+r2d2
+1
+medium
+11th 07:31:46
+11th 07:31:46
+10.46.192.113 LAN	63036	10.1.194.234 LAN	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+224f5e2c
+r2d2
+1
+medium
+11th 11:28:07
+11th 11:28:07
+10.46.195.241 LAN	59863	10.1.194.234 LAN	53 (dns)	UDP	DNS	(i.rmbl).ws	domain (suspicious)	(static)
+49496194
+r2d2
+1
+medium
+11th 07:37:35
+11th 07:37:35
+10.48.20.162 LAN	62894	10.1.194.235 LAN	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+3822a16e
+r2d2
+1
+medium
+11th 11:52:06
+11th 11:52:06
+10.48.30.168 LAN	56465	10.1.194.235 LAN	53 (dns)	UDP	DNS	geolocation-db.com	ipinfo (suspicious)	(static)
+9dc860a5
+r2d2
+1
+medium
+11th 10:55:13
+11th 10:55:13
+10.48.40.131 LAN	49200	10.1.192.236 LAN	53 (dns)	UDP	DNS	(content).sweetim.com	pua (suspicious)	(static)
+7867ffac
+r2d2
+2
+medium
+11th 09:00:38
+11th 09:00:38
+10.48.192.126 LAN	50866		53 (dns)	UDP	DNS	(tremblingkeyboardassistant).com	long domain (suspicious)	(heuristic)
+7d8a8ca1
+r2d2
+3
+medium
+11th 12:45:44
+11th 12:52:09
+10.48.192.135 LAN			53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+ee3fad92
+r2d2
+3
+medium
+11th 12:43:39
+11th 12:51:43
+10.48.192.135 LAN		10.1.194.234 LAN	53 (dns)	UDP	DNS	ammankeyan.com	ek router (malicious)	(static)
+e8e59300
+r2d2
+10
+high
+11th 07:10:55
+11th 12:33:37
+10.48.192.140 LAN			53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+fc36db65
+r2d2
+1
+medium
+11th 12:25:41
+11th 12:25:41
+10.48.192.152 LAN	55164	10.1.194.234 LAN	53 (dns)	UDP	DNS	(api).ipify.org	ipinfo (suspicious)	(static)
+1b3ce0be
+r2d2
+2
+medium
+11th 08:57:41
+11th 10:28:08
+10.48.192.152 LAN		91.195.240.94 DE	80 (http)	TCP	IP	91.195.240.94 (kondilomi.info)	parking site (suspicious)	(static)
+4579e0ea
+r2d2
+2
+medium
+11th 07:38:15
+11th 07:43:21
+10.48.192.153 LAN		10.1.194.234 LAN	53 (dns)	UDP	DNS	.webcompanion.com	pua (suspicious)	(static)
+0446c2f8
+r2d2
+1
+medium
+11th 08:24:36
+11th 08:24:36
+10.48.192.193 LAN	49461	10.1.194.234 LAN	53 (dns)	UDP	DNS	(2baksa).ws	domain (suspicious)	(static)
+8f01b4e0
+r2d2
+7
+medium
+11th 08:24:38
+11th 11:37:53
+10.48.192.193 LAN			53 (dns)	UDP	DNS	.cc	domain (suspicious)	(static)
+daa1b49e
+r2d2
+8
+medium
+11th 08:15:34
+11th 12:06:29
+10.48.192.193 LAN			53 (dns)	UDP	DNS	.com	long domain (suspicious)	(heuristic)
+55d86226
+r2d2
+1
+medium
+11th 12:46:38
+11th 12:46:38
+10.48.193.151 LAN	62847	10.1.192.236 LAN	53 (dns)	UDP	DNS	jafuq.com	pua (suspicious)	(static)
+da4ef306
+r2d2
+8
+medium
+11th 07:27:31
+11th 12:54:16
+10.48.193.151 LAN		10.1.192.236 LAN	53 (dns)	UDP	DNS	qaloqum.com	pua (suspicious)	(static)
+6a2defb4
+r2d2
+1
+medium
+11th 08:19:15
+11th 08:19:15
+10.48.193.152 LAN	63122	10.1.192.236 LAN	53 (dns)	UDP	DNS	tbapi.search.ask.com	pua (suspicious)	(static)
+544c8753
+r2d2
+1
+medium
+11th 12:49:12
+11th 12:49:12
+10.48.194.16 LAN	50776	10.1.194.234 LAN	53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+985fb058
+r2d2
+1
+medium
+11th 09:50:56
+11th 09:50:56
+10.48.194.16 LAN	62779	10.1.194.234 LAN	53 (dns)	UDP	DNS	(go.cp4srvng).xyz	domain (suspicious)	(static)
+c98ecb38
+r2d2
+1
+medium
+11th 12:05:19
+11th 12:05:19
+10.49.192.122 LAN	49603	10.1.194.234 LAN	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+fe2f7889
+r2d2
+1
+medium
+11th 12:05:19
+11th 12:05:19
+10.49.192.122 LAN	64213	10.1.194.235 LAN	53 (dns)	UDP	DNS	(octopod).cc	domain (suspicious)	(static)
+2cb40aa7
+r2d2
+2
+medium
+11th 12:24:56
+11th 12:25:11
+10.49.192.127 LAN		94.130.220.91 DE	80 (http)	TCP	UA	Synapse 	user agent (suspicious)	(heuristic)
+259ec803
+r2d2
+21
+medium
+11th 08:04:02
+11th 12:49:42
+10.52.30.217 LAN			53 (dns)	UDP	DNS	.special-offers.online	pushbug (malicious)	(static)
+7dc65126
+r2d2
+2
+medium
+11th 11:48:19
+11th 11:48:19
+10.52.192.142 LAN	59049	10.1.194.234 LAN	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+9ed9de56
+r2d2
+1
+medium
+11th 12:35:17
+11th 12:35:17
+10.52.192.145 LAN	49254	10.1.194.234 LAN	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+b8b04a0c
+r2d2
+2
+medium
+11th 12:26:29
+11th 12:26:29
+10.52.192.145 LAN	61790	10.1.194.234 LAN	53 (dns)	UDP	DNS	(arbazzz).cc	domain (suspicious)	(static)
+918de79a
+r2d2
+2
+medium
+11th 10:34:46
+11th 10:34:46
+10.52.192.160 LAN			53 (dns)	UDP	DNS	inpagepush.com	pushbug (malicious)	(static)
+9a0d3c39
+r2d2
+2
+medium
+11th 10:35:50
+11th 10:35:50
+10.52.192.160 LAN		10.1.194.234 LAN	53 (dns)	UDP	DNS	onstunkyr.com	ek router (malicious)	(static)
+dd811092
+r2d2
+2
+medium
+11th 10:34:50
+11th 10:34:50
+10.52.192.160 LAN		10.1.194.234 LAN	53 (dns)	UDP	DNS	caradstag.casa	pushbug (malicious)	(static)
+e6c7bb6b
+r2d2
+2
+medium
+11th 10:58:53
+11th 10:58:53
+10.52.192.160 LAN	55051	10.1.194.234 LAN	53 (dns)	UDP	DNS	(i3.t0m).cc	domain (suspicious)	(static)
+077b98be
+r2d2
+2
+medium
+11th 08:21:34
+11th 08:21:34
+10.52.192.162 LAN	51253	10.1.194.234 LAN	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+8d3e1230
+r2d2
+2
+medium
+11th 10:34:09
+11th 10:34:09
+10.52.193.107 LAN	55517	10.1.194.234 LAN	53 (dns)	UDP	DNS	(ssl).geoplugin.net	ipinfo (suspicious)	(static)
+8e30a204
+r2d2
+1
+medium
+11th 12:18:11
+11th 12:18:11
+10.53.192.94 LAN	62827	10.1.194.235 LAN	53 (dns)	UDP	DNS	(melonstube).cc	domain (suspicious)	(static)
+b84cb96e
+r2d2
+1
+medium
+11th 08:44:12
+11th 08:44:12
+10.53.192.159 LAN	62379	10.1.194.234 LAN	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+42fac649
+r2d2
+1
+medium
+11th 10:43:19
+11th 10:43:19
+10.54.10.204 LAN	62892	10.1.194.235 LAN	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+f34a019b
+r2d2
+1
+medium
+11th 12:20:06
+11th 12:20:06
+10.54.192.222 LAN	57021	10.1.194.234 LAN	53 (dns)	UDP	DNS	(dbak).mine.nu	dynamic domain (suspicious)	(static)
+03d9100f
+r2d2
+8
+high
+11th 07:48:31
+11th 12:51:11
+10.54.192.222 LAN		10.1.194.234 LAN	53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+29873b74
+r2d2
+113
+high
+11th 07:40:01
+11th 12:55:17
+10.124.72.51 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	hzmksreiuojy.nl	andromeda (malware)	(static)
+c8d64114
+r2d2
+122
+high
+11th 07:41:14
+11th 12:58:44
+10.124.72.51 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	hzmksreiuojy.com	andromeda (malware)	(static)
+79aff744
+r2d2
+124
+high
+11th 07:40:01
+11th 12:58:47
+10.124.72.51 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	hzmksreiuojy.biz	andromeda (malware)	(static)
+83396d61
+r2d2
+126
+high
+11th 07:40:00
+11th 12:55:11
+10.124.72.51 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	hzmksreiuojy.in	andromeda (malware)	(static)
+695e69f1
+r2d2
+131
+high
+11th 07:41:10
+11th 12:56:21
+10.124.72.51 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	hzmksreiuojy.ru	andromeda (malware)	(static)
+14588209
+r2d2
+98
+high
+11th 08:24:10
+11th 12:59:14
+10.124.72.52 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	hzmksreiuojy.nl	andromeda (malware)	(static)
+bc9b0466
+r2d2
+110
+high
+11th 08:24:10
+11th 12:59:11
+10.124.72.52 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	hzmksreiuojy.biz	andromeda (malware)	(static)
+550f19f5
+r2d2
+111
+high
+11th 08:23:50
+11th 12:58:01
+10.124.72.52 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	hzmksreiuojy.in	andromeda (malware)	(static)
+9bec658c
+r2d2
+113
+high
+11th 08:29:50
+11th 12:56:51
+10.124.72.52 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	hzmksreiuojy.com	andromeda (malware)	(static)
+a03f8341
+r2d2
+113
+high
+11th 08:25:03
+11th 12:59:11
+10.124.72.52 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	hzmksreiuojy.ru	andromeda (malware)	(static)
+a4348468
+r2d2
+2
+high
+11th 07:45:25
+11th 10:48:45
+10.124.162.65 LAN		208.100.26.245 US	80 (http)	TCP	IP	208.100.26.245	sinkhole securityscorecard (malware)	(static)
+4c22474f
+r2d2
+6
+high
+11th 07:46:00
+11th 10:51:18
+10.124.162.65 LAN		104.244.14.252 US	80 (http)	TCP	IP	104.244.14.252	sinkhole farsight (malware)	(static)
+3e446067
+r2d2
+7
+high
+11th 07:44:20
+11th 10:51:18
+10.124.162.65 LAN		38.102.150.27 US	80 (http)	TCP	IP	38.102.150.27	sinkhole farsight (malware)	(static)
+d1f7aaD0
+r2d2
+7
+high
+11th 07:44:19
+11th 10:51:44
+10.124.162.65 LAN		172.16.70.102 LAN	53 (dns)	UDP	DNS		conficker dga (malware)	360.com
+2dcc3434
+r2d2
+1
+medium
+11th 12:16:10
+11th 12:16:10
+10.124.201.49 LAN	59642	37.48.82.67 NL	80 (http)	TCP	UA	XxX 	user agent (suspicious)	(heuristic)
+cc68a065
+r2d2
+2
+medium
+11th 11:23:59
+11th 11:23:59
+10.125.173.11 LAN	57535	172.16.70.102 LAN	53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+25b06068
+r2d2
+1
+high
+11th 08:35:57
+11th 08:35:57
+10.128.3.51 LAN	1040	208.91.112.55 CA	80 (http)	TCP	URL	differentia.ru/diff.php	andromeda (malware)	(static)
+e7e3d38e
+r2d2
+2
+high
+11th 08:35:57
+11th 08:35:57
+10.128.3.51 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	disorderstatus.ru	andromeda (malware)	(static)
+2e7ee737
+r2d2
+240
+high
+11th 08:36:57
+11th 12:59:32
+10.128.3.51 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	4nbizac8.ru	andromeda (malware)	(static)
+627e6c46
+r2d2
+1
+high
+11th 08:59:34
+11th 08:59:34
+10.128.3.52 LAN	1244	208.91.112.55 CA	80 (http)	TCP	URL	differentia.ru/diff.php	andromeda (malware)	(static)
+ca41ec7b
+r2d2
+2
+high
+11th 08:59:34
+11th 08:59:34
+10.128.3.52 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	disorderstatus.ru	andromeda (malware)	(static)
+2e46eedd
+r2d2
+213
+high
+11th 09:00:34
+11th 12:58:28
+10.128.3.52 LAN		8.8.4.4 US	53 (dns)	UDP	DNS	4nbizac8.ru	andromeda (malware)	(static)
+241479ce
+r2d2
+1
+high
+11th 08:22:00
+11th 08:22:00
+10.128.8.51 LAN	51087	8.8.4.4 US	53 (dns)	UDP	DNS	differentia.ru	andromeda (malware)	(static)
+dcae8c25
+r2d2
+1
+high
+11th 08:21:58
+11th 08:21:58
+10.128.8.51 LAN	60619	8.8.4.4 US	53 (dns)	UDP	DNS	disorderstatus.ru	andromeda (malware)	(static)
+dfe8e143
+r2d2
+2
+high
+11th 08:21:58
+11th 08:21:58
+10.128.8.51 LAN	49184	173.231.189.27 US	80 (http)	TCP	IP	173.231.189.27 (disorderstatus.ru)	sinkhole bitsight (malware)	(static)
+cd8c003d
+r2d2
+123
+high
+11th 08:21:58
+11th 12:58:50
+10.128.8.51 LAN			80 (http)	TCP	URL	disorderstatus.ru/order.php	andromeda (malware)	(static)
+980a698c
+r2d2
+132
+high
+11th 08:22:00
+11th 12:57:50
+10.128.8.51 LAN			80 (http)	TCP	URL	differentia.ru/diff.php	andromeda (malware)	(static)
+293dba10
+r2d2
+266
+high
+11th 08:23:10
+11th 12:58:50
+10.128.8.51 LAN			53 (dns)	UDP	DNS	4nbizac8.ru	andromeda (malware)	(static)
+0605d264
+r2d2
+1
+low
+11th 04:09:08
+11th 04:09:08
+36.133.35.240 CN		2.200.97.216 DE		TCP	IP	36.133.35.240	potential port scanning	(heuristic)
+08bda8c3
+r2d2
+2
+medium
+11th 07:13:27
+11th 07:13:27
+40.75.65.193 US	53376	2.200.107.255 DE	80 (http)	TCP	HTTP	www.redacted.com	potential php injection (suspicious)	(heuristic)
+f2a2db43
+r2d2
+2
+medium
+11th 07:13:29
+11th 07:13:29
+40.75.65.193 US	53445	2.200.107.255 DE	80 (http)	TCP	HTTP	redacted.com	potential php injection (suspicious)	(heuristic)
+dcba703e
+r2d2
+10
+low
+11th 00:21:55
+11th 07:16:54
+45.95.202.106 RU				TCP	IP	45.95.202.106	potential port scanning	(heuristic)
+5e126df2
+r2d2
+2
+medium
+11th 03:36:28
+11th 03:39:10
+45.144.136.187 US		2.200.110.170 DE	80 (http)	TCP	URL	(2.200.110.170)/mm.php	web shells (suspicious)	(static)
+80757005
+r2d2
+2
+medium
+11th 03:37:57
+11th 03:37:57
+45.144.136.187 US	51341	2.200.110.170 DE	80 (http)	TCP	URL	(2.200.110.170)/mysql.php	web shells (suspicious)	(static)
+fb38e27f
+r2d2
+2
+medium
+11th 03:33:52
+11th 03:33:55
+45.144.136.187 US	41560	2.200.110.170 DE	80 (http)	TCP	HTTP	2.200.110.170	potential php injection (suspicious)	(heuristic)
+549cfa08
+r2d2
+5
+medium
+11th 03:34:05
+11th 03:39:15
+45.144.136.187 US		2.200.110.170 DE	80 (http)	TCP	URL	(2.200.110.170)/shell.php	web shells (suspicious)	(static)
+6aa407b6
+r2d2
+5
+medium
+11th 03:34:17
+11th 03:38:11
+45.144.136.187 US		2.200.110.170 DE	80 (http)	TCP	URL	/cmd.php	web shells (suspicious)	(static)
+9a16fb0f
+r2d2
+1
+medium
+11th 08:09:43
+11th 08:09:43
+45.229.54.54 BR	12918	2.200.109.40 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+23d37c83
+r2d2
+2
+medium
+11th 09:53:12
+11th 09:53:12
+45.229.54.174 BR	42487	2.200.110.164 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+78320f27
+r2d2
+1
+medium
+11th 12:11:58
+11th 12:11:58
+45.229.55.41 BR	14984	2.200.108.59 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+91fe290f
+r2d2
+1
+medium
+11th 10:04:48
+11th 10:04:48
+45.229.55.111 BR	16518	2.200.97.20 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+d35e23c6
+r2d2
+2
+low
+11th 05:22:31
+11th 05:22:31
+45.236.62.102 BR		2.200.101.21 DE		TCP	IP	45.236.62.102	potential port scanning	(heuristic)
+e8aa8ba6
+r2d2
+2
+medium
+11th 03:36:39
+11th 03:36:39
+45.248.192.48 IN	33923	2.200.110.148 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+d5cd1526
+r2d2
+2
+medium
+11th 11:25:34
+11th 11:25:36
+46.118.236.97 UA		2.200.110.169 DE	80 (http)	TCP	UA	MSIECrawler 	user agent (suspicious)	(heuristic)
+94b39d77
+r2d2
+13
+low
+11th 05:42:39
+11th 06:43:38
+46.161.14.13 RU				TCP	IP	46.161.14.13	potential port scanning	(heuristic)
+0c28735a
+r2d2
+1
+low
+11th 05:22:10
+11th 05:22:10
+47.95.142.90 CN		2.200.110.48 DE		TCP	IP	47.95.142.90	potential port scanning	(heuristic)
+9d97b6eb
+r2d2
+2
+low
+11th 12:06:13
+11th 12:06:14
+47.104.240.192 CN		2.200.111.195 DE		TCP	IP	47.104.240.192	potential port scanning	(heuristic)
+0ddcdb22
+r2d2
+2
+medium
+11th 07:00:36
+11th 07:00:36
+49.119.78.134 CN	12081	2.200.97.17 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+f0ed9f5e
+r2d2
+1
+medium
+11th 09:15:56
+11th 09:15:56
+59.36.160.84 CN	41114	2.200.110.157 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+9e1ca755
+r2d2
+1
+medium
+11th 07:06:33
+11th 07:06:33
+59.92.219.11 IN	42758	2.200.106.87 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+cd2b3101
+r2d2
+1
+medium
+11th 12:32:37
+11th 12:32:37
+61.52.41.181 CN	40311	2.200.101.75 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+595e1d4d
+r2d2
+1
+medium
+11th 07:42:52
+11th 07:42:52
+61.54.62.23 CN	59670	2.200.97.20 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+5045e3d1
+r2d2
+2
+medium
+11th 03:51:08
+11th 03:51:09
+61.153.224.158 CN	31681	2.200.101.86 DE	80 (http)	TCP	HTTP	2.200.101.86	potential php injection (suspicious)	(heuristic)
+e54a7115
+r2d2
+2
+medium
+11th 03:53:36
+11th 03:53:36
+61.153.224.158 CN	31681	2.200.101.86 DE	80 (http)	TCP	URL	(2.200.101.86)/mysql.php	web shells (suspicious)	(static)
+6ec63b8c
+r2d2
+3
+medium
+11th 03:52:16
+11th 03:54:43
+61.153.224.158 CN	31681	2.200.101.86 DE	80 (http)	TCP	URL	(2.200.101.86)/mm.php	web shells (suspicious)	(static)
+a0682fd9
+r2d2
+4
+medium
+11th 03:51:24
+11th 03:53:49
+61.153.224.158 CN	31681	2.200.101.86 DE	80 (http)	TCP	URL	/cmd.php	web shells (suspicious)	(static)
+cd235c39
+r2d2
+5
+medium
+11th 03:51:17
+11th 03:55:19
+61.153.224.158 CN	31681	2.200.101.86 DE	80 (http)	TCP	URL	(2.200.101.86)/shell.php	web shells (suspicious)	(static)
+fbf0876c
+r2d2
+1
+medium
+11th 09:48:07
+11th 09:48:07
+61.242.54.134 CN	27874	2.200.97.16 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+1c1dcbc7
+r2d2
+2
+medium
+11th 05:03:39
+11th 05:03:40
+69.10.62.12 US		2.200.109.16 DE	80 (http)	TCP	URL	2.200.109.16	potential remote code execution (suspicious)	(heuristic)
+3139620a
+r2d2
+3
+medium
+11th 03:03:08
+11th 11:11:30
+74.102.39.43 US			80 (http)	TCP	UA	XTC	user agent (suspicious)	(heuristic)
+2d560fc0
+r2d2
+1
+medium
+11th 10:18:24
+11th 10:18:24
+78.3.214.190 HR	19818	2.200.107.168 DE	53 (dns)	UDP	DNS	(static-cache.k2s).cc	domain (suspicious)	(static)
+c6f97ea3
+r2d2
+2
+medium
+11th 11:18:36
+11th 11:18:43
+80.120.197.10 AT		2.200.105.142 DE	80 (http)	TCP	UA		user agent (suspicious)	(heuristic)
+442c94af
+r2d2
+3
+medium
+11th 00:31:46
+11th 00:32:57
+84.110.106.22 IL	48354	2.200.104.185 DE	80 (http)	TCP	URL	2.200.104.185	potential remote code execution (suspicious)	(heuristic)
+b8a75a5f
+r2d2
+3
+low
+11th 05:34:44
+11th 05:35:52
+89.248.165.63 NL	59682			TCP	IP	89.248.165.63	potential port scanning	(heuristic)
+5e22421c
+r2d2
+3
+low
+11th 05:35:33
+11th 05:36:46
+89.248.165.69 NL	59731			TCP	IP	89.248.165.69	potential port scanning	(heuristic)
+a64a04a4
+r2d2
+7
+low
+11th 02:54:44
+11th 02:59:34
+91.123.157.56 UA				TCP	IP	91.123.157.56	potential port scanning	(heuristic)
+19097fe5
+r2d2
+13
+low
+11th 05:43:40
+11th 07:07:03
+91.228.53.246 DE				TCP	IP	91.228.53.246	potential port scanning	(heuristic)
+080cf298
+r2d2
+1
+medium
+11th 06:25:46
+11th 06:25:46
+94.156.58.36 BG	33644	2.200.105.137 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+2a9168bc
+r2d2
+2
+medium
+11th 11:37:27
+11th 11:37:27
+101.0.34.110 IN	23735	2.200.97.11 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+8b81ef51
+r2d2
+1
+medium
+11th 08:26:05
+11th 08:26:05
+101.0.41.56 IN	21962	2.200.110.136 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+b52b3fa3
+r2d2
+4
+medium
+11th 03:09:58
+11th 03:11:14
+101.109.242.42 TH	57905	2.200.104.187 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+50ab2292
+r2d2
+2
+medium
+11th 10:42:05
+11th 10:42:18
+103.47.104.227 IN	40503	2.200.104.188 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+3387a396
+r2d2
+3
+medium
+11th 04:28:36
+11th 04:29:37
+103.66.79.87 IN	8383	2.200.109.67 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+3d2bae6e
+r2d2
+3
+medium
+11th 03:14:57
+11th 03:15:21
+103.90.203.152 HK			80 (http)	TCP	URL	/cmd.php	web shells (suspicious)	(static)
+8bca787c
+r2d2
+3
+medium
+11th 03:14:49
+11th 03:15:47
+103.90.203.152 HK		2.200.107.193 DE	80 (http)	TCP	URL	(2.200.107.193)/shell.php	web shells (suspicious)	(static)
+6e833848
+r2d2
+2
+medium
+11th 04:51:55
+11th 04:51:55
+111.92.80.142 IN	38191		80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+7fb83f36
+r2d2
+1
+medium
+11th 06:46:07
+11th 06:46:07
+112.94.100.101 CN	15968	2.200.110.138 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+b3de017f
+r2d2
+1
+medium
+11th 05:20:57
+11th 05:20:57
+115.55.140.104 CN	40092	2.200.107.185 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+c17657c4
+r2d2
+2
+medium
+11th 09:42:21
+11th 09:42:21
+116.68.97.136 IN	60633	2.200.103.233 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+500372d4
+r2d2
+2
+medium
+11th 11:20:18
+11th 11:20:18
+116.68.97.174 IN	5388	2.200.97.16 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+b5fdf4be
+r2d2
+2
+medium
+11th 07:37:18
+11th 07:37:18
+117.192.224.154 IN	38938	2.200.110.148 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+ac7108a9
+r2d2
+2
+medium
+11th 04:54:02
+11th 04:54:02
+117.196.48.118 IN	43627	2.200.109.74 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+19d8183f
+r2d2
+2
+medium
+11th 07:11:53
+11th 07:11:53
+117.202.64.241 IN	44258	2.200.101.86 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+6da709b3
+r2d2
+1
+medium
+11th 07:09:40
+11th 07:09:40
+117.247.207.103 IN	44418	2.200.107.155 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+8e6263fa
+r2d2
+1
+medium
+11th 07:21:05
+11th 07:21:05
+119.251.177.128 CN	47363	2.200.110.229 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+0d2c0428
+r2d2
+1
+low
+11th 03:44:26
+11th 03:44:26
+120.204.196.129 CN		2.200.108.85 DE		TCP	IP	120.204.196.129	potential port scanning	(heuristic)
+1929c8a7
+r2d2
+2
+medium
+11th 03:41:18
+11th 03:41:18
+121.152.249.240 KR	58571		80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+cb4b5905
+r2d2
+2
+low
+11th 08:28:33
+11th 08:28:33
+121.196.38.127 CN		2.200.110.234 DE		TCP	IP	121.196.38.127	potential port scanning	(heuristic)
+2e9b0828
+r2d2
+1
+medium
+11th 02:32:30
+11th 02:32:30
+122.232.192.170 CN	60449	2.200.107.167 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+65978b2d
+r2d2
+2
+medium
+11th 09:56:57
+11th 09:56:57
+123.4.91.151 CN	49612	2.200.110.229 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+a5316520
+r2d2
+2
+low
+11th 06:24:38
+11th 06:24:41
+123.57.210.106 CN		2.200.103.182 DE		TCP	IP	123.57.210.106	potential port scanning	(heuristic)
+b30da384
+r2d2
+3
+medium
+11th 09:39:08
+11th 09:40:40
+123.235.174.67 CN	47928	2.200.109.88 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+2d42c9c0
+r2d2
+1
+medium
+11th 10:24:38
+11th 10:24:38
+123.235.224.127 CN	50953	2.200.110.139 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+37811c60
+r2d2
+1
+medium
+11th 02:32:26
+11th 02:32:26
+125.26.202.91 TH	45640	2.200.97.15 DE	80 (http)	TCP	URL	(2.200.97.15)/mysql.php	web shells (suspicious)	(static)
+1adf48ec
+r2d2
+2
+medium
+11th 02:29:19
+11th 02:29:20
+125.26.202.91 TH	58108	2.200.97.15 DE	80 (http)	TCP	HTTP	2.200.97.15	potential php injection (suspicious)	(heuristic)
+47989bed
+r2d2
+2
+medium
+11th 02:31:30
+11th 02:33:12
+125.26.202.91 TH		2.200.97.15 DE	80 (http)	TCP	URL	(2.200.97.15)/mm.php	web shells (suspicious)	(static)
+d7c5b3d3
+r2d2
+4
+medium
+11th 02:29:29
+11th 02:32:36
+125.26.202.91 TH		2.200.97.15 DE	80 (http)	TCP	URL	/cmd.php	web shells (suspicious)	(static)
+dca6f7d0
+r2d2
+4
+medium
+11th 02:29:23
+11th 02:33:16
+125.26.202.91 TH		2.200.97.15 DE	80 (http)	TCP	URL	(2.200.97.15)/shell.php	web shells (suspicious)	(static)
+c805603a
+r2d2
+2
+medium
+11th 07:46:11
+11th 07:46:11
+125.41.214.9 CN	48690	2.200.97.31 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+9824fa54
+r2d2
+1
+medium
+11th 09:24:43
+11th 09:24:43
+125.43.254.85 CN	41486	2.200.101.86 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+cab2bec7
+r2d2
+1
+medium
+11th 07:26:52
+11th 07:26:52
+125.47.96.43 CN	47543	2.200.107.177 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+593e539e
+r2d2
+1
+medium
+11th 12:55:53
+11th 12:55:53
+134.126.118.208 US	58016	2.200.107.253 DE	80 (http)	TCP	UA	cock 	user agent (suspicious)	(heuristic)
+b2f91035
+r2d2
+3
+medium
+11th 02:06:10
+11th 02:07:21
+139.199.65.226 CN			80 (http)	TCP	URL	/cmd.php	web shells (suspicious)	(static)
+a7efa1e5
+r2d2
+4
+medium
+11th 02:05:59
+11th 02:08:14
+139.199.65.226 CN			80 (http)	TCP	URL	(2.200.106.86)/shell.php	web shells (suspicious)	(static)
+90a93a72
+r2d2
+1
+medium
+11th 02:30:26
+11th 02:30:26
+149.129.50.37 SG	56426	2.200.107.171 DE	80 (http)	TCP	HTTP	http://www.proxylists.net/	potential proxy probe (suspicious)	(heuristic)
+4ad0ce13
+r2d2
+2
+medium
+11th 07:33:00
+11th 07:33:40
+154.209.5.156 HK		2.200.107.165 DE	80 (http)	TCP	URL	/cmd.php	web shells (suspicious)	(static)
+acf313e9
+r2d2
+2
+medium
+11th 07:32:29
+11th 07:32:34
+154.209.5.156 HK		2.200.107.165 DE	80 (http)	TCP	HTTP	2.200.107.165	potential php injection (suspicious)	(heuristic)
+f686b536
+r2d2
+3
+medium
+11th 07:32:47
+11th 07:34:16
+154.209.5.156 HK		2.200.107.165 DE	80 (http)	TCP	URL	(2.200.107.165)/shell.php	web shells (suspicious)	(static)
+ef5447fd
+r2d2
+2
+low
+11th 11:00:36
+11th 11:00:36
+155.254.29.77 US		2.200.104.32 DE		TCP	IP	155.254.29.77	potential port scanning	(heuristic)
+054777a9
+r2d2
+2
+medium
+11th 06:26:20
+11th 06:26:47
+161.82.246.91 TH		2.200.105.142 DE	80 (http)	TCP	URL	/cmd.php	web shells (suspicious)	(static)
+07ad9e07
+r2d2
+3
+medium
+11th 06:26:11
+11th 06:27:13
+161.82.246.91 TH		2.200.105.142 DE	80 (http)	TCP	URL	(2.200.105.142)/shell.php	web shells (suspicious)	(static)
+ba25c70a
+r2d2
+3
+medium
+11th 06:25:55
+11th 06:26:01
+161.82.246.91 TH		2.200.105.142 DE	80 (http)	TCP	HTTP	2.200.105.142	potential php injection (suspicious)	(heuristic)
+1d8fedc7
+r2d2
+44
+medium
+11th 05:56:00
+11th 08:00:35
+164.68.112.178 DE	40728		80 (http)	TCP	UA	masscan	user agent (suspicious)	(heuristic)
+22824d80
+r2d2
+1
+high
+11th 08:21:58
+11th 08:21:58
+172.16.70.102 LAN	53 (dns)	10.128.8.51 LAN	51084	UDP	DNS	disorderstatus.ru	sinkholed by bitsight (malware)	(heuristic)
+37c9c6e7
+r2d2
+1
+medium
+11th 10:10:45
+11th 10:10:45
+172.16.70.102 LAN	53 (dns)	10.125.134.18 LAN	50698	UDP	DNS	(wordpresscommerce).net	consonant threshold no such domain (suspicious)	(heuristic)
+d5bf04be
+r2d2
+2
+high
+11th 07:45:25
+11th 10:48:44
+172.16.70.102 LAN	53 (dns)	10.124.162.65 LAN		UDP	DNS	pfpcwbw.info	sinkholed by securityscorecard (malware)	(heuristic)
+91486d07
+r2d2
+9
+high
+11th 07:44:20
+11th 10:51:26
+172.16.70.102 LAN	53 (dns)	10.124.162.65 LAN		UDP	DNS	.ws	sinkholed by farsight (malware)	(heuristic)
+5c17b218
+r2d2
+3
+medium
+11th 01:01:49
+11th 04:48:26
+172.98.64.135 CA			80 (http)	TCP	UA	B4ckdoor(-owned-you)	user agent (suspicious)	(heuristic)
+55f75004
+r2d2
+2
+medium
+11th 00:51:05
+11th 00:51:05
+172.217.40.3 NL	59509	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+48b5069c
+r2d2
+1
+medium
+11th 00:51:09
+11th 00:51:09
+172.217.40.5 NL	38431	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+3d88c837
+r2d2
+1
+medium
+11th 00:51:13
+11th 00:51:13
+172.217.40.11 NL	64262	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+b69cb84a
+r2d2
+2
+medium
+11th 00:51:06
+11th 00:51:06
+172.217.40.70 NL	39333	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+848566b7
+r2d2
+2
+medium
+11th 00:51:15
+11th 00:51:15
+172.217.40.72 NL	50628	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+b301fd3c
+r2d2
+2
+medium
+11th 00:51:17
+11th 00:51:17
+172.217.41.1 NL	47535	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+4d0679b7
+r2d2
+1
+medium
+11th 00:51:05
+11th 00:51:05
+172.217.41.2 NL	58387	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+3a28cebf
+r2d2
+1
+medium
+11th 00:51:20
+11th 00:51:20
+172.217.41.7 NL	63580	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+c1a96215
+r2d2
+2
+medium
+11th 00:51:04
+11th 00:51:04
+173.194.169.1 NL	60075	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+a159251f
+r2d2
+2
+medium
+11th 00:51:13
+11th 00:51:13
+173.194.169.5 NL	64860	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+88113529
+r2d2
+2
+medium
+11th 00:51:10
+11th 00:51:10
+173.194.169.6 NL	62463	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+9d005374
+r2d2
+1
+medium
+11th 00:51:17
+11th 00:51:17
+173.194.169.105 NL	42847	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+7e4d44dc
+r2d2
+1
+medium
+11th 00:51:08
+11th 00:51:08
+173.194.169.106 NL	60943	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+7071285c
+r2d2
+2
+medium
+11th 00:51:19
+11th 00:51:19
+173.194.169.109 NL	41833	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+099db41c
+r2d2
+2
+medium
+11th 00:51:11
+11th 00:51:11
+173.194.170.7 NL	63467	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+713bb64c
+r2d2
+2
+medium
+11th 00:51:20
+11th 00:51:20
+173.194.170.69 NL	59813	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+a923c652
+r2d2
+2
+medium
+11th 00:51:18
+11th 00:51:18
+173.194.170.72 NL	56425	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+ea636c91
+r2d2
+1
+medium
+11th 00:51:10
+11th 00:51:10
+173.194.170.73 NL	55074	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+a3af1732
+r2d2
+1
+medium
+11th 00:51:09
+11th 00:51:09
+173.194.170.97 NL	56285	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+ddeb3d4a
+r2d2
+1
+medium
+11th 00:51:04
+11th 00:51:04
+173.194.170.98 NL	57671	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+9ac9456e
+r2d2
+1
+medium
+11th 00:51:11
+11th 00:51:11
+173.194.170.106 NL	64807	2.200.104.43 DE	53 (dns)	UDP	DNS	.redacted.com	long domain (suspicious)	(heuristic)
+a58a1468
+r2d2
+1
+medium
+11th 00:39:37
+11th 00:39:37
+177.135.196.242 BR	33046	2.200.107.165 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+2bffc3f2
+r2d2
+1
+medium
+11th 04:18:45
+11th 04:18:45
+178.17.174.14 MD	44856	2.200.109.24 DE	80 (http)	TCP	UA	ANGEL 	user agent (suspicious)	(heuristic)
+8aaa4539
+r2d2
+1
+medium
+11th 05:40:55
+11th 05:40:55
+178.17.174.14 MD	37114	2.200.109.24 DE	80 (http)	TCP	UA	Hello 	user agent (suspicious)	(heuristic)
+8f3015ec
+r2d2
+1
+medium
+11th 00:49:12
+11th 00:49:12
+178.17.174.14 MD	53076	2.200.109.24 DE	80 (http)	TCP	UA	Solar 	user agent (suspicious)	(heuristic)
+93e342dc
+r2d2
+1
+medium
+11th 04:42:50
+11th 04:42:50
+178.17.174.14 MD	43440	2.200.109.24 DE	80 (http)	TCP	UA	=Mozilla	user agent (suspicious)	(heuristic)
+ab82dab6
+r2d2
+1
+medium
+11th 12:29:35
+11th 12:29:35
+178.17.174.14 MD	42554	2.200.109.24 DE	80 (http)	TCP	UA	undefined 	user agent (suspicious)	(heuristic)
+b0757fe7
+r2d2
+1
+medium
+11th 09:36:32
+11th 09:36:32
+178.17.174.14 MD	57620	2.200.109.24 DE	80 (http)	TCP	UA	HITO 	user agent (suspicious)	(heuristic)
+bcc42717
+r2d2
+1
+medium
+11th 04:17:13
+11th 04:17:13
+178.17.174.14 MD	40908	2.200.109.24 DE	80 (http)	TCP	UA	VEGA 	user agent (suspicious)	(heuristic)
+0303a18f
+r2d2
+2
+medium
+11th 12:28:35
+11th 12:28:35
+178.17.174.14 MD	39378	2.200.109.24 DE	80 (http)	TCP	UA		user agent (suspicious)	(heuristic)
+06d02e28
+r2d2
+2
+medium
+11th 05:18:23
+11th 05:18:23
+178.17.174.14 MD	40366	2.200.109.24 DE	80 (http)	TCP	UA	Hydra 	user agent (suspicious)	(heuristic)
+0a6d6bef
+r2d2
+2
+medium
+11th 01:53:25
+11th 12:52:15
+178.17.174.14 MD		2.200.109.24 DE	80 (http)	TCP	UA	Google Chrome 	user agent (suspicious)	(heuristic)
+6f57c891
+r2d2
+2
+medium
+11th 01:32:01
+11th 01:32:01
+178.17.174.14 MD	56474	2.200.109.24 DE	80 (http)	TCP	UA	Xxx 	user agent (suspicious)	(heuristic)
+b53058b8
+r2d2
+2
+medium
+11th 08:13:56
+11th 08:13:56
+178.17.174.14 MD	40358	2.200.109.24 DE	80 (http)	TCP	UA	internet ninja 	user agent (suspicious)	(heuristic)
+cdc5adb3
+r2d2
+2
+medium
+11th 08:41:44
+11th 08:41:44
+178.17.174.14 MD	55256	2.200.109.24 DE	80 (http)	TCP	UA	MyIE 	user agent (suspicious)	(heuristic)
+d03c872f
+r2d2
+2
+medium
+11th 05:47:03
+11th 05:47:03
+178.17.174.14 MD	54086	2.200.109.24 DE	80 (http)	TCP	UA	WindowsNT 	user agent (suspicious)	(heuristic)
+ffb69d07
+r2d2
+2
+medium
+11th 00:31:47
+11th 02:46:58
+178.17.174.14 MD		2.200.109.24 DE	80 (http)	TCP	UA	Vega 	user agent (suspicious)	(heuristic)
+0ea5f64c
+r2d2
+3
+medium
+11th 06:56:15
+11th 11:15:52
+178.17.174.14 MD		2.200.109.24 DE	80 (http)	TCP	UA	Gemini 	user agent (suspicious)	(heuristic)
+6402f4eb
+r2d2
+3
+medium
+11th 03:40:51
+11th 10:41:45
+178.17.174.14 MD		2.200.109.24 DE	80 (http)	TCP	UA	mozila 	user agent (suspicious)	(heuristic)
+88d3ce04
+r2d2
+3
+medium
+11th 06:36:02
+11th 06:37:02
+178.17.174.14 MD	44164	2.200.109.24 DE	80 (http)	TCP	UA	() { :;	user agent (suspicious)	(heuristic)
+0e893268
+r2d2
+4
+medium
+11th 01:19:44
+11th 12:23:56
+178.17.174.14 MD		2.200.109.24 DE	80 (http)	TCP	UA	MS Internet Explorer 	user agent (suspicious)	(heuristic)
+677b57c2
+r2d2
+4
+medium
+11th 01:00:53
+11th 11:04:40
+178.17.174.14 MD		2.200.109.24 DE	80 (http)	TCP	UA	HELLO 	user agent (suspicious)	(heuristic)
+ba507608
+r2d2
+4
+medium
+11th 04:49:31
+11th 10:27:22
+178.17.174.14 MD		2.200.109.24 DE	80 (http)	TCP	UA	NetHelper 	user agent (suspicious)	(heuristic)
+f66de6ca
+r2d2
+4
+medium
+11th 04:48:31
+11th 12:39:50
+178.17.174.14 MD		2.200.109.24 DE	80 (http)	TCP	UA	sun4u 	user agent (suspicious)	(heuristic)
+ad8d6b97
+r2d2
+18
+medium
+11th 00:04:46
+11th 12:15:12
+178.17.174.14 MD		2.200.109.24 DE	80 (http)	TCP	UA	IE0006_ver1 	user agent (suspicious)	(heuristic)
+d4ba5091
+r2d2
+22
+medium
+11th 00:24:31
+11th 12:57:58
+178.17.174.14 MD		2.200.109.24 DE	80 (http)	TCP	UA	Synapse 	user agent (suspicious)	(heuristic)
+f555bf1b
+r2d2
+180
+medium
+11th 00:05:25
+11th 12:54:59
+178.17.174.14 MD		2.200.109.24 DE	80 (http)	TCP	UA	FunWebProducts 	user agent (suspicious)	(heuristic)
+2e3da97f
+r2d2
+1
+medium
+11th 12:09:59
+11th 12:09:59
+178.72.68.3 RU	11175	2.200.110.97 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+9b73dd46
+r2d2
+1
+medium
+11th 01:16:40
+11th 01:16:40
+178.72.71.120 RU	1725	2.200.107.138 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+a50197a1
+r2d2
+1
+medium
+11th 12:47:40
+11th 12:47:40
+178.141.136.143 RU	55030	2.200.110.169 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+e0b37c87
+r2d2
+1
+medium
+11th 11:54:23
+11th 11:54:23
+178.159.37.104 UA	61287	2.200.107.255 DE	80 (http)	TCP	UA	Mozilla/4.7(6 [en] (Windows NT 5.0; U))	user agent (suspicious)	(heuristic)
+d4a73679
+r2d2
+2
+medium
+11th 11:08:54
+11th 11:08:54
+180.127.98.51 CN	10945	2.200.107.199 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+8378c251
+r2d2
+1
+medium
+11th 12:06:59
+11th 12:06:59
+180.188.241.254 IN	3810	2.200.105.141 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+e49e79b5
+r2d2
+3
+medium
+11th 08:51:42
+11th 08:52:04
+182.114.64.20 CN	45377	2.200.103.164 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+f3796b9e
+r2d2
+2
+medium
+11th 01:41:18
+11th 01:41:18
+182.117.70.178 CN	43211	2.200.110.209 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+136702d8
+r2d2
+2
+medium
+11th 03:09:26
+11th 03:09:26
+182.117.107.71 CN	48668		80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+985389f4
+r2d2
+4
+medium
+11th 07:37:43
+11th 07:39:05
+182.119.162.159 CN	51945	2.200.104.188 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+d3819179
+r2d2
+2
+medium
+11th 07:51:44
+11th 07:51:44
+190.145.118.122 CO	37084	2.200.104.36 DE	80 (http)	TCP	HTTP	111.7.173.120	potential remote code execution (suspicious)	(heuristic)
+90bedbef
+r2d2
+1
+medium
+11th 12:13:56
+11th 12:13:56
+192.168.20.1 LAN	53836	192.168.0.8 LAN	53 (dns)	UDP	DNS	(pro).ip-api.com	ipinfo (suspicious)	(static)
+d7451344
+r2d2
+1
+medium
+11th 09:49:19
+11th 09:49:19
+192.168.20.1 LAN	53646	192.168.0.8 LAN	53 (dns)	UDP	DNS	(cdn).special-offers.online	pushbug (malicious)	(static)
+716ae011
+r2d2
+2
+medium
+11th 08:39:17
+11th 10:31:53
+192.168.20.1 LAN		192.168.0.8 LAN	53 (dns)	UDP	DNS	ntsecd.com	pushbug (malicious)	(static)
+cfdbad43
+r2d2
+2
+medium
+11th 08:53:02
+11th 09:49:46
+192.168.20.1 LAN		192.168.0.8 LAN	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+79aa15c2
+r2d2
+9
+medium
+11th 08:06:54
+11th 12:52:38
+192.168.20.1 LAN		192.168.0.8 LAN	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+74046423
+r2d2
+13
+medium
+11th 08:28:07
+11th 10:35:42
+192.168.20.1 LAN		192.168.0.8 LAN	53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+2d129630
+r2d2
+1
+medium
+11th 08:28:14
+11th 08:28:14
+192.168.20.69 LAN	53042	192.168.0.8 LAN	53 (dns)	UDP	DNS	(go.whiteanemone).xyz	domain (suspicious)	(static)
+bd8b6a23
+r2d2
+1
+medium
+11th 12:13:56
+11th 12:13:56
+192.168.20.69 LAN	60486	192.168.0.8 LAN	53 (dns)	UDP	DNS	(pro).ip-api.com	ipinfo (suspicious)	(static)
+e19e5bd4
+r2d2
+1
+medium
+11th 09:49:46
+11th 09:49:46
+192.168.20.69 LAN	64366	192.168.0.8 LAN	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+bbe3811f
+r2d2
+3
+medium
+11th 10:06:21
+11th 10:46:13
+192.168.20.226 LAN		192.168.0.8 LAN	53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+3323d821
+r2d2
+2
+medium
+11th 12:52:38
+11th 12:52:38
+192.168.20.239 LAN	62148	192.168.0.8 LAN	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+38f5caf6
+r2d2
+3
+medium
+11th 10:08:07
+11th 10:10:20
+192.168.30.111 LAN		185.53.177.52 DE	443 (https)	TCP	IP	185.53.177.52	parking site (suspicious)	(static)
+4a794354
+r2d2
+1
+medium
+11th 12:53:20
+11th 12:53:20
+192.168.30.251 LAN	51763	208.91.197.46 VG	53 (dns)	UDP	IP	208.91.197.46 (www.cityhotelmn.com)	parking site (suspicious)	(static)
+22bb0598
+r2d2
+2
+medium
+11th 07:51:34
+11th 07:51:34
+192.168.30.251 LAN			53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+59fddb51
+r2d2
+2
+medium
+11th 12:51:55
+11th 12:51:56
+192.168.30.251 LAN			53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+6b2d0c20
+r2d2
+2
+medium
+11th 10:48:05
+11th 10:48:05
+192.168.30.251 LAN			53 (dns)	UDP	DNS	ammankeyan.com	ek router (malicious)	(static)
+78ea7c4c
+r2d2
+2
+medium
+11th 08:06:38
+11th 08:06:38
+192.168.30.251 LAN			53 (dns)	UDP	DNS	(i.rmbl).ws	domain (suspicious)	(static)
+89912f04
+r2d2
+2
+medium
+11th 07:42:41
+11th 07:42:41
+192.168.30.251 LAN			53 (dns)	UDP	DNS	(2fa-otp).xyz	domain (suspicious)	(static)
+f2b76b7b
+r2d2
+2
+medium
+11th 11:47:24
+11th 11:47:24
+192.168.30.251 LAN			53 (dns)	UDP	DNS	api.db-ip.com	ipinfo (suspicious)	(static)
+cd0ed1d3
+r2d2
+3
+medium
+11th 10:49:51
+11th 12:43:57
+192.168.30.251 LAN			53 (dns)	UDP	DNS	(octopod).cc	domain (suspicious)	(static)
+b79ad9f0
+r2d2
+5
+medium
+11th 08:31:28
+11th 12:28:11
+192.168.30.251 LAN			53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+79e6dfe0
+r2d2
+16
+medium
+11th 07:48:41
+11th 12:47:07
+192.168.30.251 LAN			53 (dns)	UDP	DNS	(cdn).special-offers.online	pushbug (malicious)	(static)
+513bf59c
+r2d2
+1
+medium
+11th 12:53:25
+11th 12:53:25
+192.168.30.252 LAN	54638	208.91.197.46 VG	53 (dns)	UDP	IP	208.91.197.46 (www.cityhotelmn.com)	parking site (suspicious)	(static)
+278a2544
+r2d2
+2
+medium
+11th 11:47:24
+11th 11:47:32
+192.168.30.252 LAN			53 (dns)	UDP	DNS	api.db-ip.com	ipinfo (suspicious)	(static)
+2a587f79
+r2d2
+2
+medium
+11th 10:48:05
+11th 10:48:11
+192.168.30.252 LAN	54716		53 (dns)	UDP	DNS	ammankeyan.com	ek router (malicious)	(static)
+a36e372a
+r2d2
+2
+medium
+11th 08:06:38
+11th 08:06:46
+192.168.30.252 LAN			53 (dns)	UDP	DNS	(i.rmbl).ws	domain (suspicious)	(static)
+cef3abcf
+r2d2
+2
+medium
+11th 07:51:34
+11th 07:51:41
+192.168.30.252 LAN			53 (dns)	UDP	DNS	ipinfo.io	ipinfo (suspicious)	(static)
+d6c4465d
+r2d2
+2
+medium
+11th 12:51:56
+11th 12:51:59
+192.168.30.252 LAN	56161	213.147.96.51 HR	53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+8b3e52a4
+r2d2
+4
+medium
+11th 08:31:28
+11th 12:28:19
+192.168.30.252 LAN			53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+c789316c
+r2d2
+4
+medium
+11th 10:49:52
+11th 12:44:03
+192.168.30.252 LAN			53 (dns)	UDP	DNS	(octopod).cc	domain (suspicious)	(static)
+258723d0
+r2d2
+18
+medium
+11th 07:48:41
+11th 12:47:15
+192.168.30.252 LAN			53 (dns)	UDP	DNS	(cdn).special-offers.online	pushbug (malicious)	(static)
+d8e7b477
+r2d2
+3
+medium
+11th 09:46:46
+11th 11:45:50
+192.168.136.20 LAN		192.168.239.10 LAN	53 (dns)	UDP	DNS	ip-api.com	ipinfo (suspicious)	(static)
+22e5d033
+r2d2
+1
+medium
+11th 12:32:51
+11th 12:32:51
+192.168.136.51 LAN	40530	47.88.68.20 US	80 (http)	TCP	HTTP	47.88.68.20	potential data leakage (suspicious)	(heuristic)
+02c7a4a1
+r2d2
+2
+medium
+11th 09:09:45
+11th 11:57:55
+192.168.136.51 LAN		192.168.239.10 LAN	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+2b2ea154
+r2d2
+2
+medium
+11th 12:26:52
+11th 12:26:56
+192.168.136.51 LAN		198.11.136.14 US	80 (http)	TCP	HTTP	amdc.aliexpress.com	potential data leakage (suspicious)	(heuristic)
+a3db1df3
+r2d2
+12
+high
+11th 09:18:18
+11th 09:57:31
+192.168.137.16 LAN			53 (dns)	UDP	DNS	epicunitscan.info	patchbrowse (malware)	(static)
+66423b4d
+r2d2
+2
+medium
+11th 08:19:20
+11th 08:19:20
+192.168.137.65 LAN	65328		53 (dns)	UDP	DNS	(pro).ip-api.com	ipinfo (suspicious)	(static)
+030343d0
+r2d2
+2
+medium
+11th 11:05:00
+11th 11:05:00
+192.168.137.67 LAN	62599		53 (dns)	UDP	DNS	(ipv4).icanhazip.com	ipinfo (suspicious)	(static)
+ad8cc57e
+r2d2
+2
+medium
+11th 12:20:54
+11th 12:20:55
+192.168.137.83 LAN		192.168.239.10 LAN	53 (dns)	UDP	DNS	(www).trust.com	domain (suspicious)	(static)
+cd145bf5
+r2d2
+3
+medium
+11th 09:11:47
+11th 12:37:51
+192.168.137.83 LAN		192.168.239.10 LAN	53 (dns)	UDP	DNS	(popcorntimeupd).xyz	domain (suspicious)	(static)
+3391cb13
+r2d2
+2
+medium
+11th 08:07:55
+11th 08:07:57
+192.168.137.119 LAN		18.213.250.117 US	80 (http)	TCP	IP	18.213.250.117 (www.amcdaca.org)	parking site (suspicious)	(static)
+b081e58a
+r2d2
+3
+medium
+11th 09:22:33
+11th 09:26:43
+192.168.137.140 LAN			53 (dns)	UDP	DNS	.ipaddress.com	ipinfo (suspicious)	(static)
+746ca983
+r2d2
+1
+medium
+11th 09:34:22
+11th 09:34:22
+192.168.137.142 LAN	53724	192.168.239.11 LAN	53 (dns)	UDP	DNS	(go.cp4srvng).xyz	domain (suspicious)	(static)
+8dc72b56
+r2d2
+1
+medium
+11th 08:58:13
+11th 08:58:13
+192.168.137.148 LAN	57606	192.168.239.10 LAN	53 (dns)	UDP	DNS	(go.cp4srvng).xyz	domain (suspicious)	(static)
+de0de56d
+r2d2
+2
+medium
+11th 12:48:24
+11th 12:48:24
+192.168.137.148 LAN	61150		53 (dns)	UDP	DNS	(tracepath).cc	domain (suspicious)	(static)
+a6f9e632
+r2d2
+5
+medium
+11th 08:58:13
+11th 12:48:24
+192.168.137.148 LAN			53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+d5efb4dd
+r2d2
+3
+medium
+11th 12:14:20
+11th 12:17:33
+192.168.137.169 LAN		192.168.239.10 LAN	53 (dns)	UDP	DNS	(equited-basects).icu	domain (suspicious)	(static)
+20331bdb
+r2d2
+8
+medium
+11th 09:18:29
+11th 12:01:49
+192.168.137.170 LAN			53 (dns)	UDP	DNS	.myway.com	pua (suspicious)	(static)
+691f2ca4
+r2d2
+2
+medium
+11th 11:09:15
+11th 11:09:15
+192.168.137.177 LAN	62180		53 (dns)	UDP	DNS	jsonip.com	ipinfo (suspicious)	(static)
+76908706
+r2d2
+1
+medium
+11th 09:37:41
+11th 09:37:41
+192.168.137.183 LAN	54436	192.168.239.10 LAN	53 (dns)	UDP	DNS	ofhappinyer.com	pushbug (malicious)	(static)
+06e9e5de
+r2d2
+2
+medium
+11th 10:44:52
+11th 10:44:52
+192.168.137.183 LAN	51640		53 (dns)	UDP	DNS	feed-6009.coderformylife.info	pushbug (malicious)	(static)
+4c7ee2eb
+r2d2
+2
+medium
+11th 09:37:41
+11th 09:37:41
+192.168.137.183 LAN	54650	192.168.239.10 LAN	53 (dns)	UDP	DNS	(go.cp4srvng).xyz	domain (suspicious)	(static)
+3107e24e
+r2d2
+1
+medium
+11th 11:05:46
+11th 11:05:46
+192.168.137.248 LAN	50786	192.168.239.10 LAN	53 (dns)	UDP	DNS	ipapi.co	ipinfo (suspicious)	(static)
+7dee3302
+r2d2
+2
+medium
+11th 09:05:12
+11th 09:05:12
+192.168.138.1 LAN	60874		53 (dns)	UDP	DNS	(www.seedr).cc	domain (suspicious)	(static)
+f88b17fb
+r2d2
+2
+medium
+11th 09:47:34
+11th 09:47:34
+192.168.138.62 LAN	62303		53 (dns)	UDP	DNS	(tracepath).cc	domain (suspicious)	(static)
+2c740e75
+r2d2
+5
+medium
+11th 08:47:40
+11th 12:45:38
+192.168.138.62 LAN			53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+ecca21f2
+r2d2
+2
+medium
+11th 12:39:02
+11th 12:39:03
+192.168.138.74 LAN		192.168.239.10 LAN	53 (dns)	UDP	DNS	.xyz	domain (suspicious)	(static)
+544c3d32
+r2d2
+2
+medium
+11th 10:06:41
+11th 10:06:41
+192.168.138.91 LAN	61765		53 (dns)	UDP	DNS	(zh).us.to	dynamic domain (suspicious)	(static)
+e70cf078
+r2d2
+1
+medium
+11th 08:07:56
+11th 08:07:56
+192.168.239.10 LAN	53 (dns)	192.168.137.119 LAN	65502	UDP	DNS	(parkcloud.dynadot).com	parked site (suspicious)	(heuristic)
+c32c4795
+r2d2
+1
+medium
+11th 12:09:15
+11th 12:09:15
+192.168.239.11 LAN	53 (dns)	192.168.137.134 LAN	58227	UDP	DNS	(www.bendin-cds).com	parked site (suspicious)	(heuristic)
+bee2dd63
+r2d2
+3
+medium
+11th 08:07:54
+11th 10:29:13
+192.168.239.11 LAN	53 (dns)			UDP	DNS	.org	parked site (suspicious)	(heuristic)
+7f1406be
+r2d2
+1
+medium
+11th 02:40:20
+11th 02:40:20
+193.8.83.32 KR	11933	2.200.103.237 DE	80 (http)	TCP	URL	(2.200.103.237/images/stories)/cmd.php	web shells (suspicious)	(static)
+b4637f68
+r2d2
+2
+medium
+11th 02:38:15
+11th 02:38:27
+193.8.83.32 KR			80 (http)	TCP	HTTP	2.200.103.237	potential php injection (suspicious)	(heuristic)
+13ebd440
+r2d2
+3
+medium
+11th 02:38:48
+11th 02:39:19
+193.8.83.32 KR			80 (http)	TCP	URL	(2.200.103.237)/shell.php	web shells (suspicious)	(static)
+01c5b1fe
+r2d2
+3
+medium
+11th 09:18:15
+11th 09:19:31
+193.198.251.10 HR		2.200.104.34 DE	80 (http)	TCP	URL	webmail.redacted.com	direct .dll download (suspicious)	(heuristic)
+48e725ad
+r2d2
+1
+medium
+11th 02:30:42
+11th 02:30:42
+202.134.159.238 IN	49842	2.200.110.211 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+c1ebfeb6
+r2d2
+3
+medium
+11th 01:10:23
+11th 01:11:25
+202.164.138.192 IN	44298	2.200.104.34 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+d6bf7e18
+r2d2
+2
+medium
+11th 11:20:19
+11th 11:20:19
+202.164.139.123 IN	15663	2.200.110.148 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+18b25115
+r2d2
+1
+medium
+11th 11:52:39
+11th 11:52:39
+202.164.139.164 IN	58330	2.200.107.188 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+243b6f69
+r2d2
+1
+medium
+11th 04:22:32
+11th 04:22:32
+203.115.73.35 IN	16781	2.200.106.89 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+197c53aa
+r2d2
+8
+medium
+11th 07:07:52
+11th 12:12:02
+208.67.222.123 US	53 (dns)	2.200.105.226 DE		UDP	DNS	.com	parked site (suspicious)	(heuristic)
+f344f3e3
+r2d2
+1
+low
+11th 07:32:02
+11th 07:32:02
+218.4.219.30 CN		2.200.100.56 DE		TCP	IP	218.4.219.30	potential port scanning	(heuristic)
+5dce18e6
+r2d2
+2
+medium
+11th 04:19:05
+11th 04:19:05
+219.154.102.162 CN	43656	2.200.110.252 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+971369ab
+r2d2
+2
+medium
+11th 07:58:46
+11th 07:58:46
+219.157.20.99 CN	38257	2.200.103.231 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+fafdb7a5
+r2d2
+2
+medium
+11th 06:47:46
+11th 06:47:46
+222.139.124.104 CN	35461	2.200.110.157 DE	80 (http)	TCP	UA	Hello, World	user agent (suspicious)	(heuristic)
+24bc92cc
+r2d2
+2
+medium
+11th 11:27:31
+11th 11:27:31
+222.247.121.143 CN	4692	2.200.108.51 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+50aed0e1
+r2d2
+2
+medium
+11th 11:35:46
+11th 11:35:46
+223.149.255.76 CN	21278	2.200.110.229 DE	80 (http)	TCP	UA	Hello, world	user agent (suspicious)	(heuristic)
+Showing 1 to 1,182 of 1,182 threatsPrevious1Next
+2021-01-11 10:59:34.313994
+53275, 53666
+2021-01-11 09:02:51.769084
+2021-01-11 12:30:34.186168
+2021-01-11 10:17:41.576272
+2021-01-11 10:29:45.738045
+DE
+DE
+please wait...
+US
+please wait...
+DE
+please wait...
+please wait...
+please wait...
+please wait...
+please wait...
+please wait...
